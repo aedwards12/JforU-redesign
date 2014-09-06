@@ -1,6 +1,4 @@
-class WelcomeController < ActionController::Base
-  
-  def index
+class WelcomeController < ApplicationController
+  def home
   end
-  
 end
