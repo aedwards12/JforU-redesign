@@ -6,6 +6,8 @@ $logo-color: rgba(130, 21, 255, 0.7);
 $hot_pink: rgba(255, 63, 255, 0.9);
 
 
+
+/*header section*/
 header {
 
 	margin-left: 2em;
@@ -34,6 +36,7 @@ header {
 	}	
 }
 
+/*navigation section*/
 nav{
 	clear: left;
 	width: 100%;
@@ -45,6 +48,9 @@ nav{
 
 		list-style-type: none;
 		
+		a{
+			color: white;
+		}
 		li{
 			display: inline-block;
 			font-size: 120%;
@@ -52,7 +58,6 @@ nav{
 			width: 6em;
 			height: 100%;
 			text-align: center;
-	
 		}
 
 		li:hover{
@@ -63,6 +68,7 @@ nav{
 	}
 }
 
+/*image section*/
 .intro-images{
 	height: 25em;
 	width: 100%;
