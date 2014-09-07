@@ -3,7 +3,7 @@ $hot_pink: rgba(255, 63, 255, 0.9);
 
 
 body{
-	background-image:url("beauty-backgrounds1.jpg");
+	background-image: image-url("beauty-backgrounds1.jpg");
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	background-size: 100%, auto;
@@ -80,7 +80,7 @@ footer{
   	height: 18em;
   	margin-top: 1em;
   	margin-left: 4em;
-  	background-image: url("map.png");
+  	background-image:  image-url("map.png");
   	background-position: center;
   	background-size: 80em, 80em;
   	background-repeat: no-repeat;
@@ -93,7 +93,7 @@ footer{
   	height: 18em;
   	margin-top: 1em;
   	margin-left: 4em;
-  	background-image: url("theperfectfitlogo.png");
+  	background-image:  image-url("theperfectfitlogo.png");
     background-position: top center;
   	background-size: 30em, 30em;
   	background-repeat: no-repeat;
