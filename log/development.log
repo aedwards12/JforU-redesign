@@ -19110,3 +19110,165 @@ Started GET "/assets/map.png" for 127.0.0.1 at 2014-09-07 11:05:59 -0400
 
 
 Started GET "/assets/theperfectfitlogo.png" for 127.0.0.1 at 2014-09-07 11:05:59 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-07 11:08:56 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 202ms (Views: 201.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-09-07 11:08:57 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-09-07 11:08:57 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-09-07 11:08:57 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-09-07 11:08:57 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-07 11:08:57 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-07 11:08:57 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-07 11:08:57 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-07 11:08:57 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-09-07 11:08:57 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-09-07 11:08:57 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-07 11:08:57 -0400
+
+
+Started GET "/assets/beauty-backgrounds1.jpg" for 127.0.0.1 at 2014-09-07 11:08:57 -0400
+
+
+Started GET "/assets/hair-3.jpg" for 127.0.0.1 at 2014-09-07 11:08:57 -0400
+
+
+Started GET "/assets/featured.jpeg" for 127.0.0.1 at 2014-09-07 11:08:57 -0400
+
+
+Started GET "/assets/map.png" for 127.0.0.1 at 2014-09-07 11:08:57 -0400
+
+
+Started GET "/assets/theperfectfitlogo.png" for 127.0.0.1 at 2014-09-07 11:08:57 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-07 11:09:42 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 138ms (Views: 137.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-09-07 11:09:43 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-09-07 11:09:43 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-09-07 11:09:43 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-09-07 11:09:43 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-07 11:09:43 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-09-07 11:09:43 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-07 11:09:43 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-07 11:09:43 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-07 11:09:43 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-09-07 11:09:43 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-07 11:09:43 -0400
+
+
+Started GET "/assets/beauty-backgrounds1.jpg" for 127.0.0.1 at 2014-09-07 11:09:43 -0400
+
+
+Started GET "/assets/hair-3.jpg" for 127.0.0.1 at 2014-09-07 11:09:43 -0400
+
+
+Started GET "/assets/featured.jpeg" for 127.0.0.1 at 2014-09-07 11:09:43 -0400
+
+
+Started GET "/assets/map.png" for 127.0.0.1 at 2014-09-07 11:09:43 -0400
+
+
+Started GET "/assets/theperfectfitlogo.png" for 127.0.0.1 at 2014-09-07 11:09:43 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-07 11:10:01 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 304ms (Views: 303.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-09-07 11:10:01 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-09-07 11:10:01 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-09-07 11:10:01 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-09-07 11:10:01 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-07 11:10:01 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-07 11:10:01 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-07 11:10:01 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-07 11:10:01 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-09-07 11:10:01 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-09-07 11:10:01 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-07 11:10:01 -0400
+
+
+Started GET "/assets/beauty-backgrounds1.jpg" for 127.0.0.1 at 2014-09-07 11:10:01 -0400
+
+
+Started GET "/assets/hair-3.jpg" for 127.0.0.1 at 2014-09-07 11:10:01 -0400
+
+
+Started GET "/assets/featured.jpeg" for 127.0.0.1 at 2014-09-07 11:10:01 -0400
+
+
+Started GET "/assets/map.png" for 127.0.0.1 at 2014-09-07 11:10:01 -0400
+
+
+Started GET "/assets/theperfectfitlogo.png" for 127.0.0.1 at 2014-09-07 11:10:01 -0400
