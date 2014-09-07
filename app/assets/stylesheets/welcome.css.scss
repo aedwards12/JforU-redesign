@@ -77,4 +77,44 @@ nav{
 	background-size:100%;
 }
 
+.featured-wigs{
+	height: 27em;
+	width: 100%;
+	border: 1px solid black;
+	
+	ul{
+		margin-top:30px; 
+	}
+
+	ul li{
+		list-style-type: none;
+		display: inline-block;
+		width:250px;
+		margin-left: 4em;
+
+
+		.featured-titles{
+			height: 30px;
+			width: 100%;
+			color: white;
+			background-color: black;
+			text-align: center;
+			line-height: 2em;
+		}
+		.featured-img{
+			height: 280px;
+			width: 100%;
+			background-color: orange;
+			background-image:url("featured.jpeg");
+			background-size: cover;
+		}
+		.featured-stars{
+			height: 30px;
+			width: 100%;
+			color: white;
+			background-color: black;
+			text-align: center;
+		}
+	}
+}
 
