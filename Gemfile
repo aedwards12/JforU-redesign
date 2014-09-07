@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 ruby '2.1.0'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-
+gem 'rails_12factor'
 gem 'rails', '4.1.4'
 # gem 'rails_12factor'
 # Use sqlite3 as the database for Active Record
