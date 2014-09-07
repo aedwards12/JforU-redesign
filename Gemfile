@@ -37,6 +37,7 @@ gem 'spring',        group: :development
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+gem 'font-awesome-sass', '~> 4.2.0'
 
 group :development, :test do
   gem 'rspec-rails', '~> 3.0.0'
