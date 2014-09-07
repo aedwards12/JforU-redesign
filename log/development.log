@@ -7101,3 +7101,1141 @@ Started GET "/assets/hair-3.jpg" for 127.0.0.1 at 2014-09-07 00:50:29 -0400
 
 
 Started GET "/assets/featured.jpeg" for 127.0.0.1 at 2014-09-07 00:50:29 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-07 00:57:24 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (3.4ms)
+Completed 200 OK in 420ms (Views: 410.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-09-07 00:57:25 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-09-07 00:57:25 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-09-07 00:57:25 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-09-07 00:57:25 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-07 00:57:25 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-07 00:57:25 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-07 00:57:25 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-07 00:57:25 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-09-07 00:57:25 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-09-07 00:57:25 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-07 00:57:25 -0400
+
+
+Started GET "/assets/beauty2.jpg" for 127.0.0.1 at 2014-09-07 00:57:25 -0400
+
+
+Started GET "/assets/hair-3.jpg" for 127.0.0.1 at 2014-09-07 00:57:25 -0400
+
+
+Started GET "/assets/featured.jpeg" for 127.0.0.1 at 2014-09-07 00:57:25 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-07 00:57:54 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 773ms
+
+ActionView::Template::Error (Invalid CSS after "	ul": expected "{", was "}"
+  (in /Users/anthonyedwardsjr/Desktop/Ruby/projects/JforU-redesign/app/assets/stylesheets/welcome.css.scss:152)):
+    2: <html>
+    3: <head>
+    4:   <title>JforU</title>
+    5:   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+    6:   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/assets/stylesheets/welcome.css.scss:152
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__3501846046164281619_2163347080'
+
+
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.6ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.2ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (17.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-07 00:58:28 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 332ms (Views: 330.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-09-07 00:58:28 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-09-07 00:58:28 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-09-07 00:58:28 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-09-07 00:58:28 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-07 00:58:28 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-07 00:58:28 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-07 00:58:28 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-07 00:58:28 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-07 00:58:29 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-09-07 00:58:29 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-09-07 00:58:29 -0400
+
+
+Started GET "/assets/beauty2.jpg" for 127.0.0.1 at 2014-09-07 00:58:29 -0400
+
+
+Started GET "/assets/hair-3.jpg" for 127.0.0.1 at 2014-09-07 00:58:29 -0400
+
+
+Started GET "/assets/featured.jpeg" for 127.0.0.1 at 2014-09-07 00:58:29 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-07 00:59:19 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 209ms (Views: 208.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-09-07 00:59:19 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-09-07 00:59:19 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-09-07 00:59:19 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-09-07 00:59:19 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-07 00:59:19 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-07 00:59:19 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-07 00:59:20 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-07 00:59:20 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-09-07 00:59:20 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-09-07 00:59:20 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-07 00:59:20 -0400
+
+
+Started GET "/assets/beauty2.jpg" for 127.0.0.1 at 2014-09-07 00:59:20 -0400
+
+
+Started GET "/assets/hair-3.jpg" for 127.0.0.1 at 2014-09-07 00:59:20 -0400
+
+
+Started GET "/assets/featured.jpeg" for 127.0.0.1 at 2014-09-07 00:59:20 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-07 00:59:47 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 86ms (Views: 85.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-09-07 00:59:48 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-09-07 00:59:48 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-09-07 00:59:48 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-09-07 00:59:48 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-07 00:59:48 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-07 00:59:48 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-07 00:59:48 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-07 00:59:48 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-09-07 00:59:48 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-09-07 00:59:48 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-07 00:59:48 -0400
+
+
+Started GET "/assets/beauty2.jpg" for 127.0.0.1 at 2014-09-07 00:59:48 -0400
+
+
+Started GET "/assets/hair-3.jpg" for 127.0.0.1 at 2014-09-07 00:59:48 -0400
+
+
+Started GET "/assets/featured.jpeg" for 127.0.0.1 at 2014-09-07 00:59:48 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-07 01:01:03 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 1269ms (Views: 1268.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-09-07 01:01:04 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-09-07 01:01:04 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-09-07 01:01:04 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-09-07 01:01:04 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-07 01:01:04 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-07 01:01:04 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-07 01:01:04 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-07 01:01:05 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-09-07 01:01:05 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-09-07 01:01:05 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-07 01:01:05 -0400
+
+
+Started GET "/assets/beauty2.jpg" for 127.0.0.1 at 2014-09-07 01:01:05 -0400
+
+
+Started GET "/assets/hair-3.jpg" for 127.0.0.1 at 2014-09-07 01:01:05 -0400
+
+
+Started GET "/assets/featured.jpeg" for 127.0.0.1 at 2014-09-07 01:01:05 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-07 01:01:22 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 2503ms (Views: 2502.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-09-07 01:01:26 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-09-07 01:01:27 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-09-07 01:01:28 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-09-07 01:01:28 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-07 01:01:28 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-07 01:01:28 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-07 01:01:29 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-07 01:01:29 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-07 01:01:29 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-09-07 01:01:29 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-09-07 01:01:29 -0400
+
+
+Started GET "/assets/beauty2.jpg" for 127.0.0.1 at 2014-09-07 01:01:29 -0400
+
+
+Started GET "/assets/hair-3.jpg" for 127.0.0.1 at 2014-09-07 01:01:29 -0400
+
+
+Started GET "/assets/featured.jpeg" for 127.0.0.1 at 2014-09-07 01:01:29 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-07 01:01:49 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 380ms (Views: 379.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-09-07 01:01:49 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-09-07 01:01:49 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-09-07 01:01:49 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-09-07 01:01:49 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-07 01:01:49 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-07 01:01:49 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-07 01:01:49 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-07 01:01:49 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-09-07 01:01:49 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-09-07 01:01:49 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-07 01:01:49 -0400
+
+
+Started GET "/assets/beauty2.jpg" for 127.0.0.1 at 2014-09-07 01:01:49 -0400
+
+
+Started GET "/assets/hair-3.jpg" for 127.0.0.1 at 2014-09-07 01:01:49 -0400
+
+
+Started GET "/assets/featured.jpeg" for 127.0.0.1 at 2014-09-07 01:01:49 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-07 01:02:12 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 152ms (Views: 151.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-09-07 01:02:12 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-09-07 01:02:12 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-09-07 01:02:12 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-09-07 01:02:12 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-07 01:02:12 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-07 01:02:12 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-07 01:02:12 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-07 01:02:12 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-09-07 01:02:12 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-09-07 01:02:12 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-07 01:02:12 -0400
+
+
+Started GET "/assets/beauty2.jpg" for 127.0.0.1 at 2014-09-07 01:02:12 -0400
+
+
+Started GET "/assets/hair-3.jpg" for 127.0.0.1 at 2014-09-07 01:02:12 -0400
+
+
+Started GET "/assets/featured.jpeg" for 127.0.0.1 at 2014-09-07 01:02:12 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-07 01:02:56 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 607ms (Views: 606.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-09-07 01:02:57 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-09-07 01:02:57 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-09-07 01:02:57 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-09-07 01:02:57 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-07 01:02:57 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-07 01:02:57 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-07 01:02:57 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-07 01:02:57 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-09-07 01:02:57 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-09-07 01:02:57 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-07 01:02:57 -0400
+
+
+Started GET "/assets/beauty2.jpg" for 127.0.0.1 at 2014-09-07 01:02:57 -0400
+
+
+Started GET "/assets/hair-3.jpg" for 127.0.0.1 at 2014-09-07 01:02:57 -0400
+
+
+Started GET "/assets/featured.jpeg" for 127.0.0.1 at 2014-09-07 01:02:57 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-07 01:03:15 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 275ms (Views: 274.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-09-07 01:03:16 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-09-07 01:03:16 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-09-07 01:03:16 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-09-07 01:03:16 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-07 01:03:16 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-07 01:03:16 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-07 01:03:16 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-07 01:03:16 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-09-07 01:03:16 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-09-07 01:03:16 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-07 01:03:16 -0400
+
+
+Started GET "/assets/beauty2.jpg" for 127.0.0.1 at 2014-09-07 01:03:16 -0400
+
+
+Started GET "/assets/hair-3.jpg" for 127.0.0.1 at 2014-09-07 01:03:16 -0400
+
+
+Started GET "/assets/featured.jpeg" for 127.0.0.1 at 2014-09-07 01:03:16 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-07 01:09:23 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 980ms (Views: 968.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-09-07 01:09:24 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-09-07 01:09:24 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-09-07 01:09:24 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-09-07 01:09:24 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-07 01:09:24 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-07 01:09:24 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-07 01:09:24 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-07 01:09:24 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-09-07 01:09:24 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-09-07 01:09:24 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-07 01:09:24 -0400
+
+
+Started GET "/assets/beauty2.jpg" for 127.0.0.1 at 2014-09-07 01:09:25 -0400
+
+
+Started GET "/assets/hair-3.jpg" for 127.0.0.1 at 2014-09-07 01:09:25 -0400
+
+
+Started GET "/assets/featured.jpeg" for 127.0.0.1 at 2014-09-07 01:09:25 -0400
+
+
+Started GET "/assets/map.png" for 127.0.0.1 at 2014-09-07 01:09:25 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-07 01:10:19 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 281ms
+
+ActionView::Template::Error (Invalid CSS after "  	width": expected ";", was ": 20em;"
+  (in /Users/anthonyedwardsjr/Desktop/Ruby/projects/JforU-redesign/app/assets/stylesheets/welcome.css.scss:161)):
+    2: <html>
+    3: <head>
+    4:   <title>JforU</title>
+    5:   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+    6:   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/assets/stylesheets/welcome.css.scss:161
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__3501846046164281619_2163347080'
+
+
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.9ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.5ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (50.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-07 01:10:27 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 338ms (Views: 336.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-09-07 01:10:28 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-09-07 01:10:28 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-09-07 01:10:28 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-09-07 01:10:28 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-07 01:10:28 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-07 01:10:28 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-07 01:10:28 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-07 01:10:28 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-09-07 01:10:28 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-09-07 01:10:28 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-07 01:10:28 -0400
+
+
+Started GET "/assets/beauty2.jpg" for 127.0.0.1 at 2014-09-07 01:10:28 -0400
+
+
+Started GET "/assets/hair-3.jpg" for 127.0.0.1 at 2014-09-07 01:10:28 -0400
+
+
+Started GET "/assets/featured.jpeg" for 127.0.0.1 at 2014-09-07 01:10:28 -0400
+
+
+Started GET "/assets/map.png" for 127.0.0.1 at 2014-09-07 01:10:28 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-07 01:11:53 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 1066ms (Views: 1062.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-09-07 01:11:54 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-09-07 01:11:54 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-09-07 01:11:54 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-09-07 01:11:54 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-07 01:11:54 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-07 01:11:54 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-07 01:11:54 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-07 01:11:54 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-09-07 01:11:54 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-09-07 01:11:54 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-07 01:11:54 -0400
+
+
+Started GET "/assets/beauty2.jpg" for 127.0.0.1 at 2014-09-07 01:11:55 -0400
+
+
+Started GET "/assets/hair-3.jpg" for 127.0.0.1 at 2014-09-07 01:11:55 -0400
+
+
+Started GET "/assets/featured.jpeg" for 127.0.0.1 at 2014-09-07 01:11:55 -0400
+
+
+Started GET "/assets/map.png" for 127.0.0.1 at 2014-09-07 01:11:55 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-07 01:12:30 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 225ms (Views: 224.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-09-07 01:12:30 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-09-07 01:12:30 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-09-07 01:12:30 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-09-07 01:12:30 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-07 01:12:30 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-07 01:12:30 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-07 01:12:30 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-07 01:12:30 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-09-07 01:12:30 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-09-07 01:12:30 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-07 01:12:30 -0400
+
+
+Started GET "/assets/beauty2.jpg" for 127.0.0.1 at 2014-09-07 01:12:30 -0400
+
+
+Started GET "/assets/hair-3.jpg" for 127.0.0.1 at 2014-09-07 01:12:31 -0400
+
+
+Started GET "/assets/featured.jpeg" for 127.0.0.1 at 2014-09-07 01:12:31 -0400
+
+
+Started GET "/assets/map.png" for 127.0.0.1 at 2014-09-07 01:12:31 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-07 01:12:47 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 573ms (Views: 572.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-09-07 01:12:48 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-09-07 01:12:48 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-09-07 01:12:48 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-09-07 01:12:48 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-07 01:12:48 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-07 01:12:48 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-07 01:12:48 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-07 01:12:48 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-09-07 01:12:48 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-09-07 01:12:48 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-07 01:12:48 -0400
+
+
+Started GET "/assets/beauty2.jpg" for 127.0.0.1 at 2014-09-07 01:12:48 -0400
+
+
+Started GET "/assets/hair-3.jpg" for 127.0.0.1 at 2014-09-07 01:12:48 -0400
+
+
+Started GET "/assets/featured.jpeg" for 127.0.0.1 at 2014-09-07 01:12:48 -0400
+
+
+Started GET "/assets/map.png" for 127.0.0.1 at 2014-09-07 01:12:48 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-07 01:14:03 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 1256ms (Views: 1255.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-09-07 01:14:04 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-09-07 01:14:04 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-09-07 01:14:04 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-09-07 01:14:04 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-07 01:14:04 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-07 01:14:05 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-07 01:14:05 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-07 01:14:05 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-09-07 01:14:05 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-09-07 01:14:05 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-07 01:14:05 -0400
+
+
+Started GET "/assets/beauty2.jpg" for 127.0.0.1 at 2014-09-07 01:14:05 -0400
+
+
+Started GET "/assets/hair-3.jpg" for 127.0.0.1 at 2014-09-07 01:14:05 -0400
+
+
+Started GET "/assets/featured.jpeg" for 127.0.0.1 at 2014-09-07 01:14:05 -0400
+
+
+Started GET "/assets/map.png" for 127.0.0.1 at 2014-09-07 01:14:05 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-07 01:15:14 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 2096ms (Views: 2095.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-09-07 01:15:16 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-09-07 01:15:16 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-09-07 01:15:17 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-09-07 01:15:17 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-07 01:15:17 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-07 01:15:17 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-07 01:15:17 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-07 01:15:17 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-09-07 01:15:17 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-09-07 01:15:17 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-07 01:15:17 -0400
+
+
+Started GET "/assets/beauty2.jpg" for 127.0.0.1 at 2014-09-07 01:15:17 -0400
+
+
+Started GET "/assets/hair-3.jpg" for 127.0.0.1 at 2014-09-07 01:15:17 -0400
+
+
+Started GET "/assets/featured.jpeg" for 127.0.0.1 at 2014-09-07 01:15:17 -0400
+
+
+Started GET "/assets/map.png" for 127.0.0.1 at 2014-09-07 01:15:17 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-07 01:15:56 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 1944ms (Views: 1943.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-09-07 01:15:58 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-09-07 01:15:58 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-09-07 01:15:58 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-09-07 01:15:58 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-07 01:15:58 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-07 01:15:58 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-07 01:15:58 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-07 01:15:58 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-09-07 01:15:58 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-09-07 01:15:58 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-07 01:15:58 -0400
+
+
+Started GET "/assets/beauty2.jpg" for 127.0.0.1 at 2014-09-07 01:15:58 -0400
+
+
+Started GET "/assets/hair-3.jpg" for 127.0.0.1 at 2014-09-07 01:15:58 -0400
+
+
+Started GET "/assets/featured.jpeg" for 127.0.0.1 at 2014-09-07 01:15:58 -0400
+
+
+Started GET "/assets/map.png" for 127.0.0.1 at 2014-09-07 01:15:58 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-07 01:16:39 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 321ms (Views: 320.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-09-07 01:16:40 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-09-07 01:16:40 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-09-07 01:16:40 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-09-07 01:16:40 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-07 01:16:40 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-07 01:16:40 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-07 01:16:40 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-07 01:16:40 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-09-07 01:16:40 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-09-07 01:16:40 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-07 01:16:40 -0400
+
+
+Started GET "/assets/beauty2.jpg" for 127.0.0.1 at 2014-09-07 01:16:40 -0400
+
+
+Started GET "/assets/hair-3.jpg" for 127.0.0.1 at 2014-09-07 01:16:40 -0400
+
+
+Started GET "/assets/featured.jpeg" for 127.0.0.1 at 2014-09-07 01:16:40 -0400
+
+
+Started GET "/assets/map.png" for 127.0.0.1 at 2014-09-07 01:16:40 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-07 01:17:17 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 620ms (Views: 619.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-09-07 01:17:18 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-09-07 01:17:18 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-09-07 01:17:18 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-09-07 01:17:18 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-07 01:17:18 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-07 01:17:18 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-07 01:17:18 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-07 01:17:18 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-09-07 01:17:18 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-09-07 01:17:18 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-07 01:17:18 -0400
+
+
+Started GET "/assets/beauty2.jpg" for 127.0.0.1 at 2014-09-07 01:17:18 -0400
+
+
+Started GET "/assets/hair-3.jpg" for 127.0.0.1 at 2014-09-07 01:17:18 -0400
+
+
+Started GET "/assets/featured.jpeg" for 127.0.0.1 at 2014-09-07 01:17:18 -0400
+
+
+Started GET "/assets/map.png" for 127.0.0.1 at 2014-09-07 01:17:18 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-07 01:18:29 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 179ms (Views: 178.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-09-07 01:18:30 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-09-07 01:18:30 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-09-07 01:18:30 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-09-07 01:18:30 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-07 01:18:30 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-07 01:18:30 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-07 01:18:30 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-07 01:18:30 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-09-07 01:18:30 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-09-07 01:18:30 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-07 01:18:30 -0400
+
+
+Started GET "/assets/beauty2.jpg" for 127.0.0.1 at 2014-09-07 01:18:30 -0400
+
+
+Started GET "/assets/featured.jpeg" for 127.0.0.1 at 2014-09-07 01:18:30 -0400
+
+
+Started GET "/assets/hair-3.jpg" for 127.0.0.1 at 2014-09-07 01:18:30 -0400
+
+
+Started GET "/assets/map.png" for 127.0.0.1 at 2014-09-07 01:18:30 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-07 01:19:11 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 124ms (Views: 123.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-09-07 01:19:11 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-09-07 01:19:11 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-09-07 01:19:11 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-09-07 01:19:11 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-07 01:19:11 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-07 01:19:11 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-07 01:19:11 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-07 01:19:11 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-09-07 01:19:11 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-09-07 01:19:11 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-07 01:19:11 -0400
+
+
+Started GET "/assets/beauty2.jpg" for 127.0.0.1 at 2014-09-07 01:19:11 -0400
+
+
+Started GET "/assets/hair-3.jpg" for 127.0.0.1 at 2014-09-07 01:19:11 -0400
+
+
+Started GET "/assets/featured.jpeg" for 127.0.0.1 at 2014-09-07 01:19:11 -0400
+
+
+Started GET "/assets/map.png" for 127.0.0.1 at 2014-09-07 01:19:11 -0400

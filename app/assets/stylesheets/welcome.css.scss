@@ -141,9 +141,34 @@ nav{
 }
 
 footer{
-	height: 15em;
+	padding: 2em;
+	height: 20em;
 	width: 100%;
+	/*background-image: url("map.png");
+  background-position: center;
+  background-size: cover; */
 	background-color: rgba(255, 255, 255, 0.9);
+  
+  .operation{
+  	width: 20em;
+  	float: left;
+  	
 
+		ul {
+			list-style: none;
+			width: 20em;
+  	  padding: 1em 2em;
+  	  background-color: rgba(0, 0, 0, 0.9);
+			color: white;
+		}
+  }
+  .map{;
+  	float: left;
+  	width: 20em;
+  	height: 20em;
+  	margin-left: 10em;
+  	background-image: url("map.png");
+  	background-position: center;
+  }
 }
 
