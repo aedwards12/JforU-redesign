@@ -2,7 +2,7 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
 /*header section*/
-$logo-color: rgba(130, 21, 255, 0.7);
+$logo-color: rgba(96, 16, 115, 1);;
 $hot_pink: rgba(255, 63, 255, 0.9);
 
 
@@ -12,14 +12,15 @@ header {
 
 	padding-left: 2em;
 	height: 7em;
-	background-color: rgba(255, 255, 255, 0.9);
+	/*background-color: rgba(255, 255, 255, 0.9);*/
 
     .left-section{
 
 			color: $logo-color;
-			width: 33em;
+			width: 27em;
 			margin: left 2em;
 			float: left;
+			font-size: 1.2em;
 	
 
 		#store-hours{
@@ -132,6 +133,9 @@ nav{
 		margin-left:4em;
 		height: 20em;
 	  width: 40%;
+	  p{
+	  	font-size: 1.2em;
+	  }
 	  /*background-color: rgba(0, 0, 0, 1);*/
 	}
 }
@@ -148,6 +152,10 @@ nav{
 		margin-left:4em;
 		height: 20em;
 	  width: 40%;
+
+	  p{
+	  	font-size: 1.2em;
+	  }
 	  /*background-color: rgba(0, 0, 0, 1);*/
 
 	  i{
@@ -198,6 +206,26 @@ footer{
   	background-size: 80em, 80em;
   	background-repeat: no-repeat;
   	overflow: hidden;
+  }
+
+  .social{
+  	float: left;
+  	width: 30em;
+  	height: 18em;
+  	margin-top: 1em;
+  	margin-left: 4em;
+  	background-image: url("theperfectfitlogo.png");
+    background-position: top center;
+  	background-size: 30em, 30em;
+  	background-repeat: no-repeat;
+  	overflow: hidden;
+
+  	i{
+  		margin-top: 2.7em;
+  	}
+  	i:hover{
+  		color: $hot_pink;
+  	}
   }
 }
 
