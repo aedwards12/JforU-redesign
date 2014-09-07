@@ -1,0 +1,110 @@
+$logo-color: rgba(96, 16, 115, 1);;
+$hot_pink: rgba(255, 63, 255, 0.9);
+
+
+body{
+	background-image:url("beauty-backgrounds1.jpg");
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: 100%, auto;
+	/*background-size: cover;*/
+	font-family: 'News Cycle', sans-serif;
+}
+
+/*header section*/
+header {
+
+	padding-left: 2em;
+	height: 7em;
+	/*background-color: rgba(255, 255, 255, 0.9);*/
+
+    .left-section{
+
+			color: $logo-color;
+			width: 27em;
+			margin: left 2em;
+			float: left;
+			font-size: 1.2em;
+	
+
+		#store-hours{
+			float: right;
+      color: rgba(0, 0, 0, 0.7);
+			margin-top: -1.2em;
+			padding-right: .8em;
+		}
+	}
+
+	.phone{
+		float: left;
+		font-size: 163%;
+		line-height: .9em;
+		margin-left: 2em;
+	}	
+}
+
+
+footer{
+	padding: 2em;
+	height: 20em;
+	width: 100%;
+	/*background-image: url("map.png");
+  background-position: center;
+  background-size: cover; */
+	background-color: rgba(255, 255, 255, 0.9);
+  
+  .operation{
+  	width: 20em;
+  	float: left;
+  	
+
+		ul {
+			margin-top: 0px;
+
+			list-style: none;
+			width: 20em;
+  	  padding: 0em 2em;
+  	  font-size: 1.3em;
+  	  /*background-color: rgba(0, 0, 0, 0.9);*/
+			color: rgba(0, 0, 0, 0.9);
+			i{
+				position: relative;
+				top:10px;
+				left:-40px;
+			}
+		}
+  }
+  .map{;
+  	float: left;
+  	width: 18em;
+  	height: 18em;
+  	margin-top: 1em;
+  	margin-left: 4em;
+  	background-image: url("map.png");
+  	background-position: center;
+  	background-size: 80em, 80em;
+  	background-repeat: no-repeat;
+  	overflow: hidden;
+  }
+
+  .social{
+  	float: left;
+  	width: 30em;
+  	height: 18em;
+  	margin-top: 1em;
+  	margin-left: 4em;
+  	background-image: url("theperfectfitlogo.png");
+    background-position: top center;
+  	background-size: 30em, 30em;
+  	background-repeat: no-repeat;
+  	overflow: hidden;
+
+  	i{
+  		margin-top: 2.7em;
+  	}
+  	i:hover{
+  		color: $hot_pink;
+  	}
+  }
+}
+
