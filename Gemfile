@@ -39,7 +39,7 @@ gem 'spring',        group: :development
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
-gem 'font-awesome-sass', '~> 4.2.0'
+# gem 'font-awesome-sass', '~> 4.2.0'
 gem 'sprockets_better_errors'
 
 group :development, :test do
