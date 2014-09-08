@@ -5,5 +5,6 @@ class WelcomeController < ApplicationController
   def about
   end
   
-  	
+  def press
+  end	
 end

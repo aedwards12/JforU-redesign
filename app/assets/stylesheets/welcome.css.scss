@@ -116,7 +116,6 @@ nav{
 .education{
 	height: 27em;
 	width: 100%;
-	padding: 2em;
   background-color: rgba(0, 0, 0, 0.9);
 
   article{
@@ -135,5 +134,83 @@ nav{
 	  	color: white;
 	  }
 	}
+}
+
+/*aboutus page*/
+.filler{
+	height: 5em;
+	width: 100%;
+
+
+	background-color: rgba(255, 255, 255, 0.9);
 
 }
+
+
+.founder{
+	height: 30em;
+	width: 100%;
+	overflow: hidden;
+	background-color: rgba(255, 255, 255, 0.9);
+
+	.founder-img{
+		float: left;
+		height: 100%;
+		width: 25%;
+		text-align: center;
+  	padding-left:2em;
+  	padding-top: 2em; 
+
+		img{
+
+			margin: 0 auto;
+			height: 19em;
+			width: 22em;
+		}
+	}
+
+	.founder-content{
+		float: left;
+		height: 100%;
+		width: 57%;
+		padding-left:5em;
+		p{
+			font-size: 1.2em;
+		}
+	}
+}
+
+
+.company{
+	max-height: 50em;
+	width: 100%;
+	overflow: hidden;
+	background-color: rgba(255, 255, 255, 1);
+
+	.company-img{
+		padding-top: 2em; 
+		padding-left:2em;
+		float: left;
+		height: 100%;
+		width: 25%;
+		text-align: center;
+
+		img{
+			margin: 0 auto;
+			height: 19em;
+			width: 22em;
+		}
+	}
+
+	.company-content{
+		float: left;
+		height: 100%;
+		width: 57%;
+		padding-left:5em;
+		p{
+			font-size: 1.2em;
+		}
+	}
+}
+
+
