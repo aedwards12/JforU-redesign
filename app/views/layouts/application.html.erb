@@ -9,20 +9,24 @@
   <%= csrf_meta_tags %>
 </head>
 <body>
-	<header>
-		<section class="left-section">
+	<header class="row transparent-white">
+		<section class="columns small-12 medium-6 large-4">
 			<h1>The Perfect Fit, Just For You LLC</h1>
-			<span id="store-hours">Tues - Sat. 11:00 - 6:00PM EST</span>
+			<div class="row">
+				<div class="columns small-12 medium-8 right">
+				<span id="store-hours">Tues - Sat. 11:00 - 6:00PM EST</span>
+			</div>
+			</div>
 		</section>
-		<section class="phone">
-			<h2>(845) 750-5646</h2>
+		<section class="columns small-12 medium-6 large-4 left">
+			<h1>(845) 750-5646</h1>
 		</section>
   </header>
 
   <%= yield %>
   
-	<footer>
-		<article class="operation">
+	<footer class="row">
+		<article class="columns small-12 medium-6 large-3">
 			<ul>
 				<li> <i class="fa fa-clock-o fa-2x"></i> &nbsp;Hours of Operation</li>
 				<li>Tuesday - Saturday: 11am- 6pm</li>
@@ -36,10 +40,11 @@
 				<li>P: (845) 853-8040</li>
 			</ul>
 		</article>
-		<article class="map">
-			
-		</article>
-		<article class="social">
+	  <article class="social columns small-12 medium-6 large-6 ">
+		
+  	</article>
+
+	  <article class=" columns small-12 medium-6 large-2 left">
 			<i class="fa fa-facebook-square fa-5x"></i> &nbsp;<i class="fa fa-twitter-square fa-5x"></i> &nbsp;
 		</article>
 	</footer>
