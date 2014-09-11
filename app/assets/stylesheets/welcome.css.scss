@@ -14,29 +14,6 @@ nav{
 	color: white;
   background-color: rgba(0, 0, 0, 0.9);
   margin-top: -1em;
-
-	/*ul{
-
-		list-style-type: none;
-		
-		a{
-			color: white;
-		}
-		li{
-			display: inline-block;
-			font-size: 1.4em;
-			line-height: 2em;
-			width: 6em;
-			height: 100%;
-			text-align: center;
-		}
-
-		li:hover{
-			height: 100%;
-		  background-color: $hot_pink;
-			color: black;
-		}
-	}*/
 }
 .nav-background{
 	background-color: black;
@@ -86,7 +63,6 @@ nav{
 /*  	  background-color: rgba(0, 0, 0, 0.6);
 */			text-align: center;
 		}
-
 
 }
 
@@ -163,39 +139,17 @@ nav{
 	}
 }
 
-
-.company{
-	max-height: 50em;
-	width: 100%;
-	overflow: hidden;
-	background-color: rgba(255, 255, 255, 1);
-
-	.company-img{
-		padding-top: 2em; 
-		padding-left:2em;
-		float: left;
-		height: 100%;
-		width: 25%;
-		text-align: center;
-
-		img{
-			margin: 0 auto;
-			height: 19em;
-			width: 22em;
-		}
-	}
-
-	.company-content{
-		float: left;
-		height: 100%;
-		width: 57%;
-		padding-left:5em;
+.content{
+	padding-top:5em;
+	min-height: 30em;
+	background-color: rgba(255,255,255,0.8);
 		p{
 			font-size: 1.2em;
 		}
+		h1{
+			margin: 0;
+		}
 	}
-}
-
 /*foundation changes*/
 .row{
 max-width: 89.5em;
