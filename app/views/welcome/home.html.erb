@@ -1,56 +1,77 @@
 
-<nav>
-	<ul>
-		<a href="/welcome/home"><li>Home</li></a>	
-		<a href="#featured-wigs"><li>Hairpieces</li></a>
-		<a href="#hair-loss"><li>Custom Wigs</li></a>
-		<a href="#education"><li>Education</li></a>
-		<a href="/welcome/about"><li>About Us</li></a>
-		<a href="/welcome/press"><li>Press</li></a>
-
+	<nav class="top-bar" data-topbar role="navigation">
+	<label for="show-menu" class="show-menu">Show Menu</label>
+	<input type="checkbox" id="show-menu" role="button">
+		<ul id="menu">
+		<li><a href="/welcome/home">Home</a></li>
+		<!-- <li>
+			<a href="#featured-wigs">Featured Wigs ￬</a>
+			<ul class="hidden">
+				<li><a href="#">Who We Are</a></li>
+				<li><a href="#">What We Do</a></li>
+			</ul>
+		</li>
+		<li>
+			<a href="#">Portfolio ￬</a>
+			<ul class="hidden">
+				<li><a href="#">Photography</a></li>
+				<li><a href="#">Web & User Interface Design</a></li>
+				<li><a href="#">Illustration</a></li>
+			</ul>
+		</li> -->
+			<li><a href="#hair-loss">Custom Wigs</a></li>
+			<li><a href="#education">Education</a></li>
+			<li><a href="/welcome/about">About Us</a></li>
+			<li><a href="/welcome/press">Press</a></li>
 	</ul>
 </nav>
-<section class="intro-images">
+<section class="intro-images row">
 </section>
-<section class="featured-wigs" id="featured-wigs">
-	<ul>
-		<a href="#"><li>
-			  <div class="featured-titles"> <h2>WIGS TO LOVE</h2></div>
-				<div class="featured-img"></div>
-				<div class="featured-stars"><i class="fa fa-star fa-2x"></i> &nbsp;<i class="fa fa-star fa-2x"></i> &nbsp;<i class="fa fa-star fa-2x"></i> &nbsp;<i class="fa fa-star fa-2x"></i> &nbsp;</div>
-			</li></a>
-		<a href="#"><li>
-			  <div class="featured-titles"> <h2>LACE FRONTS </h2></div>
-				<div class="featured-img"></div>
-				<div class="featured-stars"><i class="fa fa-star fa-2x"></i> &nbsp;<i class="fa fa-star fa-2x"></i> &nbsp;<i class="fa fa-star fa-2x"></i> &nbsp;<i class="fa fa-star fa-2x"></i> &nbsp;</div>
-			</li></a>
-		<a href="#"><li>
-			    <div class="featured-titles"> <h2>SHORT & SEXY</h2></div>
-				<div class="featured-img"></div>
-				<div class="featured-stars"><i class="fa fa-star fa-2x"></i> &nbsp;<i class="fa fa-star fa-2x"></i> &nbsp;<i class="fa fa-star fa-2x"></i> &nbsp;<i class="fa fa-star fa-2x"></i> &nbsp;</div>
-			</li></a>
-		<a href="#"><li>
-			    <div class="featured-titles"> <h2>FEATURED BRANDS</h2></div>
-				<div class="featured-img"></div>
-				<div class="featured-stars"><i class="fa fa-star fa-2x"></i> &nbsp;<i class="fa fa-star fa-2x"></i> &nbsp;<i class="fa fa-star fa-2x"></i> &nbsp;<i class="fa fa-star fa-2x"></i> &nbsp;</div>
-			</li></a>			
-	</ul>
-</section>
-<section class="hair-loss" id="hair-loss">
+<section class="featured-wig row" id="featured-wigs">
+	<article class=" feature columns small-12 medium-6 large-3">
+		
+			<div class="featured-titles columns small-12"> <h2>WIGS TO LOVE</h2></div>
+			<div class="featured-img"></div>
+			<div class="featured-stars"><i class="fa fa-star fa-2x"></i> &nbsp;<i class="fa fa-star fa-2x"></i> &nbsp;<i class="fa fa-star fa-2x"></i> &nbsp;<i class="fa fa-star fa-2x"></i> &nbsp;</div>
 	
-	<article>
+	</article>
+	<article class=" feature columns small-12 medium-6 large-3">
+		
+			<div class="featured-titles columns small-12"> <h2>WIGS TO LOVE</h2></div>
+			<div class="featured-img"></div>
+			<div class="featured-stars"><i class="fa fa-star fa-2x"></i> &nbsp;<i class="fa fa-star fa-2x"></i> &nbsp;<i class="fa fa-star fa-2x"></i> &nbsp;<i class="fa fa-star fa-2x"></i> &nbsp;</div>
+	
+	</article>
+	<article class=" feature columns small-12 medium-6 large-3">
+		
+			<div class="featured-titles columns small-12"> <h2>WIGS TO LOVE</h2></div>
+			<div class="featured-img"></div>
+			<div class="featured-stars"><i class="fa fa-star fa-2x"></i> &nbsp;<i class="fa fa-star fa-2x"></i> &nbsp;<i class="fa fa-star fa-2x"></i> &nbsp;<i class="fa fa-star fa-2x"></i> &nbsp;</div>
+	
+	</article>
+	<article class=" feature columns small-12 medium-6 large-3">
+		
+			<div class="featured-titles columns small-12"> <h2>WIGS TO LOVE</h2></div>
+			<div class="featured-img"></div>
+			<div class="featured-stars"><i class="fa fa-star fa-2x"></i> &nbsp;<i class="fa fa-star fa-2x"></i> &nbsp;<i class="fa fa-star fa-2x"></i> &nbsp;<i class="fa fa-star fa-2x"></i> &nbsp;</div>
+	
+	</article>
+</section>
+<section class=" row transparent-white hair-loss" id="hair-loss">
+	
+	<article class="columns small-12 medium-6">
 		<h2>Hair-loss</h2>
 	  <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra </p>
 	</article>
 
-	<article>
+	<article class=" columns small-12 medium-6">
 		<h2>Custom Wigs</h2>
 		<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra </p>
 	</article>
 </section>
-<section class="education" id="education">
-	<article>
-		<h2> <i class="fa fa-book fa-2x"></i> &nbsp;Education / Workshops</h2>
+<section class="row education" id="education">
+	<article class=" columns small-12 medium-6">
+		<h2> <i class="fa fa-book "></i> &nbsp;Education / Workshops</h2>
 		<p>Lorem ipsum dolor sitamet,   consectetuer adipiscing 
 			elit. Aenean commodo ligula eget dolor. Aenean massa. 
 			Cum sociis natoque penatibus et magnis dis parturient 
@@ -59,8 +80,8 @@
     </p>
 	</article>
 
-	<article>
-		<h2><i class="fa fa-calendar fa-2x"></i> &nbsp;Upcoming Events</h2>
+	<article class=" columns small-12 medium-6">
+		<h2><i class="fa fa-calendar "></i> &nbsp;Upcoming Events</h2>
 		<p>Lorem ipsum dolor sitamet,   consectetuer adipiscing 
 			elit. Aenean commodo ligula eget dolor. Aenean massa. 
 			Cum sociis natoque penatibus et magnis dis parturient 
