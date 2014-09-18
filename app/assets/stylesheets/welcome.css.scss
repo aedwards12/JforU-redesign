@@ -28,56 +28,50 @@ nav{
 	background-size:100%;
 }
 
-/*.featured-wig{
-	background-color: orange;
-}*/
 .featured-wig{
-	/*height: 27em;*/
-	/*width: 100%;*/
 
 	.feature{
 		margin-top: 1em;
 	}
 	
-		.featured-titles{
-			width: 100%;
+	.featured-titles{
+		width: 100%;
+		color: white;
+		background-color: rgba(0,0,0,0.5);
+		text-align: center;
+		line-height: 2em;
+		h2{
 			color: white;
-			background-color: rgba(0,0,0,0.5);
-			text-align: center;
-			line-height: 2em;
-			h2{
-				color: white;
-			}
 		}
-		.featured-img{
-			height: 350px;
-			width: 100%;
-			background-color: orange;
-			background-image: image-url("featured.jpeg");
-			background-size: cover;
-		}
-		.featured-stars{
-			height: 30px;
-			width: 100%;
-			color: $hot_pink;
-/*  	  background-color: rgba(0, 0, 0, 0.6);
-*/			text-align: center;
-		}
-
+	}
+	.featured-img{
+		width: 100%;
+	}
+	.featured-stars{
+		height: 30px;
+		width: 100%;
+		color: $hot_pink;
+/*  background-color: rgba(0, 0, 0, 0.6);
+*/	text-align: center;
+	}
 }
 
-.hair-loss{
-	min-height: 25em;
+#hair-loss{
+	height: 22em;
 	padding-top: 2em;
 	background-color: rgba(255, 255, 255, 1);
-
+  overflow: hidden;
 	article{
   	float: left;
 	  p{
 	  	font-size: 1.2em;
 	  }
+	  .color{
+	  	color:$hot_pink;
+	  }
 	}
 }
+
 
 .education{
 	padding-top: 5px;
@@ -94,6 +88,9 @@ nav{
 	  }
 	  i{
 	  	color: white;
+	  }
+	  .color{
+	  	color: $hot_pink;
 	  }
 	}
 }
