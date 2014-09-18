@@ -31797,3 +31797,507 @@ Started GET "/assets/hair-3.jpg" for 127.0.0.1 at 2014-09-18 11:43:23 -0400
 
 
 Started GET "/assets/theperfectfitlogo.png" for 127.0.0.1 at 2014-09-18 11:43:23 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-18 11:51:56 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 640ms (Views: 639.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-09-18 11:51:57 -0400
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-09-18 11:51:57 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-18 11:51:57 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-18 11:51:57 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-09-18 11:51:57 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-09-18 11:51:57 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-09-18 11:51:57 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-09-18 11:51:57 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-18 11:51:57 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-09-18 11:51:57 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-18 11:51:57 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-18 11:51:57 -0400
+
+
+Started GET "/assets/Cara-(Futura)-SSW-IFW.png" for 127.0.0.1 at 2014-09-18 11:51:57 -0400
+
+
+Started GET "/assets/Jill%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-09-18 11:51:57 -0400
+
+
+Started GET "/assets/Kim%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-09-18 11:51:57 -0400
+
+
+Started GET "/assets/Lisa%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-09-18 11:51:57 -0400
+
+
+Started GET "/assets/beauty-backgrounds1.jpg" for 127.0.0.1 at 2014-09-18 11:51:57 -0400
+
+
+Started GET "/assets/hair-3.jpg" for 127.0.0.1 at 2014-09-18 11:51:57 -0400
+
+
+Started GET "/assets/theperfectfitlogo.png" for 127.0.0.1 at 2014-09-18 11:51:57 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-18 11:55:37 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 1275ms (Views: 1274.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-09-18 11:55:39 -0400
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-09-18 11:55:39 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-18 11:55:39 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-18 11:55:39 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-09-18 11:55:39 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-09-18 11:55:39 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-09-18 11:55:39 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-09-18 11:55:39 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-18 11:55:39 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-18 11:55:39 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-18 11:55:39 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-09-18 11:55:39 -0400
+
+
+Started GET "/assets/Cara-(Futura)-SSW-IFW.png" for 127.0.0.1 at 2014-09-18 11:55:39 -0400
+
+
+Started GET "/assets/Jill%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-09-18 11:55:39 -0400
+
+
+Started GET "/assets/Lisa%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-09-18 11:55:39 -0400
+
+
+Started GET "/assets/Kim%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-09-18 11:55:39 -0400
+
+
+Started GET "/assets/beauty-backgrounds1.jpg" for 127.0.0.1 at 2014-09-18 11:55:40 -0400
+
+
+Started GET "/assets/theperfectfitlogo.png" for 127.0.0.1 at 2014-09-18 11:55:40 -0400
+
+
+Started GET "/assets/hair-3.jpg" for 127.0.0.1 at 2014-09-18 11:55:40 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-18 11:56:04 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 87ms (Views: 86.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-09-18 11:56:04 -0400
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-09-18 11:56:04 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-09-18 11:56:04 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-09-18 11:56:04 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-09-18 11:56:04 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-18 11:56:04 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-18 11:56:04 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-18 11:56:04 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-18 11:56:04 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-09-18 11:56:04 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-09-18 11:56:04 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-18 11:56:05 -0400
+
+
+Started GET "/assets/Cara-(Futura)-SSW-IFW.png" for 127.0.0.1 at 2014-09-18 11:56:05 -0400
+
+
+Started GET "/assets/Jill%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-09-18 11:56:05 -0400
+
+
+Started GET "/assets/Kim%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-09-18 11:56:05 -0400
+
+
+Started GET "/assets/Lisa%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-09-18 11:56:05 -0400
+
+
+Started GET "/assets/beauty-backgrounds1.jpg" for 127.0.0.1 at 2014-09-18 11:56:05 -0400
+
+
+Started GET "/assets/hair-3.jpg" for 127.0.0.1 at 2014-09-18 11:56:05 -0400
+
+
+Started GET "/assets/theperfectfitlogo.png" for 127.0.0.1 at 2014-09-18 11:56:05 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-18 11:56:42 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 218ms (Views: 217.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-09-18 11:56:42 -0400
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-09-18 11:56:42 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-09-18 11:56:42 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-09-18 11:56:42 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-09-18 11:56:42 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-18 11:56:42 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-09-18 11:56:42 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-18 11:56:42 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-18 11:56:42 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-18 11:56:42 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-09-18 11:56:42 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-18 11:56:42 -0400
+
+
+Started GET "/assets/Cara-(Futura)-SSW-IFW.png" for 127.0.0.1 at 2014-09-18 11:56:42 -0400
+
+
+Started GET "/assets/Jill%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-09-18 11:56:42 -0400
+
+
+Started GET "/assets/Kim%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-09-18 11:56:42 -0400
+
+
+Started GET "/assets/Lisa%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-09-18 11:56:42 -0400
+
+
+Started GET "/assets/beauty-backgrounds1.jpg" for 127.0.0.1 at 2014-09-18 11:56:42 -0400
+
+
+Started GET "/assets/hair-3.jpg" for 127.0.0.1 at 2014-09-18 11:56:42 -0400
+
+
+Started GET "/assets/theperfectfitlogo.png" for 127.0.0.1 at 2014-09-18 11:56:42 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-18 11:56:52 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 134ms (Views: 133.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-09-18 11:56:52 -0400
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-09-18 11:56:52 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-09-18 11:56:52 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-09-18 11:56:52 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-09-18 11:56:52 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-18 11:56:52 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-09-18 11:56:52 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-18 11:56:52 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-18 11:56:52 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-18 11:56:52 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-09-18 11:56:52 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-18 11:56:52 -0400
+
+
+Started GET "/assets/Cara-(Futura)-SSW-IFW.png" for 127.0.0.1 at 2014-09-18 11:56:52 -0400
+
+
+Started GET "/assets/Jill%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-09-18 11:56:52 -0400
+
+
+Started GET "/assets/Kim%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-09-18 11:56:52 -0400
+
+
+Started GET "/assets/Lisa%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-09-18 11:56:52 -0400
+
+
+Started GET "/assets/beauty-backgrounds1.jpg" for 127.0.0.1 at 2014-09-18 11:56:52 -0400
+
+
+Started GET "/assets/hair-3.jpg" for 127.0.0.1 at 2014-09-18 11:56:52 -0400
+
+
+Started GET "/assets/theperfectfitlogo.png" for 127.0.0.1 at 2014-09-18 11:56:52 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-18 11:57:00 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 131ms (Views: 130.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-09-18 11:57:00 -0400
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-09-18 11:57:00 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-09-18 11:57:00 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-09-18 11:57:00 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-09-18 11:57:00 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-18 11:57:00 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-09-18 11:57:00 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-18 11:57:00 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-18 11:57:00 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-18 11:57:00 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-09-18 11:57:00 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-18 11:57:00 -0400
+
+
+Started GET "/assets/Cara-(Futura)-SSW-IFW.png" for 127.0.0.1 at 2014-09-18 11:57:00 -0400
+
+
+Started GET "/assets/Jill%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-09-18 11:57:00 -0400
+
+
+Started GET "/assets/Kim%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-09-18 11:57:00 -0400
+
+
+Started GET "/assets/Lisa%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-09-18 11:57:01 -0400
+
+
+Started GET "/assets/beauty-backgrounds1.jpg" for 127.0.0.1 at 2014-09-18 11:57:01 -0400
+
+
+Started GET "/assets/hair-3.jpg" for 127.0.0.1 at 2014-09-18 11:57:01 -0400
+
+
+Started GET "/assets/theperfectfitlogo.png" for 127.0.0.1 at 2014-09-18 11:57:01 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-18 11:57:10 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 122ms (Views: 121.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-09-18 11:57:10 -0400
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-09-18 11:57:10 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-09-18 11:57:10 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-09-18 11:57:10 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-09-18 11:57:10 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-18 11:57:10 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-09-18 11:57:10 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-18 11:57:10 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-18 11:57:10 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-18 11:57:10 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-09-18 11:57:10 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-18 11:57:10 -0400
+
+
+Started GET "/assets/Cara-(Futura)-SSW-IFW.png" for 127.0.0.1 at 2014-09-18 11:57:10 -0400
+
+
+Started GET "/assets/Jill%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-09-18 11:57:10 -0400
+
+
+Started GET "/assets/Kim%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-09-18 11:57:10 -0400
+
+
+Started GET "/assets/Lisa%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-09-18 11:57:10 -0400
+
+
+Started GET "/assets/beauty-backgrounds1.jpg" for 127.0.0.1 at 2014-09-18 11:57:10 -0400
+
+
+Started GET "/assets/hair-3.jpg" for 127.0.0.1 at 2014-09-18 11:57:10 -0400
+
+
+Started GET "/assets/theperfectfitlogo.png" for 127.0.0.1 at 2014-09-18 11:57:10 -0400
+
+
+Started GET "/welcome/about" for 127.0.0.1 at 2014-09-18 12:12:28 -0400
+Processing by WelcomeController#about as HTML
+  Rendered welcome/about.html.erb within layouts/application (14.0ms)
+Completed 200 OK in 277ms (Views: 227.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jforu.jpg" for 127.0.0.1 at 2014-09-18 12:12:29 -0400
+
+
+Started GET "/welcome/about" for 127.0.0.1 at 2014-09-18 12:24:45 -0400
+Processing by WelcomeController#about as HTML
+  Rendered welcome/about.html.erb within layouts/application (42.4ms)
+Completed 200 OK in 194ms (Views: 193.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-09-18 12:24:46 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-09-18 12:24:46 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-18 12:24:46 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-18 12:24:46 -0400
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-09-18 12:24:46 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-09-18 12:24:46 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-09-18 12:24:46 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-18 12:24:46 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-18 12:24:46 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-09-18 12:24:46 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-18 12:24:46 -0400
+
+
+Started GET "/assets/Tammara_wigs-3126-Edit.jpg" for 127.0.0.1 at 2014-09-18 12:24:46 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-09-18 12:24:46 -0400
+
+
+Started GET "/assets/jforu.jpg" for 127.0.0.1 at 2014-09-18 12:24:46 -0400
+
+
+Started GET "/assets/beauty-backgrounds1.jpg" for 127.0.0.1 at 2014-09-18 12:24:47 -0400
+
+
+Started GET "/assets/theperfectfitlogo.png" for 127.0.0.1 at 2014-09-18 12:24:47 -0400
