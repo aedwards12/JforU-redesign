@@ -1,14 +1,19 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<%= favicon_link_tag 'favco_jforu2.ico' %>
+
+	<link rel="JforU icon" type="image/x-icon" <%=image_tag("favicon_jforu.ico")%>
   <title>JforU</title>
   <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track' => true %>
   <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 
   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
   <%= csrf_meta_tags %>
+
+
 </head>
-<body>
+<body >
 	<header class="row transparent-white">
 		<section class="columns small-12 medium-6 large-5">
 			<h1 class="">The Perfect Fit, Just For You LLC</h1>
@@ -26,7 +31,7 @@
   <%= yield %>
   
 	<footer class="row">
-		<article class="columns small-12 medium-6 large-3">
+		<article class="columns small-12 medium-4 large-3">
 			<ul>
 				<li> <i class="fa fa-clock-o fa-2x"></i> &nbsp;Hours of Operation</li>
 				<li>Tuesday - Saturday: 11am- 6pm</li>
@@ -40,12 +45,14 @@
 				<li>P: (845) 853-8040</li>
 			</ul>
 		</article>
-	  <article class="social columns small-12 medium-6 large-6 ">
+	  <article class="social columns small-12 medium-3 large-6 ">
 		
   	</article>
 
-	  <article class=" columns small-12 medium-6 large-2 left">
-			<i class="fa fa-facebook-square fa-5x"></i> &nbsp;<i class="fa fa-twitter-square fa-5x"></i> &nbsp;
+	  <article class=" columns small-12 medium-3 large-2 left icons">
+			<a href="https://www.facebook.com/pages/The-Perfect-Fit-Just-for-You/604031709684433"><i class="fa fa-facebook-square fa-5x"></a></i> &nbsp;
+
+			<i class="fa fa-twitter-square fa-5x"></i> &nbsp;
 		</article>
 	</footer>
 

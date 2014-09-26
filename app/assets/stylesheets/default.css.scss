@@ -9,7 +9,7 @@ body{
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	background-size: 100%, auto;
-	/*background-size: cover;*/
+	background-size: cover;
 	font-family: 'News Cycle', sans-serif;
 }
 
@@ -39,7 +39,7 @@ header {
 
 footer{
 	/*padding-top: 2em;*/
-	height: 20em;
+	/*height: 20em;*/
 	width: 100%;
 	/*background-image: url("map.png");
   background-position: center;
@@ -80,25 +80,17 @@ footer{
   	width: 30em;
   	height: 18em;
   	margin-top: 1em;
-  	margin-left: 4em;
+  	/*margin-bottom: 2em;*/
   	background-image:  image-url("theperfectfitlogo.png");
     background-position: top center;
   	background-size: 30em, 30em;
   	background-repeat: no-repeat;
-  	overflow: hidden;
-
-  	/*i{
-  		margin-top: 2.7em;
-  	}*/
-  	i:hover{
-  		color: $hot_pink;
-  	}
+  	overflow: hidden;  
 }
 
-/*foundation changes*/
-/*
-.row{
-	max-width: 88.5em;
-}
-*/
+.icons{
+	margin-top: 1em;
+		margin-bottom: 4em;
+	}
+
 

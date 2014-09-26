@@ -60,12 +60,14 @@ nav{
 #hair-loss{
 	height: 22em;
 	padding-top: 2em;
+	padding-left: 2em;
+	padding-right: 2em;
 	background-color: rgba(255, 255, 255, 1);
   overflow: hidden;
 	article{
   	float: left;
 	  p{
-	  	font-size: 1.2em;
+	  	font-size: 1.1em;
 	  }
 	  .color{
 	  	color:$hot_pink;
@@ -75,6 +77,8 @@ nav{
 
 
 .education{
+	padding-left: 2em;
+	padding-right: 2em;
 	padding-top: 5px;
   background-color: rgba(0, 0, 0, 0.9);
 	min-height: 18em;
@@ -85,7 +89,7 @@ nav{
 			color: white;
 		}
 	  p{
-	  	font-size: 1.2em;
+	  	font-size: 1.1em;
 	  }
 	  i{
 	  	color: white;
@@ -251,6 +255,7 @@ input[type=checkbox]:checked ~ #menu{
 }
 
 
+
 /*Responsive Styles*/
 
 @media screen and (max-width : 760px){
@@ -274,3 +279,10 @@ input[type=checkbox]:checked ~ #menu{
 }
 }
 
+.fa{
+	color:#966AFC;
+}
+
+.fa:hover{
+    color:#CDBBF7;
+}
