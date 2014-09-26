@@ -35952,3 +35952,195 @@ Started GET "/assets/Tammara_wigs-3126-Edit.jpg" for 127.0.0.1 at 2014-09-26 16:
 
 
 Started GET "/assets/jforu.jpg" for 127.0.0.1 at 2014-09-26 16:06:36 -0400
+
+
+Started GET "/welcome/about" for 127.0.0.1 at 2014-09-26 16:32:03 -0400
+Processing by WelcomeController#about as HTML
+  Rendered welcome/about.html.erb within layouts/application (2.9ms)
+Completed 500 Internal Server Error in 465ms
+
+ActionView::Template::Error (File to import not found or unreadable: foundation/functions.
+Load paths:
+  /Users/anthonyedwardsjr/Desktop/Ruby/projects/JforU-redesign/app/assets/images
+  /Users/anthonyedwardsjr/Desktop/Ruby/projects/JforU-redesign/app/assets/javascripts
+  /Users/anthonyedwardsjr/Desktop/Ruby/projects/JforU-redesign/app/assets/stylesheets
+  /Users/anthonyedwardsjr/Desktop/Ruby/projects/JforU-redesign/vendor/assets/javascripts
+  /Users/anthonyedwardsjr/Desktop/Ruby/projects/JforU-redesign/vendor/assets/stylesheets
+  /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/turbolinks-2.3.0/lib/assets/javascripts
+  /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/jquery-rails-3.1.2/vendor/assets/javascripts
+  /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/coffee-rails-4.0.1/lib/assets/javascripts
+  (in /Users/anthonyedwardsjr/Desktop/Ruby/projects/JforU-redesign/app/assets/stylesheets/default.css.scss:3)):
+     5: 
+     6: 	<link rel="JforU icon" type="image/x-icon" <%=image_tag("favicon_jforu.ico")%>
+     7:   <title>JforU</title>
+     8:   <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track' => true %>
+     9:   <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+    10: 
+    11:   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+  app/assets/stylesheets/default.css.scss:3
+  app/views/layouts/application.html.erb:8:in `_app_views_layouts_application_html_erb__2348894618652097663_2172463920'
+
+
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.5ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.6ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (18.0ms)
+
+
+Started GET "/welcome/about" for 127.0.0.1 at 2014-09-26 16:32:28 -0400
+Processing by WelcomeController#about as HTML
+  Rendered welcome/about.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 221ms (Views: 220.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-09-26 16:32:28 -0400
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-09-26 16:32:28 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-09-26 16:32:28 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-09-26 16:32:28 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-09-26 16:32:28 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-26 16:32:28 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-26 16:32:28 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-26 16:32:28 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-26 16:32:28 -0400
+
+
+Started GET "/assets/foundation.min.js?body=1" for 127.0.0.1 at 2014-09-26 16:32:29 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-09-26 16:32:29 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-09-26 16:32:29 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-26 16:32:29 -0400
+
+
+Started GET "/assets/Tammara_wigs-3126-Edit.jpg" for 127.0.0.1 at 2014-09-26 16:32:29 -0400
+
+
+Started GET "/assets/jforu.jpg" for 127.0.0.1 at 2014-09-26 16:32:29 -0400
+
+
+Started GET "/assets/beauty-backgrounds1.jpg" for 127.0.0.1 at 2014-09-26 16:32:29 -0400
+
+
+Started GET "/assets/theperfectfitlogo.png" for 127.0.0.1 at 2014-09-26 16:32:29 -0400
+
+
+Started GET "/welcome/about" for 127.0.0.1 at 2014-09-26 16:34:30 -0400
+Processing by WelcomeController#about as HTML
+  Rendered welcome/about.html.erb within layouts/application (0.4ms)
+Completed 500 Internal Server Error in 166ms
+
+ActionView::Template::Error (Invalid CSS after "/Small": expected "/", was " screens */"
+  (in /Users/anthonyedwardsjr/Desktop/Ruby/projects/JforU-redesign/app/assets/stylesheets/default.css.scss:96)):
+     5: 
+     6: 	<link rel="JforU icon" type="image/x-icon" <%=image_tag("favicon_jforu.ico")%>
+     7:   <title>JforU</title>
+     8:   <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track' => true %>
+     9:   <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+    10: 
+    11:   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+  app/assets/stylesheets/default.css.scss:96
+  app/views/layouts/application.html.erb:8:in `_app_views_layouts_application_html_erb__2348894618652097663_2172463920'
+
+
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.6ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.5ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (17.8ms)
+
+
+Started GET "/welcome/about" for 127.0.0.1 at 2014-09-26 16:34:52 -0400
+Processing by WelcomeController#about as HTML
+  Rendered welcome/about.html.erb within layouts/application (0.7ms)
+Completed 500 Internal Server Error in 32ms
+
+ActionView::Template::Error (Invalid CSS after "...ly screen { } /": expected identifier, was " Define mobile ..."
+  (in /Users/anthonyedwardsjr/Desktop/Ruby/projects/JforU-redesign/app/assets/stylesheets/default.css.scss:97)):
+     5: 
+     6: 	<link rel="JforU icon" type="image/x-icon" <%=image_tag("favicon_jforu.ico")%>
+     7:   <title>JforU</title>
+     8:   <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track' => true %>
+     9:   <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+    10: 
+    11:   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+  app/assets/stylesheets/default.css.scss:97
+  app/views/layouts/application.html.erb:8:in `_app_views_layouts_application_html_erb__2348894618652097663_2172463920'
+
+
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.7ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.9ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (11.2ms)
+
+
+Started GET "/welcome/about" for 127.0.0.1 at 2014-09-26 16:35:12 -0400
+Processing by WelcomeController#about as HTML
+  Rendered welcome/about.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 496ms (Views: 495.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-09-26 16:35:13 -0400
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-09-26 16:35:13 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-26 16:35:13 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-09-26 16:35:13 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-09-26 16:35:13 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-09-26 16:35:13 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-26 16:35:13 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-26 16:35:13 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-26 16:35:13 -0400
+
+
+Started GET "/assets/foundation.min.js?body=1" for 127.0.0.1 at 2014-09-26 16:35:13 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-09-26 16:35:13 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-09-26 16:35:13 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-26 16:35:13 -0400
+
+
+Started GET "/assets/Tammara_wigs-3126-Edit.jpg" for 127.0.0.1 at 2014-09-26 16:35:13 -0400
+
+
+Started GET "/assets/jforu.jpg" for 127.0.0.1 at 2014-09-26 16:35:13 -0400
+
+
+Started GET "/assets/beauty-backgrounds1.jpg" for 127.0.0.1 at 2014-09-26 16:35:13 -0400
+
+
+Started GET "/assets/theperfectfitlogo.png" for 127.0.0.1 at 2014-09-26 16:35:13 -0400

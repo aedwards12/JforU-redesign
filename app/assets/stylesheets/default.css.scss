@@ -93,4 +93,46 @@ footer{
 		margin-bottom: 4em;
 	}
 
+/*Small screens */
+@media only screen { } /* Define mobile styles */
+
+/* max-width 640px, mobile-only styles, use when QAing mobile issues */
+@media only screen and (max-width: 40em) {
+
+}
+
+/* Medium screens /
+/ min-width 641px and max-width 767px medium screens */
+@media only screen and (min-width: 40.063em) and (max-width: 47.9375em) {
+
+}
+
+/* min-width 768px and max-width 980px, use when QAing tablet-only issues */
+@media only screen and (min-width: 48em) and (max-width: 61.25em) {
+
+}
+
+/* min-width 981px and max-width 1024px, use when QAing tablet-only issues */
+@media only screen and (min-width: 61.26em) and (max-width: 64em) {
+
+}
+
+/* Large screens / 
+/ min-width 1025px, large screens */
+@media only screen and (min-width: 64.063em) { }
+
+/* min-width 1025px and max-width 1440px, use when QAing large screen-only issues */
+@media only screen and (min-width: 64.063em) and (max-width: 90em) { }
+
+/* XLarge screens /
+/ min-width 1441px, xlarge screens */
+@media only screen and (min-width: 90.063em) { }
+
+/* min-width 1441px and max-width 1920px, use when QAing xlarge screen-only issues */
+@media only screen and (min-width: 90.063em) and (max-width: 120em) { }
+
+/* XXLarge screens /
+/ min-width 1921px, xlarge screens */
+@media only screen and (min-width: 120.063em) { }	
+
 
