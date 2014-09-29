@@ -6,13 +6,19 @@
 $logo-color: rgba(96, 16, 115, 1);
 $hot_pink: rgba(255, 63, 255, 0.9);
 
+.top-bar-section li a:not(.button):hover{
+	color:#966AFC !important;
+}
+
+
 /*image section*/
 .intro-images{
-	height: 25em;
-	width: 100%;
-	border: 1px solid black;
-	background-image: image-url("hair-3.jpg");
-	background-size:100%;
+	overflow: hidden;
+	max-height: 20em;
+	img{
+		width:100%;
+
+	}
 }
 
 .featured-wig{
