@@ -1,21 +1,21 @@
 <!DOCTYPE html>
-<html>
-<head>
-	<%= favicon_link_tag 'favco_jforu2.ico' %>
-	<meta name="viewport" content="width=device-width">
+<html lang="en">
+  <head>
+	
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title><%= content_for?(:title) ? yield(:title) : "The Perfect Fit" %></title>
+    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+	  <%= favicon_link_tag 'favco_jforu2.ico' %>
+
+    <%= stylesheet_link_tag "application" %>
+    <%= javascript_include_tag "vendor/modernizr" %>
+    <%= csrf_meta_tags %>
+  </head>
+<body>
 
 
-	<link rel="JforU icon" type="image/x-icon" <%=image_tag("favicon_jforu.ico")%>
-  <title>JforU</title>
-  <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track' => true %>
-  <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-
-  <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
-  <%= csrf_meta_tags %>
-
-
-</head>
-<body >
 	<header class="row transparent-white">
 		<section class="columns small-12 medium-6 large-5">
 			<h1 class="">The Perfect Fit, Just For You LLC</h1>
@@ -29,7 +29,8 @@
 			<h1>(845) 750-5646</h1>
 		</section>
   </header>
-
+  <%= render 'shared/navigation' %>
+  
   <%= yield %>
   
 	<footer class="row">
@@ -48,6 +49,7 @@
 			</ul>
 		</article>
 	  <article class="social columns small-12 medium-3 large-6 ">
+	  	<%=	image_tag("theperfectfitlogo.png") %>
 		
   	</article>
 
@@ -57,6 +59,6 @@
 			<i class="fa fa-twitter-square fa-5x"></i> &nbsp;
 		</article>
 	</footer>
-
+   <%= javascript_include_tag "application" %>
 </body>
 </html>

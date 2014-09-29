@@ -41,6 +41,7 @@ gem 'spring',        group: :development
 # gem 'debugger', group: [:development, :test]
 # gem 'font-awesome-sass', '~> 4.2.0'
 # gem 'sprockets_better_errors'
+gem 'foundation-rails'
 
 group :development, :test do
   gem 'rspec-rails', '~> 3.0.0'

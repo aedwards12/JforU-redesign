@@ -1,23 +1,10 @@
-// Place all the styles related to the Welcome controller here.
+/*Place all the styles related to the Welcome controller here.
 // They will automatically be included in application.css.
-// You can use Sass (SCSS) here: http://sass-lang.com/
+// You can use Sass (SCSS) here: http://sass-lang.com/*/
+
 /*header section*/
-$logo-color: rgba(96, 16, 115, 1);;
+$logo-color: rgba(96, 16, 115, 1);
 $hot_pink: rgba(255, 63, 255, 0.9);
-
-
-/*navigation section*/
-nav{
-	clear: left;
-	width: 100%;
-	height: 3em;
-	color: white;
-  background-color: rgba(0, 0, 0, 0.9);
-  margin-top: -1em;
-}
-.nav-background{
-	background-color: black;
-}
 
 /*image section*/
 .intro-images{
@@ -58,7 +45,7 @@ nav{
 }
 
 #hair-loss{
-	height: 22em;
+	min-height: 22em;
 	padding-top: 2em;
 	padding-left: 2em;
 	padding-right: 2em;
@@ -160,124 +147,7 @@ max-width: 89.5em;
 .transparent-white{
 	background-color: rgba(255,255,255,0.8);
 }
-nav{
-/*Strip the ul of padding and list styling*/
-ul {
-	list-style-type:none;
-	margin:0;
-	padding:0;
-	position: absolute;
-}
 
-/*Create a horizontal list with spacing*/
-li {
-	display:inline-block;
-	float: left;
-	margin-right: 1px;
-}
-
-/*Style for menu links*/
-li a {
-	display:block;
-	min-width:140px;
-	height: 49px;
-	text-align: center;
-	line-height: 50px;
-	/*font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
-	color: #fff;
-	/*background: #2f3036;*/
-	text-decoration: none;
-}
-
-/*Hover state for top level links*/
-
-li:hover a {
-	background: $hot_pink;
-	color: black;
-}
-
-/*Style for dropdown links*/
-li:hover ul a {
-	background: #f3f3f3;
-	color: #2f3036;
-	height: 40px;
-	line-height: 40px;
-}
-
-/*Hover state for dropdown links*/
-li:hover ul a:hover {
-	background: rgba(255, 63, 200, 0.7);;
-	color: #fff;
-}
-
-/*Hide dropdown links until they are needed*/
-li ul {
-	display: none;
-}
-
-/*Make dropdown links vertical*/
-li ul li {
-	display: block;
-	float: none;
-}
-
-/*Prevent text wrapping*/
-li ul li a {
-	width: auto;
-	min-width: 100px;
-	padding: 0 20px;
-}
-
-/*Display the dropdown on hover*/
-ul li a:hover + .hidden, .hidden:hover {
-	display: block;
-}
-
-/*Style 'show menu' label button and hide it by default*/
-.show-menu {
-	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-	text-decoration: none;
-	color: #fff;
-	background: $hot_pink;
-	text-align: center;
-	padding: 10px 0;
-	display: none;
-}
-
-/*Hide checkbox*/
-input[type=checkbox]{
-    display: none;
-}
-
-/*Show menu when invisible checkbox is checked*/
-input[type=checkbox]:checked ~ #menu{
-    display: block;
-}
-
-
-
-/*Responsive Styles*/
-
-@media screen and (max-width : 760px){
-	/*Make dropdown links appear inline*/
-	ul {
-		position: static;
-		display: none;
-	}
-	/*Create vertical spacing*/
-	li {
-		margin-bottom: 1px;
-	}
-	/*Make all menu links full width*/
-	ul li, li a {
-		width: 100%;
-	}
-	/*Display 'show menu' link*/
-	.show-menu {
-		display:block;
-	}
-}
-}
 
 .fa{
 	color:#966AFC;
@@ -286,3 +156,4 @@ input[type=checkbox]:checked ~ #menu{
 .fa:hover{
     color:#CDBBF7;
 }
+

@@ -1,6 +1,9 @@
 @import url(http://fonts.googleapis.com/css?family=News+Cycle:400,700);
 /*@import url(http://fonts.googleapis.com/css?family=Abel|Quicksand|Play|Raleway:500);*/
 
+@import "foundation/components/top-bar";
+
+
 $logo-color: rgba(96, 16, 115, 1);
 $hot_pink: rgba(255, 63, 255, 0.9);
 
@@ -15,7 +18,6 @@ body{
 
 /*header section*/
 header {
-
 		.increase-size{
 			font-size: 2.0em;
 		}
@@ -26,11 +28,7 @@ header {
 			padding-right: .8em;
 			text-align: center;
 		}
-	
-
 	.phone{
-	
-	
 		line-height: .9em;
 		text-align: center;
 	}	
@@ -38,12 +36,8 @@ header {
 
 
 footer{
-	/*padding-top: 2em;*/
-	/*height: 20em;*/
+
 	width: 100%;
-	/*background-image: url("map.png");
-  background-position: center;
-  background-size: cover; */
 	background-color: rgba(255, 255, 255, 0.9);
   
 		ul {
@@ -77,20 +71,20 @@ footer{
 
   .social{
   	float: left;
-  	width: 30em;
-  	height: 18em;
+  	/*width: 30em;*/
+  	/*height: 18em;*/
   	margin-top: 1em;
   	/*margin-bottom: 2em;*/
-  	background-image:  image-url("theperfectfitlogo.png");
-    background-position: top center;
-  	background-size: 30em, 30em;
-  	background-repeat: no-repeat;
-  	overflow: hidden;  
+  	/*background-image:  image-url("theperfectfitlogo.png");*/
+    /*background-position: top center;*/
+  	/*background-size: 30em, 30em;*/
+  	/*background-repeat: no-repeat;*/
+  	/*overflow: hidden;  */
 }
 
 .icons{
 	margin-top: 1em;
-		margin-bottom: 4em;
+		margin-bottom: 2em;
 	}
 
 $small-range: (0em, 40em); /* 0, 640px */
