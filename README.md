@@ -5,4 +5,4 @@ redesign of jforu.com
 
 
 
-http://desolate-ocean-4606.herokuapp.com/
+http://theperfectfit.herokuapp.com/
