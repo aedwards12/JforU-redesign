@@ -51109,3 +51109,124 @@ Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-09-29 13:32:25 -04
 
 
 Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-29 13:32:25 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-09-30 15:05:10 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (162.0ms)
+  Rendered shared/_navigation.html.erb (0.4ms)
+Completed 200 OK in 2652ms (Views: 2618.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-09-30 15:05:13 -0400
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-09-30 15:05:13 -0400
+
+
+Started GET "/assets/foundation_and_overrides.css?body=1" for 127.0.0.1 at 2014-09-30 15:05:13 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-09-30 15:05:13 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-09-30 15:05:13 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-09-30 15:05:13 -0400
+
+
+Started GET "/assets/vendor/modernizr.js?body=1" for 127.0.0.1 at 2014-09-30 15:05:13 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-09-30 15:05:13 -0400
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2014-09-30 15:05:13 -0400
+
+
+Started GET "/assets/foundation/foundation.accordion.js?body=1" for 127.0.0.1 at 2014-09-30 15:05:13 -0400
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2014-09-30 15:05:13 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-09-30 15:05:13 -0400
+
+
+Started GET "/assets/foundation/foundation.alert.js?body=1" for 127.0.0.1 at 2014-09-30 15:05:13 -0400
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2014-09-30 15:05:13 -0400
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2014-09-30 15:05:13 -0400
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2014-09-30 15:05:13 -0400
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2014-09-30 15:05:13 -0400
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2014-09-30 15:05:13 -0400
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2014-09-30 15:05:13 -0400
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2014-09-30 15:05:13 -0400
+
+
+Started GET "/assets/foundation/foundation.slider.js?body=1" for 127.0.0.1 at 2014-09-30 15:05:13 -0400
+
+
+Started GET "/assets/foundation/foundation.offcanvas.js?body=1" for 127.0.0.1 at 2014-09-30 15:05:13 -0400
+
+
+Started GET "/assets/foundation/foundation.tab.js?body=1" for 127.0.0.1 at 2014-09-30 15:05:13 -0400
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2014-09-30 15:05:13 -0400
+
+
+Started GET "/assets/foundation/foundation.equalizer.js?body=1" for 127.0.0.1 at 2014-09-30 15:05:13 -0400
+
+
+Started GET "/assets/foundation.js?body=1" for 127.0.0.1 at 2014-09-30 15:05:13 -0400
+
+
+Started GET "/assets/foundation/foundation.tooltip.js?body=1" for 127.0.0.1 at 2014-09-30 15:05:13 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-09-30 15:05:13 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-09-30 15:05:13 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-09-30 15:05:13 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-09-30 15:05:13 -0400
+
+
+Started GET "/assets/banner_foru_brands.jpg" for 127.0.0.1 at 2014-09-30 15:05:14 -0400
+
+
+Started GET "/assets/beauty-backgrounds1.jpg" for 127.0.0.1 at 2014-09-30 15:05:14 -0400
+
+
+Started GET "/assets/Jill%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-09-30 15:05:14 -0400
+
+
+Started GET "/assets/SHEER%20TOUCH%20MODERATE%20HAIRPIECE%20copy.png" for 127.0.0.1 at 2014-09-30 15:05:14 -0400
+
+
+Started GET "/assets/ORCHID%20WIG%20BY%20ESTETICA%20DESIGNS.png" for 127.0.0.1 at 2014-09-30 15:05:14 -0400
+
+
+Started GET "/assets/Lisa%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-09-30 15:05:14 -0400
+
+
+Started GET "/assets/theperfectfitlogo.png" for 127.0.0.1 at 2014-09-30 15:05:14 -0400
