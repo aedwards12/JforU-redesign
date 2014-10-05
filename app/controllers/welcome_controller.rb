@@ -1,4 +1,5 @@
 class WelcomeController < ApplicationController
+  respond_to :html, :xml
   def home
   end
 
@@ -6,5 +7,8 @@ class WelcomeController < ApplicationController
   end
   
   def press
+  end	
+
+  def sitemap
   end	
 end
