@@ -11,4 +11,7 @@ class WelcomeController < ApplicationController
 
   def sitemap
   end	
+
+  def hair_loss
+  end	
 end

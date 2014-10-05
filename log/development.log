@@ -52448,3 +52448,2220 @@ Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-10-05 18:39:59 -04
 
 
 Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-05 18:39:59 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-05 19:26:20 -0400
+
+ArgumentError (Missing :controller key on routes definition, please check your routes.):
+  config/routes.rb:5:in `block in <top (required)>'
+  config/routes.rb:1:in `<top (required)>'
+
+
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.6ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.1ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (19.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-05 19:28:48 -0400
+
+ArgumentError (Missing :controller key on routes definition, please check your routes.):
+  config/routes.rb:5:in `block in <top (required)>'
+  config/routes.rb:1:in `<top (required)>'
+
+
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.9ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.1ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.8ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (15.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-05 19:29:39 -0400
+
+SyntaxError (/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/controllers/welcome_controller.rb:15: syntax error, unexpected tSTRING_BEG
+  def "hair_loss"
+       ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/controllers/welcome_controller.rb:17: syntax error, unexpected keyword_end, expecting end-of-input):
+  app/controllers/welcome_controller.rb:15: syntax error, unexpected tSTRING_BEG
+  app/controllers/welcome_controller.rb:17: syntax error, unexpected keyword_end, expecting end-of-input
+
+
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.7ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (14.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-05 19:29:58 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (1.0ms)
+  Rendered shared/_navigation.html.erb (0.1ms)
+Completed 200 OK in 395ms (Views: 394.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-10-05 19:29:59 -0400
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-10-05 19:29:59 -0400
+
+
+Started GET "/assets/foundation_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-05 19:29:59 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-10-05 19:29:59 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-10-05 19:29:59 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-05 19:29:59 -0400
+
+
+Started GET "/assets/vendor/modernizr.js?body=1" for 127.0.0.1 at 2014-10-05 19:29:59 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-05 19:29:59 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-05 19:29:59 -0400
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2014-10-05 19:29:59 -0400
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2014-10-05 19:29:59 -0400
+
+
+Started GET "/assets/foundation/foundation.accordion.js?body=1" for 127.0.0.1 at 2014-10-05 19:29:59 -0400
+
+
+Started GET "/assets/foundation/foundation.alert.js?body=1" for 127.0.0.1 at 2014-10-05 19:29:59 -0400
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2014-10-05 19:29:59 -0400
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2014-10-05 19:29:59 -0400
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2014-10-05 19:29:59 -0400
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2014-10-05 19:29:59 -0400
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2014-10-05 19:29:59 -0400
+
+
+Started GET "/assets/foundation/foundation.offcanvas.js?body=1" for 127.0.0.1 at 2014-10-05 19:29:59 -0400
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2014-10-05 19:29:59 -0400
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2014-10-05 19:29:59 -0400
+
+
+Started GET "/assets/foundation/foundation.slider.js?body=1" for 127.0.0.1 at 2014-10-05 19:29:59 -0400
+
+
+Started GET "/assets/foundation/foundation.tab.js?body=1" for 127.0.0.1 at 2014-10-05 19:29:59 -0400
+
+
+Started GET "/assets/foundation/foundation.tooltip.js?body=1" for 127.0.0.1 at 2014-10-05 19:29:59 -0400
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2014-10-05 19:29:59 -0400
+
+
+Started GET "/assets/foundation/foundation.equalizer.js?body=1" for 127.0.0.1 at 2014-10-05 19:29:59 -0400
+
+
+Started GET "/assets/foundation.js?body=1" for 127.0.0.1 at 2014-10-05 19:29:59 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-05 19:29:59 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-10-05 19:29:59 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-10-05 19:29:59 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-05 19:29:59 -0400
+
+
+Started GET "/assets/banner_foru_brands.jpg" for 127.0.0.1 at 2014-10-05 19:29:59 -0400
+
+
+Started GET "/assets/ORCHID%20WIG%20BY%20ESTETICA%20DESIGNS.png" for 127.0.0.1 at 2014-10-05 19:29:59 -0400
+
+
+Started GET "/assets/Jill%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-10-05 19:29:59 -0400
+
+
+Started GET "/assets/SHEER%20TOUCH%20MODERATE%20HAIRPIECE%20copy.png" for 127.0.0.1 at 2014-10-05 19:29:59 -0400
+
+
+Started GET "/assets/Lisa%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-10-05 19:29:59 -0400
+
+
+Started GET "/assets/theperfectfitlogo.png" for 127.0.0.1 at 2014-10-05 19:29:59 -0400
+
+
+Started GET "/assets/beauty-backgrounds1.jpg" for 127.0.0.1 at 2014-10-05 19:29:59 -0400
+
+
+Started GET "/welcome/hair_loss" for 127.0.0.1 at 2014-10-05 19:30:14 -0400
+Processing by WelcomeController#hair_loss as HTML
+  Rendered welcome/hair_loss.html.erb within layouts/application (0.6ms)
+  Rendered shared/_navigation.html.erb (0.0ms)
+Completed 200 OK in 256ms (Views: 255.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-10-05 19:30:14 -0400
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-10-05 19:30:14 -0400
+
+
+Started GET "/assets/foundation_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-05 19:30:14 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-10-05 19:30:14 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-10-05 19:30:14 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-05 19:30:14 -0400
+
+
+Started GET "/assets/vendor/modernizr.js?body=1" for 127.0.0.1 at 2014-10-05 19:30:14 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-05 19:30:14 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-05 19:30:14 -0400
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2014-10-05 19:30:14 -0400
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2014-10-05 19:30:14 -0400
+
+
+Started GET "/assets/foundation/foundation.accordion.js?body=1" for 127.0.0.1 at 2014-10-05 19:30:14 -0400
+
+
+Started GET "/assets/foundation/foundation.alert.js?body=1" for 127.0.0.1 at 2014-10-05 19:30:14 -0400
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2014-10-05 19:30:14 -0400
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2014-10-05 19:30:14 -0400
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2014-10-05 19:30:14 -0400
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2014-10-05 19:30:14 -0400
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2014-10-05 19:30:14 -0400
+
+
+Started GET "/assets/foundation/foundation.offcanvas.js?body=1" for 127.0.0.1 at 2014-10-05 19:30:14 -0400
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2014-10-05 19:30:14 -0400
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2014-10-05 19:30:14 -0400
+
+
+Started GET "/assets/foundation/foundation.slider.js?body=1" for 127.0.0.1 at 2014-10-05 19:30:14 -0400
+
+
+Started GET "/assets/foundation/foundation.tab.js?body=1" for 127.0.0.1 at 2014-10-05 19:30:14 -0400
+
+
+Started GET "/assets/foundation/foundation.tooltip.js?body=1" for 127.0.0.1 at 2014-10-05 19:30:14 -0400
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2014-10-05 19:30:14 -0400
+
+
+Started GET "/assets/foundation/foundation.equalizer.js?body=1" for 127.0.0.1 at 2014-10-05 19:30:14 -0400
+
+
+Started GET "/assets/foundation.js?body=1" for 127.0.0.1 at 2014-10-05 19:30:14 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-05 19:30:14 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-10-05 19:30:14 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-10-05 19:30:14 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-05 19:30:14 -0400
+
+
+Started GET "/assets/beauty-backgrounds1.jpg" for 127.0.0.1 at 2014-10-05 19:30:14 -0400
+
+
+Started GET "/assets/theperfectfitlogo.png" for 127.0.0.1 at 2014-10-05 19:30:14 -0400
+
+
+Started GET "/welcome/hair_loss" for 127.0.0.1 at 2014-10-05 19:31:15 -0400
+Processing by WelcomeController#hair_loss as HTML
+  Rendered welcome/hair_loss.html.erb within layouts/application (0.0ms)
+  Rendered shared/_navigation.html.erb (0.4ms)
+Completed 200 OK in 153ms (Views: 152.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-10-05 19:31:15 -0400
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-10-05 19:31:15 -0400
+
+
+Started GET "/assets/foundation_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-05 19:31:15 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-10-05 19:31:15 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-10-05 19:31:15 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-05 19:31:15 -0400
+
+
+Started GET "/assets/vendor/modernizr.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:15 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:15 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:15 -0400
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:15 -0400
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:15 -0400
+
+
+Started GET "/assets/foundation/foundation.accordion.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:15 -0400
+
+
+Started GET "/assets/foundation/foundation.alert.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:15 -0400
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:15 -0400
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:15 -0400
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:15 -0400
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:15 -0400
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:15 -0400
+
+
+Started GET "/assets/foundation/foundation.offcanvas.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:15 -0400
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:15 -0400
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:15 -0400
+
+
+Started GET "/assets/foundation/foundation.slider.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:15 -0400
+
+
+Started GET "/assets/foundation/foundation.tab.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:15 -0400
+
+
+Started GET "/assets/foundation/foundation.tooltip.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:15 -0400
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:15 -0400
+
+
+Started GET "/assets/foundation/foundation.equalizer.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:15 -0400
+
+
+Started GET "/assets/foundation.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:15 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:15 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:15 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:15 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:15 -0400
+
+
+Started GET "/assets/beauty-backgrounds1.jpg" for 127.0.0.1 at 2014-10-05 19:31:15 -0400
+
+
+Started GET "/assets/theperfectfitlogo.png" for 127.0.0.1 at 2014-10-05 19:31:15 -0400
+
+
+Started GET "/welcome/hair_loss" for 127.0.0.1 at 2014-10-05 19:31:17 -0400
+Processing by WelcomeController#hair_loss as HTML
+  Rendered welcome/hair_loss.html.erb within layouts/application (0.4ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+Completed 200 OK in 158ms (Views: 157.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:17 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:17 -0400
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:17 -0400
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:17 -0400
+
+
+Started GET "/assets/foundation/foundation.accordion.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:17 -0400
+
+
+Started GET "/assets/foundation/foundation.alert.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:17 -0400
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:17 -0400
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:17 -0400
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:17 -0400
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:17 -0400
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:17 -0400
+
+
+Started GET "/assets/foundation/foundation.offcanvas.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:17 -0400
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:17 -0400
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:17 -0400
+
+
+Started GET "/assets/foundation/foundation.slider.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:17 -0400
+
+
+Started GET "/assets/foundation/foundation.tab.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:17 -0400
+
+
+Started GET "/assets/foundation/foundation.tooltip.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:17 -0400
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:17 -0400
+
+
+Started GET "/assets/foundation/foundation.equalizer.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:17 -0400
+
+
+Started GET "/assets/foundation.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:17 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:18 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:18 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:18 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:18 -0400
+
+
+Started GET "/welcome/home" for 127.0.0.1 at 2014-10-05 19:31:18 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (1.2ms)
+  Rendered shared/_navigation.html.erb (0.0ms)
+Completed 200 OK in 194ms (Views: 193.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/banner_foru_brands.jpg" for 127.0.0.1 at 2014-10-05 19:31:18 -0400
+
+
+Started GET "/assets/ORCHID%20WIG%20BY%20ESTETICA%20DESIGNS.png" for 127.0.0.1 at 2014-10-05 19:31:18 -0400
+
+
+Started GET "/assets/Jill%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-10-05 19:31:18 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:18 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:18 -0400
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:18 -0400
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:18 -0400
+
+
+Started GET "/assets/foundation/foundation.accordion.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:18 -0400
+
+
+Started GET "/assets/foundation/foundation.alert.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:18 -0400
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:18 -0400
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:18 -0400
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:18 -0400
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:18 -0400
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:18 -0400
+
+
+Started GET "/assets/foundation/foundation.offcanvas.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:18 -0400
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:18 -0400
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:18 -0400
+
+
+Started GET "/assets/foundation/foundation.slider.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:18 -0400
+
+
+Started GET "/assets/foundation/foundation.tab.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:18 -0400
+
+
+Started GET "/assets/foundation/foundation.tooltip.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:18 -0400
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:19 -0400
+
+
+Started GET "/assets/foundation/foundation.equalizer.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:19 -0400
+
+
+Started GET "/assets/foundation.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:19 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:19 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:19 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:19 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:19 -0400
+
+
+Started GET "/assets/SHEER%20TOUCH%20MODERATE%20HAIRPIECE%20copy.png" for 127.0.0.1 at 2014-10-05 19:31:19 -0400
+
+
+Started GET "/assets/Lisa%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-10-05 19:31:19 -0400
+
+
+Started GET "/welcome/hair_loss" for 127.0.0.1 at 2014-10-05 19:31:19 -0400
+Processing by WelcomeController#hair_loss as HTML
+  Rendered welcome/hair_loss.html.erb within layouts/application (0.0ms)
+  Rendered shared/_navigation.html.erb (0.1ms)
+Completed 200 OK in 158ms (Views: 157.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:19 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:19 -0400
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:19 -0400
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:19 -0400
+
+
+Started GET "/assets/foundation/foundation.accordion.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:19 -0400
+
+
+Started GET "/assets/foundation/foundation.alert.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:19 -0400
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:19 -0400
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:19 -0400
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:19 -0400
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:19 -0400
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:19 -0400
+
+
+Started GET "/assets/foundation/foundation.offcanvas.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:19 -0400
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:19 -0400
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:19 -0400
+
+
+Started GET "/assets/foundation/foundation.slider.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:19 -0400
+
+
+Started GET "/assets/foundation/foundation.tab.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:19 -0400
+
+
+Started GET "/assets/foundation/foundation.tooltip.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:19 -0400
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:20 -0400
+
+
+Started GET "/assets/foundation/foundation.equalizer.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:20 -0400
+
+
+Started GET "/assets/foundation.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:20 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:20 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:20 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:20 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-05 19:31:20 -0400
+
+
+Started GET "/welcome/hair_loss" for 127.0.0.1 at 2014-10-05 19:32:23 -0400
+Processing by WelcomeController#hair_loss as HTML
+  Rendered welcome/hair_loss.html.erb within layouts/application (1.2ms)
+  Rendered shared/_navigation.html.erb (0.1ms)
+Completed 200 OK in 746ms (Views: 745.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-10-05 19:32:24 -0400
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-10-05 19:32:24 -0400
+
+
+Started GET "/assets/foundation_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-05 19:32:24 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-10-05 19:32:24 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-10-05 19:32:24 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-05 19:32:24 -0400
+
+
+Started GET "/assets/vendor/modernizr.js?body=1" for 127.0.0.1 at 2014-10-05 19:32:24 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-05 19:32:24 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-05 19:32:24 -0400
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2014-10-05 19:32:24 -0400
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2014-10-05 19:32:24 -0400
+
+
+Started GET "/assets/foundation/foundation.accordion.js?body=1" for 127.0.0.1 at 2014-10-05 19:32:24 -0400
+
+
+Started GET "/assets/foundation/foundation.alert.js?body=1" for 127.0.0.1 at 2014-10-05 19:32:24 -0400
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2014-10-05 19:32:25 -0400
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2014-10-05 19:32:25 -0400
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2014-10-05 19:32:25 -0400
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2014-10-05 19:32:25 -0400
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2014-10-05 19:32:25 -0400
+
+
+Started GET "/assets/foundation/foundation.offcanvas.js?body=1" for 127.0.0.1 at 2014-10-05 19:32:25 -0400
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2014-10-05 19:32:25 -0400
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2014-10-05 19:32:25 -0400
+
+
+Started GET "/assets/foundation/foundation.slider.js?body=1" for 127.0.0.1 at 2014-10-05 19:32:25 -0400
+
+
+Started GET "/assets/foundation/foundation.tab.js?body=1" for 127.0.0.1 at 2014-10-05 19:32:25 -0400
+
+
+Started GET "/assets/foundation/foundation.tooltip.js?body=1" for 127.0.0.1 at 2014-10-05 19:32:25 -0400
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2014-10-05 19:32:25 -0400
+
+
+Started GET "/assets/foundation/foundation.equalizer.js?body=1" for 127.0.0.1 at 2014-10-05 19:32:25 -0400
+
+
+Started GET "/assets/foundation.js?body=1" for 127.0.0.1 at 2014-10-05 19:32:25 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-05 19:32:25 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-10-05 19:32:25 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-10-05 19:32:25 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-05 19:32:25 -0400
+
+
+Started GET "/assets/beauty-backgrounds1.jpg" for 127.0.0.1 at 2014-10-05 19:32:25 -0400
+
+
+Started GET "/assets/theperfectfitlogo.png" for 127.0.0.1 at 2014-10-05 19:32:25 -0400
+
+
+Started GET "/welcome/hair_loss" for 127.0.0.1 at 2014-10-05 19:35:45 -0400
+Processing by WelcomeController#hair_loss as HTML
+  Rendered welcome/hair_loss.html.erb within layouts/application (0.5ms)
+Warning. Error encountered while saving cache 2c0b84a960566cf0f2cd4cb971e9c4cfd439a485/welcome.css.scssc: can't dump anonymous class #<Class:0x00000101bd8768>
+
+Warning. Error encountered while saving cache 2c0b84a960566cf0f2cd4cb971e9c4cfd439a485/application.css.scssc: can't dump anonymous class #<Class:0x00000101bd8768>
+
+  Rendered shared/_navigation.html.erb (0.1ms)
+Completed 200 OK in 1260ms (Views: 1259.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-10-05 19:35:46 -0400
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-10-05 19:35:46 -0400
+
+
+Started GET "/assets/foundation_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-05 19:35:46 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-10-05 19:35:46 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-10-05 19:35:46 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-05 19:35:46 -0400
+
+
+Started GET "/assets/vendor/modernizr.js?body=1" for 127.0.0.1 at 2014-10-05 19:35:46 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-05 19:35:46 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-05 19:35:46 -0400
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2014-10-05 19:35:46 -0400
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2014-10-05 19:35:46 -0400
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2014-10-05 19:35:46 -0400
+
+
+Started GET "/assets/foundation/foundation.accordion.js?body=1" for 127.0.0.1 at 2014-10-05 19:35:46 -0400
+
+
+Started GET "/assets/foundation/foundation.alert.js?body=1" for 127.0.0.1 at 2014-10-05 19:35:46 -0400
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2014-10-05 19:35:46 -0400
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2014-10-05 19:35:46 -0400
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2014-10-05 19:35:46 -0400
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2014-10-05 19:35:46 -0400
+
+
+Started GET "/assets/foundation/foundation.offcanvas.js?body=1" for 127.0.0.1 at 2014-10-05 19:35:46 -0400
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2014-10-05 19:35:46 -0400
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2014-10-05 19:35:46 -0400
+
+
+Started GET "/assets/foundation/foundation.slider.js?body=1" for 127.0.0.1 at 2014-10-05 19:35:46 -0400
+
+
+Started GET "/assets/foundation/foundation.tab.js?body=1" for 127.0.0.1 at 2014-10-05 19:35:47 -0400
+
+
+Started GET "/assets/foundation/foundation.tooltip.js?body=1" for 127.0.0.1 at 2014-10-05 19:35:47 -0400
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2014-10-05 19:35:47 -0400
+
+
+Started GET "/assets/foundation/foundation.equalizer.js?body=1" for 127.0.0.1 at 2014-10-05 19:35:47 -0400
+
+
+Started GET "/assets/foundation.js?body=1" for 127.0.0.1 at 2014-10-05 19:35:47 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-05 19:35:47 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-10-05 19:35:47 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-10-05 19:35:47 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-05 19:35:47 -0400
+
+
+Started GET "/assets/beauty-backgrounds1.jpg" for 127.0.0.1 at 2014-10-05 19:35:47 -0400
+
+
+Started GET "/assets/theperfectfitlogo.png" for 127.0.0.1 at 2014-10-05 19:35:47 -0400
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-10-05 19:35:58 -0400
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-10-05 19:35:58 -0400
+
+
+Started GET "/assets/foundation_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-05 19:35:58 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-10-05 19:35:58 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-05 19:35:58 -0400
+
+
+Started GET "/welcome/hair_loss" for 127.0.0.1 at 2014-10-05 19:36:51 -0400
+Processing by WelcomeController#hair_loss as HTML
+  Rendered welcome/hair_loss.html.erb within layouts/application (0.4ms)
+  Rendered shared/_navigation.html.erb (0.1ms)
+Completed 200 OK in 343ms (Views: 342.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-10-05 19:36:52 -0400
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-10-05 19:36:52 -0400
+
+
+Started GET "/assets/foundation_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-05 19:36:52 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-10-05 19:36:52 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-10-05 19:36:52 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-05 19:36:52 -0400
+
+
+Started GET "/assets/vendor/modernizr.js?body=1" for 127.0.0.1 at 2014-10-05 19:36:52 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-05 19:36:52 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-05 19:36:52 -0400
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2014-10-05 19:36:52 -0400
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2014-10-05 19:36:52 -0400
+
+
+Started GET "/assets/foundation/foundation.accordion.js?body=1" for 127.0.0.1 at 2014-10-05 19:36:52 -0400
+
+
+Started GET "/assets/foundation/foundation.alert.js?body=1" for 127.0.0.1 at 2014-10-05 19:36:52 -0400
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2014-10-05 19:36:52 -0400
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2014-10-05 19:36:52 -0400
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2014-10-05 19:36:52 -0400
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2014-10-05 19:36:52 -0400
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2014-10-05 19:36:52 -0400
+
+
+Started GET "/assets/foundation/foundation.offcanvas.js?body=1" for 127.0.0.1 at 2014-10-05 19:36:52 -0400
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2014-10-05 19:36:52 -0400
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2014-10-05 19:36:52 -0400
+
+
+Started GET "/assets/foundation/foundation.slider.js?body=1" for 127.0.0.1 at 2014-10-05 19:36:52 -0400
+
+
+Started GET "/assets/foundation/foundation.tab.js?body=1" for 127.0.0.1 at 2014-10-05 19:36:52 -0400
+
+
+Started GET "/assets/foundation/foundation.tooltip.js?body=1" for 127.0.0.1 at 2014-10-05 19:36:52 -0400
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2014-10-05 19:36:52 -0400
+
+
+Started GET "/assets/foundation/foundation.equalizer.js?body=1" for 127.0.0.1 at 2014-10-05 19:36:52 -0400
+
+
+Started GET "/assets/foundation.js?body=1" for 127.0.0.1 at 2014-10-05 19:36:52 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-05 19:36:52 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-10-05 19:36:52 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-10-05 19:36:52 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-05 19:36:52 -0400
+
+
+Started GET "/assets/theperfectfitlogo.png" for 127.0.0.1 at 2014-10-05 19:36:52 -0400
+
+
+Started GET "/assets/beauty-backgrounds1.jpg" for 127.0.0.1 at 2014-10-05 19:36:52 -0400
+
+
+Started GET "/welcome/home" for 127.0.0.1 at 2014-10-05 19:39:17 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (11.1ms)
+Completed 500 Internal Server Error in 30ms
+
+ActionView::Template::Error (undefined local variable or method `welcome_hair_loss' for #<#<Class:0x000001051d9f88>:0x000001010bf160>):
+    46: 		<h2>Hair-loss</h2>
+    47: 	  <p>Do you suffer with hair loss? Whether it’s natural hair loss, genetic hair loss or hair loss from cancer treatments, there is something you can do about your hair loss. Anyone can experience hair loss. Women actually make up a large percentage of American hair loss sufferers <strong>(1 in 4 women suffer from hair loss in the U. S. alone)</strong>, that’s over <strong>40 million women</strong>. </p>
+    48: 
+    49: 	<%= link_to welcome_hair_loss %>
+    50: 	</article>
+    51: 
+    52: 	<article class=" columns small-12 medium-6">
+  app/views/welcome/home.html.erb:49:in `_app_views_welcome_home_html_erb__725592515908689461_2156258740'
+
+
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.1ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (12.6ms)
+
+
+Started GET "/welcome/home" for 127.0.0.1 at 2014-10-05 19:39:17 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (16.3ms)
+Completed 500 Internal Server Error in 22ms
+
+ActionView::Template::Error (undefined local variable or method `welcome_hair_loss' for #<#<Class:0x000001051d9f88>:0x00000105149870>):
+    46: 		<h2>Hair-loss</h2>
+    47: 	  <p>Do you suffer with hair loss? Whether it’s natural hair loss, genetic hair loss or hair loss from cancer treatments, there is something you can do about your hair loss. Anyone can experience hair loss. Women actually make up a large percentage of American hair loss sufferers <strong>(1 in 4 women suffer from hair loss in the U. S. alone)</strong>, that’s over <strong>40 million women</strong>. </p>
+    48: 
+    49: 	<%= link_to welcome_hair_loss %>
+    50: 	</article>
+    51: 
+    52: 	<article class=" columns small-12 medium-6">
+  app/views/welcome/home.html.erb:49:in `_app_views_welcome_home_html_erb__725592515908689461_2190089220'
+
+
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.2ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (11.1ms)
+
+
+Started GET "/welcome/home" for 127.0.0.1 at 2014-10-05 19:39:27 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (2.0ms)
+  Rendered shared/_navigation.html.erb (0.1ms)
+Completed 200 OK in 579ms (Views: 578.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-10-05 19:39:28 -0400
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-10-05 19:39:28 -0400
+
+
+Started GET "/assets/foundation_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-05 19:39:28 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-10-05 19:39:28 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-10-05 19:39:28 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-05 19:39:28 -0400
+
+
+Started GET "/assets/vendor/modernizr.js?body=1" for 127.0.0.1 at 2014-10-05 19:39:28 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-05 19:39:28 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-05 19:39:28 -0400
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2014-10-05 19:39:28 -0400
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2014-10-05 19:39:28 -0400
+
+
+Started GET "/assets/foundation/foundation.accordion.js?body=1" for 127.0.0.1 at 2014-10-05 19:39:28 -0400
+
+
+Started GET "/assets/foundation/foundation.alert.js?body=1" for 127.0.0.1 at 2014-10-05 19:39:28 -0400
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2014-10-05 19:39:28 -0400
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2014-10-05 19:39:28 -0400
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2014-10-05 19:39:28 -0400
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2014-10-05 19:39:28 -0400
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2014-10-05 19:39:28 -0400
+
+
+Started GET "/assets/foundation/foundation.offcanvas.js?body=1" for 127.0.0.1 at 2014-10-05 19:39:28 -0400
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2014-10-05 19:39:28 -0400
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2014-10-05 19:39:28 -0400
+
+
+Started GET "/assets/foundation/foundation.slider.js?body=1" for 127.0.0.1 at 2014-10-05 19:39:28 -0400
+
+
+Started GET "/assets/foundation/foundation.tab.js?body=1" for 127.0.0.1 at 2014-10-05 19:39:28 -0400
+
+
+Started GET "/assets/foundation/foundation.tooltip.js?body=1" for 127.0.0.1 at 2014-10-05 19:39:28 -0400
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2014-10-05 19:39:28 -0400
+
+
+Started GET "/assets/foundation/foundation.equalizer.js?body=1" for 127.0.0.1 at 2014-10-05 19:39:28 -0400
+
+
+Started GET "/assets/foundation.js?body=1" for 127.0.0.1 at 2014-10-05 19:39:28 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-05 19:39:28 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-10-05 19:39:28 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-10-05 19:39:28 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-05 19:39:28 -0400
+
+
+Started GET "/assets/banner_foru_brands.jpg" for 127.0.0.1 at 2014-10-05 19:39:28 -0400
+
+
+Started GET "/assets/ORCHID%20WIG%20BY%20ESTETICA%20DESIGNS.png" for 127.0.0.1 at 2014-10-05 19:39:28 -0400
+
+
+Started GET "/assets/Jill%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-10-05 19:39:28 -0400
+
+
+Started GET "/assets/SHEER%20TOUCH%20MODERATE%20HAIRPIECE%20copy.png" for 127.0.0.1 at 2014-10-05 19:39:28 -0400
+
+
+Started GET "/assets/Lisa%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-10-05 19:39:28 -0400
+
+
+Started GET "/assets/theperfectfitlogo.png" for 127.0.0.1 at 2014-10-05 19:39:28 -0400
+
+
+Started GET "/assets/beauty-backgrounds1.jpg" for 127.0.0.1 at 2014-10-05 19:39:29 -0400
+
+
+Started GET "/welcome/home" for 127.0.0.1 at 2014-10-05 19:39:49 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (1.3ms)
+  Rendered shared/_navigation.html.erb (0.1ms)
+Completed 200 OK in 165ms (Views: 164.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-10-05 19:39:50 -0400
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-10-05 19:39:50 -0400
+
+
+Started GET "/assets/foundation_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-05 19:39:50 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-10-05 19:39:50 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-10-05 19:39:50 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-05 19:39:50 -0400
+
+
+Started GET "/assets/vendor/modernizr.js?body=1" for 127.0.0.1 at 2014-10-05 19:39:50 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-05 19:39:50 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-05 19:39:50 -0400
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2014-10-05 19:39:50 -0400
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2014-10-05 19:39:50 -0400
+
+
+Started GET "/assets/foundation/foundation.accordion.js?body=1" for 127.0.0.1 at 2014-10-05 19:39:50 -0400
+
+
+Started GET "/assets/foundation/foundation.alert.js?body=1" for 127.0.0.1 at 2014-10-05 19:39:50 -0400
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2014-10-05 19:39:50 -0400
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2014-10-05 19:39:50 -0400
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2014-10-05 19:39:50 -0400
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2014-10-05 19:39:50 -0400
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2014-10-05 19:39:50 -0400
+
+
+Started GET "/assets/foundation/foundation.offcanvas.js?body=1" for 127.0.0.1 at 2014-10-05 19:39:50 -0400
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2014-10-05 19:39:50 -0400
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2014-10-05 19:39:50 -0400
+
+
+Started GET "/assets/foundation/foundation.slider.js?body=1" for 127.0.0.1 at 2014-10-05 19:39:50 -0400
+
+
+Started GET "/assets/foundation/foundation.tab.js?body=1" for 127.0.0.1 at 2014-10-05 19:39:50 -0400
+
+
+Started GET "/assets/foundation/foundation.tooltip.js?body=1" for 127.0.0.1 at 2014-10-05 19:39:50 -0400
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2014-10-05 19:39:50 -0400
+
+
+Started GET "/assets/foundation/foundation.equalizer.js?body=1" for 127.0.0.1 at 2014-10-05 19:39:50 -0400
+
+
+Started GET "/assets/foundation.js?body=1" for 127.0.0.1 at 2014-10-05 19:39:50 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-05 19:39:50 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-10-05 19:39:50 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-10-05 19:39:50 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-05 19:39:50 -0400
+
+
+Started GET "/assets/banner_foru_brands.jpg" for 127.0.0.1 at 2014-10-05 19:39:50 -0400
+
+
+Started GET "/assets/ORCHID%20WIG%20BY%20ESTETICA%20DESIGNS.png" for 127.0.0.1 at 2014-10-05 19:39:50 -0400
+
+
+Started GET "/assets/Jill%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-10-05 19:39:50 -0400
+
+
+Started GET "/assets/SHEER%20TOUCH%20MODERATE%20HAIRPIECE%20copy.png" for 127.0.0.1 at 2014-10-05 19:39:50 -0400
+
+
+Started GET "/assets/Lisa%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-10-05 19:39:50 -0400
+
+
+Started GET "/assets/theperfectfitlogo.png" for 127.0.0.1 at 2014-10-05 19:39:50 -0400
+
+
+Started GET "/assets/beauty-backgrounds1.jpg" for 127.0.0.1 at 2014-10-05 19:39:50 -0400
+
+
+Started GET "/welcome/home" for 127.0.0.1 at 2014-10-05 19:41:47 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (19.0ms)
+Completed 500 Internal Server Error in 55ms
+
+ActionView::Template::Error (undefined local variable or method `welcome_hair_loss' for #<#<Class:0x000001051d9f88>:0x0000010226bf08>):
+    46: 		<h2>Hair-loss</h2>
+    47: 	  <p>Do you suffer with hair loss? Whether it’s natural hair loss, genetic hair loss or hair loss from cancer treatments, there is something you can do about your hair loss. Anyone can experience hair loss. Women actually make up a large percentage of American hair loss sufferers <strong>(1 in 4 women suffer from hair loss in the U. S. alone)</strong>, that’s over <strong>40 million women</strong>. </p>
+    48: 
+    49: 	<%= link_to 'read more', welcome_hair_loss, class: 'color' %>
+    50: 	</article>
+    51: 
+    52: 	<article class=" columns small-12 medium-6">
+  app/views/welcome/home.html.erb:49:in `_app_views_welcome_home_html_erb__725592515908689461_2165519740'
+
+
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.1ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.9ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (18.2ms)
+
+
+Started GET "/welcome/home" for 127.0.0.1 at 2014-10-05 19:43:18 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (12.2ms)
+Completed 500 Internal Server Error in 16ms
+
+ActionView::Template::Error (undefined local variable or method `welcome_hair_loss' for #<#<Class:0x000001051d9f88>:0x00000106092d18>):
+    46: 		<h2>Hair-loss</h2>
+    47: 	  <p>Do you suffer with hair loss? Whether it’s natural hair loss, genetic hair loss or hair loss from cancer treatments, there is something you can do about your hair loss. Anyone can experience hair loss. Women actually make up a large percentage of American hair loss sufferers <strong>(1 in 4 women suffer from hair loss in the U. S. alone)</strong>, that’s over <strong>40 million women</strong>. </p>
+    48: 
+    49: 	<%= link_to "read more", welcome_hair_loss, class: "color" %>
+    50: 	</article>
+    51: 
+    52: 	<article class=" columns small-12 medium-6">
+  app/views/welcome/home.html.erb:49:in `_app_views_welcome_home_html_erb__725592515908689461_2198112120'
+
+
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.1ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.9ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (10.4ms)
+
+
+Started GET "/welcome/home" for 127.0.0.1 at 2014-10-05 19:43:40 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (12.4ms)
+Completed 500 Internal Server Error in 16ms
+
+ActionView::Template::Error (undefined local variable or method `welcome_hair_loss' for #<#<Class:0x000001051d9f88>:0x00000105398fb8>):
+    46: 		<h2>Hair-loss</h2>
+    47: 	  <p>Do you suffer with hair loss? Whether it’s natural hair loss, genetic hair loss or hair loss from cancer treatments, there is something you can do about your hair loss. Anyone can experience hair loss. Women actually make up a large percentage of American hair loss sufferers <strong>(1 in 4 women suffer from hair loss in the U. S. alone)</strong>, that’s over <strong>40 million women</strong>. </p>
+    48: 
+    49: 	<%= link_to "read more", welcome_hair_loss %>
+    50: 	</article>
+    51: 
+    52: 	<article class=" columns small-12 medium-6">
+  app/views/welcome/home.html.erb:49:in `_app_views_welcome_home_html_erb__725592515908689461_2191300000'
+
+
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.3ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.9ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (12.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-05 19:44:11 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (12.8ms)
+Completed 500 Internal Server Error in 30ms
+
+ActionView::Template::Error (undefined local variable or method `welcome_hair_loss' for #<#<Class:0x000001051d9f88>:0x000001050b3280>):
+    46: 		<h2>Hair-loss</h2>
+    47: 	  <p>Do you suffer with hair loss? Whether it’s natural hair loss, genetic hair loss or hair loss from cancer treatments, there is something you can do about your hair loss. Anyone can experience hair loss. Women actually make up a large percentage of American hair loss sufferers <strong>(1 in 4 women suffer from hair loss in the U. S. alone)</strong>, that’s over <strong>40 million women</strong>. </p>
+    48: 
+    49: 	<%= link_to "read more", welcome_hair_loss, class: "color" %>
+    50: 	</article>
+    51: 
+    52: 	<article class=" columns small-12 medium-6">
+  app/views/welcome/home.html.erb:49:in `_app_views_welcome_home_html_erb__725592515908689461_2189788760'
+
+
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.3ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.9ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (12.1ms)
+
+
+Started GET "/asset/routes" for 127.0.0.1 at 2014-10-05 19:44:31 -0400
+
+ActionController::RoutingError (No route matches [GET] "/asset/routes"):
+  actionpack (4.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.4) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.4) lib/rails/engine.rb:514:in `call'
+  railties (4.1.4) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  thin (1.6.2) lib/thin/connection.rb:86:in `block in pre_process'
+  thin (1.6.2) lib/thin/connection.rb:84:in `catch'
+  thin (1.6.2) lib/thin/connection.rb:84:in `pre_process'
+  thin (1.6.2) lib/thin/connection.rb:53:in `process'
+  thin (1.6.2) lib/thin/connection.rb:39:in `receive_data'
+  eventmachine (1.0.3) lib/eventmachine.rb:187:in `run_machine'
+  eventmachine (1.0.3) lib/eventmachine.rb:187:in `run'
+  thin (1.6.2) lib/thin/backends/base.rb:73:in `start'
+  thin (1.6.2) lib/thin/server.rb:162:in `start'
+  rack (1.5.2) lib/rack/handler/thin.rb:16:in `run'
+  rack (1.5.2) lib/rack/server.rb:264:in `start'
+  railties (4.1.4) lib/rails/commands/server.rb:69:in `start'
+  railties (4.1.4) lib/rails/commands/commands_tasks.rb:81:in `block in server'
+  railties (4.1.4) lib/rails/commands/commands_tasks.rb:76:in `tap'
+  railties (4.1.4) lib/rails/commands/commands_tasks.rb:76:in `server'
+  railties (4.1.4) lib/rails/commands/commands_tasks.rb:40:in `run_command!'
+  railties (4.1.4) lib/rails/commands.rb:17:in `<top (required)>'
+  bin/rails:8:in `require'
+  bin/rails:8:in `<top (required)>'
+  spring (1.1.3) lib/spring/client/rails.rb:27:in `load'
+  spring (1.1.3) lib/spring/client/rails.rb:27:in `call'
+  spring (1.1.3) lib/spring/client/command.rb:7:in `call'
+  spring (1.1.3) lib/spring/client.rb:26:in `run'
+  spring (1.1.3) bin/spring:48:in `<top (required)>'
+  spring (1.1.3) lib/spring/binstub.rb:11:in `load'
+  spring (1.1.3) lib/spring/binstub.rb:11:in `<top (required)>'
+  bin/spring:16:in `require'
+  bin/spring:16:in `<top (required)>'
+  bin/rails:3:in `load'
+  bin/rails:3:in `<main>'
+
+
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (6.5ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.7ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.2ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (80.6ms)
+
+
+Started GET "/welcome/home" for 127.0.0.1 at 2014-10-05 19:44:58 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (1.8ms)
+  Rendered shared/_navigation.html.erb (0.1ms)
+Completed 200 OK in 417ms (Views: 416.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-10-05 19:44:59 -0400
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-10-05 19:44:59 -0400
+
+
+Started GET "/assets/foundation_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-05 19:44:59 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-10-05 19:44:59 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-10-05 19:44:59 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-05 19:44:59 -0400
+
+
+Started GET "/assets/vendor/modernizr.js?body=1" for 127.0.0.1 at 2014-10-05 19:44:59 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-05 19:44:59 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-05 19:44:59 -0400
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2014-10-05 19:44:59 -0400
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2014-10-05 19:44:59 -0400
+
+
+Started GET "/assets/foundation/foundation.accordion.js?body=1" for 127.0.0.1 at 2014-10-05 19:44:59 -0400
+
+
+Started GET "/assets/foundation/foundation.alert.js?body=1" for 127.0.0.1 at 2014-10-05 19:44:59 -0400
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2014-10-05 19:44:59 -0400
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2014-10-05 19:44:59 -0400
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2014-10-05 19:44:59 -0400
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2014-10-05 19:44:59 -0400
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2014-10-05 19:44:59 -0400
+
+
+Started GET "/assets/foundation/foundation.offcanvas.js?body=1" for 127.0.0.1 at 2014-10-05 19:44:59 -0400
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2014-10-05 19:44:59 -0400
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2014-10-05 19:44:59 -0400
+
+
+Started GET "/assets/foundation/foundation.slider.js?body=1" for 127.0.0.1 at 2014-10-05 19:44:59 -0400
+
+
+Started GET "/assets/foundation/foundation.tab.js?body=1" for 127.0.0.1 at 2014-10-05 19:44:59 -0400
+
+
+Started GET "/assets/foundation/foundation.tooltip.js?body=1" for 127.0.0.1 at 2014-10-05 19:44:59 -0400
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2014-10-05 19:44:59 -0400
+
+
+Started GET "/assets/foundation/foundation.equalizer.js?body=1" for 127.0.0.1 at 2014-10-05 19:44:59 -0400
+
+
+Started GET "/assets/foundation.js?body=1" for 127.0.0.1 at 2014-10-05 19:44:59 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-05 19:44:59 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-10-05 19:44:59 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-10-05 19:44:59 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-05 19:44:59 -0400
+
+
+Started GET "/assets/banner_foru_brands.jpg" for 127.0.0.1 at 2014-10-05 19:44:59 -0400
+
+
+Started GET "/assets/ORCHID%20WIG%20BY%20ESTETICA%20DESIGNS.png" for 127.0.0.1 at 2014-10-05 19:44:59 -0400
+
+
+Started GET "/assets/Jill%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-10-05 19:44:59 -0400
+
+
+Started GET "/assets/SHEER%20TOUCH%20MODERATE%20HAIRPIECE%20copy.png" for 127.0.0.1 at 2014-10-05 19:44:59 -0400
+
+
+Started GET "/assets/Lisa%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-10-05 19:44:59 -0400
+
+
+Started GET "/assets/theperfectfitlogo.png" for 127.0.0.1 at 2014-10-05 19:44:59 -0400
+
+
+Started GET "/assets/beauty-backgrounds1.jpg" for 127.0.0.1 at 2014-10-05 19:44:59 -0400
+
+
+Started GET "/welcome/hair_loss" for 127.0.0.1 at 2014-10-05 19:45:03 -0400
+Processing by WelcomeController#hair_loss as HTML
+  Rendered welcome/hair_loss.html.erb within layouts/application (0.4ms)
+  Rendered shared/_navigation.html.erb (0.1ms)
+Completed 200 OK in 182ms (Views: 181.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:03 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:03 -0400
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:03 -0400
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:03 -0400
+
+
+Started GET "/assets/foundation/foundation.accordion.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:03 -0400
+
+
+Started GET "/assets/foundation/foundation.alert.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:03 -0400
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:03 -0400
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:03 -0400
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:03 -0400
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:03 -0400
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:03 -0400
+
+
+Started GET "/assets/foundation/foundation.offcanvas.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:03 -0400
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:03 -0400
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:03 -0400
+
+
+Started GET "/assets/foundation/foundation.slider.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:03 -0400
+
+
+Started GET "/assets/foundation/foundation.tab.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:03 -0400
+
+
+Started GET "/assets/foundation/foundation.tooltip.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:03 -0400
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:03 -0400
+
+
+Started GET "/assets/foundation/foundation.equalizer.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:03 -0400
+
+
+Started GET "/assets/foundation.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:03 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:03 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:03 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:03 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:03 -0400
+
+
+Started GET "/welcome/home" for 127.0.0.1 at 2014-10-05 19:45:05 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (2.3ms)
+  Rendered shared/_navigation.html.erb (0.0ms)
+Completed 200 OK in 177ms (Views: 176.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:06 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:06 -0400
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:06 -0400
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:06 -0400
+
+
+Started GET "/assets/foundation/foundation.accordion.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:06 -0400
+
+
+Started GET "/assets/foundation/foundation.alert.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:06 -0400
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:06 -0400
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:06 -0400
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:06 -0400
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:06 -0400
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:06 -0400
+
+
+Started GET "/assets/foundation/foundation.offcanvas.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:06 -0400
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:06 -0400
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:06 -0400
+
+
+Started GET "/assets/foundation/foundation.slider.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:06 -0400
+
+
+Started GET "/assets/foundation/foundation.tab.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:06 -0400
+
+
+Started GET "/assets/foundation/foundation.tooltip.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:06 -0400
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:06 -0400
+
+
+Started GET "/assets/foundation/foundation.equalizer.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:06 -0400
+
+
+Started GET "/assets/foundation.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:06 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:06 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:06 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:06 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:06 -0400
+
+
+Started GET "/welcome/hair_loss" for 127.0.0.1 at 2014-10-05 19:45:47 -0400
+Processing by WelcomeController#hair_loss as HTML
+  Rendered welcome/hair_loss.html.erb within layouts/application (0.0ms)
+  Rendered shared/_navigation.html.erb (0.0ms)
+Completed 200 OK in 153ms (Views: 152.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:47 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:47 -0400
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:47 -0400
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:47 -0400
+
+
+Started GET "/assets/foundation/foundation.accordion.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:47 -0400
+
+
+Started GET "/assets/foundation/foundation.alert.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:47 -0400
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:47 -0400
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:47 -0400
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:47 -0400
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:47 -0400
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:47 -0400
+
+
+Started GET "/assets/foundation/foundation.offcanvas.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:47 -0400
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:48 -0400
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:48 -0400
+
+
+Started GET "/assets/foundation/foundation.slider.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:48 -0400
+
+
+Started GET "/assets/foundation/foundation.tab.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:48 -0400
+
+
+Started GET "/assets/foundation/foundation.tooltip.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:48 -0400
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:48 -0400
+
+
+Started GET "/assets/foundation/foundation.equalizer.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:48 -0400
+
+
+Started GET "/assets/foundation.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:48 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:48 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:48 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:48 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-05 19:45:48 -0400
+
+
+Started GET "/welcome/hair_loss" for 127.0.0.1 at 2014-10-05 19:46:40 -0400
+Processing by WelcomeController#hair_loss as HTML
+  Rendered welcome/hair_loss.html.erb within layouts/application (0.4ms)
+Warning. Error encountered while saving cache 2c0b84a960566cf0f2cd4cb971e9c4cfd439a485/welcome.css.scssc: can't dump anonymous class #<Class:0x00000101bd8768>
+
+Warning. Error encountered while saving cache 2c0b84a960566cf0f2cd4cb971e9c4cfd439a485/application.css.scssc: can't dump anonymous class #<Class:0x00000101bd8768>
+
+  Rendered shared/_navigation.html.erb (0.0ms)
+Completed 200 OK in 496ms (Views: 495.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-10-05 19:46:40 -0400
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-10-05 19:46:40 -0400
+
+
+Started GET "/assets/foundation_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-05 19:46:40 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-10-05 19:46:40 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-10-05 19:46:40 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-05 19:46:40 -0400
+
+
+Started GET "/assets/vendor/modernizr.js?body=1" for 127.0.0.1 at 2014-10-05 19:46:40 -0400
+
+
+Started GET "/assets/foundation/foundation.accordion.js?body=1" for 127.0.0.1 at 2014-10-05 19:46:40 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-05 19:46:40 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-05 19:46:40 -0400
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2014-10-05 19:46:40 -0400
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2014-10-05 19:46:40 -0400
+
+
+Started GET "/assets/foundation/foundation.alert.js?body=1" for 127.0.0.1 at 2014-10-05 19:46:40 -0400
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2014-10-05 19:46:40 -0400
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2014-10-05 19:46:40 -0400
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2014-10-05 19:46:40 -0400
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2014-10-05 19:46:40 -0400
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2014-10-05 19:46:40 -0400
+
+
+Started GET "/assets/foundation/foundation.offcanvas.js?body=1" for 127.0.0.1 at 2014-10-05 19:46:40 -0400
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2014-10-05 19:46:40 -0400
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2014-10-05 19:46:41 -0400
+
+
+Started GET "/assets/foundation/foundation.slider.js?body=1" for 127.0.0.1 at 2014-10-05 19:46:41 -0400
+
+
+Started GET "/assets/foundation/foundation.tab.js?body=1" for 127.0.0.1 at 2014-10-05 19:46:41 -0400
+
+
+Started GET "/assets/foundation/foundation.tooltip.js?body=1" for 127.0.0.1 at 2014-10-05 19:46:41 -0400
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2014-10-05 19:46:41 -0400
+
+
+Started GET "/assets/foundation/foundation.equalizer.js?body=1" for 127.0.0.1 at 2014-10-05 19:46:41 -0400
+
+
+Started GET "/assets/foundation.js?body=1" for 127.0.0.1 at 2014-10-05 19:46:41 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-05 19:46:41 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-10-05 19:46:41 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-10-05 19:46:41 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-05 19:46:41 -0400
+
+
+Started GET "/assets/theperfectfitlogo.png" for 127.0.0.1 at 2014-10-05 19:46:41 -0400
+
+
+Started GET "/assets/beauty-backgrounds1.jpg" for 127.0.0.1 at 2014-10-05 19:46:41 -0400
+
+
+Started GET "/welcome/hair_loss" for 127.0.0.1 at 2014-10-05 19:48:23 -0400
+Processing by WelcomeController#hair_loss as HTML
+  Rendered welcome/hair_loss.html.erb within layouts/application (0.1ms)
+  Rendered shared/_navigation.html.erb (0.1ms)
+Completed 200 OK in 194ms (Views: 193.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-10-05 19:48:23 -0400
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-10-05 19:48:23 -0400
+
+
+Started GET "/assets/foundation_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-05 19:48:23 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-10-05 19:48:23 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-10-05 19:48:23 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-05 19:48:23 -0400
+
+
+Started GET "/assets/vendor/modernizr.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:23 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:23 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:23 -0400
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:23 -0400
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:23 -0400
+
+
+Started GET "/assets/foundation/foundation.accordion.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:23 -0400
+
+
+Started GET "/assets/foundation/foundation.alert.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:23 -0400
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:23 -0400
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:23 -0400
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:23 -0400
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:23 -0400
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:23 -0400
+
+
+Started GET "/assets/foundation/foundation.offcanvas.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:23 -0400
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:23 -0400
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:23 -0400
+
+
+Started GET "/assets/foundation/foundation.slider.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:24 -0400
+
+
+Started GET "/assets/foundation/foundation.tab.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:24 -0400
+
+
+Started GET "/assets/foundation/foundation.tooltip.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:24 -0400
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:24 -0400
+
+
+Started GET "/assets/foundation/foundation.equalizer.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:24 -0400
+
+
+Started GET "/assets/foundation.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:24 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:24 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:24 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:24 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:24 -0400
+
+
+Started GET "/assets/theperfectfitlogo.png" for 127.0.0.1 at 2014-10-05 19:48:24 -0400
+
+
+Started GET "/assets/beauty-backgrounds1.jpg" for 127.0.0.1 at 2014-10-05 19:48:24 -0400
+
+
+Started GET "/welcome/home" for 127.0.0.1 at 2014-10-05 19:48:43 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (0.8ms)
+  Rendered shared/_navigation.html.erb (0.0ms)
+Completed 200 OK in 153ms (Views: 152.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/banner_foru_brands.jpg" for 127.0.0.1 at 2014-10-05 19:48:44 -0400
+
+
+Started GET "/assets/ORCHID%20WIG%20BY%20ESTETICA%20DESIGNS.png" for 127.0.0.1 at 2014-10-05 19:48:44 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:44 -0400
+
+
+Started GET "/assets/Jill%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-10-05 19:48:44 -0400
+
+
+Started GET "/assets/SHEER%20TOUCH%20MODERATE%20HAIRPIECE%20copy.png" for 127.0.0.1 at 2014-10-05 19:48:44 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:44 -0400
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:44 -0400
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:44 -0400
+
+
+Started GET "/assets/foundation/foundation.accordion.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:44 -0400
+
+
+Started GET "/assets/foundation/foundation.alert.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:44 -0400
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:44 -0400
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:44 -0400
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:44 -0400
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:44 -0400
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:44 -0400
+
+
+Started GET "/assets/foundation/foundation.offcanvas.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:44 -0400
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:44 -0400
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:44 -0400
+
+
+Started GET "/assets/foundation/foundation.slider.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:44 -0400
+
+
+Started GET "/assets/foundation/foundation.tab.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:44 -0400
+
+
+Started GET "/assets/foundation/foundation.tooltip.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:44 -0400
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:44 -0400
+
+
+Started GET "/assets/foundation/foundation.equalizer.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:44 -0400
+
+
+Started GET "/assets/foundation.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:44 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:44 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:44 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:44 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:44 -0400
+
+
+Started GET "/assets/Lisa%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-10-05 19:48:44 -0400
+
+
+Started GET "/welcome/hair_loss" for 127.0.0.1 at 2014-10-05 19:48:45 -0400
+Processing by WelcomeController#hair_loss as HTML
+  Rendered welcome/hair_loss.html.erb within layouts/application (0.6ms)
+  Rendered shared/_navigation.html.erb (0.1ms)
+Completed 200 OK in 229ms (Views: 227.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:46 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:46 -0400
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:46 -0400
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:46 -0400
+
+
+Started GET "/assets/foundation/foundation.accordion.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:46 -0400
+
+
+Started GET "/assets/foundation/foundation.alert.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:46 -0400
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:46 -0400
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:46 -0400
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:46 -0400
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:46 -0400
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:46 -0400
+
+
+Started GET "/assets/foundation/foundation.offcanvas.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:46 -0400
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:46 -0400
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:46 -0400
+
+
+Started GET "/assets/foundation/foundation.slider.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:46 -0400
+
+
+Started GET "/assets/foundation/foundation.tab.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:46 -0400
+
+
+Started GET "/assets/foundation/foundation.tooltip.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:46 -0400
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:46 -0400
+
+
+Started GET "/assets/foundation/foundation.equalizer.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:46 -0400
+
+
+Started GET "/assets/foundation.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:46 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:46 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:46 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:46 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:46 -0400
+
+
+Started GET "/welcome/home" for 127.0.0.1 at 2014-10-05 19:48:49 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (0.7ms)
+  Rendered shared/_navigation.html.erb (0.0ms)
+Completed 200 OK in 166ms (Views: 165.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:49 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:49 -0400
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:49 -0400
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:49 -0400
+
+
+Started GET "/assets/foundation/foundation.accordion.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:49 -0400
+
+
+Started GET "/assets/foundation/foundation.alert.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:49 -0400
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:49 -0400
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:49 -0400
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:49 -0400
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:49 -0400
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:49 -0400
+
+
+Started GET "/assets/foundation/foundation.offcanvas.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:49 -0400
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:49 -0400
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:49 -0400
+
+
+Started GET "/assets/foundation/foundation.slider.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:49 -0400
+
+
+Started GET "/assets/foundation/foundation.tab.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:49 -0400
+
+
+Started GET "/assets/foundation/foundation.tooltip.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:49 -0400
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:49 -0400
+
+
+Started GET "/assets/foundation/foundation.equalizer.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:49 -0400
+
+
+Started GET "/assets/foundation.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:49 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:49 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:49 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:49 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-05 19:48:49 -0400
