@@ -3,6 +3,7 @@ Rails.application.routes.draw do
   get 'welcome/about'
   get 'welcome/press'
   get 'store/hello'
+  get 'welcome/google8698bc41ad4d3144'
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
