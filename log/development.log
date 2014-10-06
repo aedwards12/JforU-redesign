@@ -56042,3 +56042,2185 @@ Started GET "/assets/theperfectfitlogo.png" for 127.0.0.1 at 2014-10-06 13:45:02
 
 
 Started GET "/assets/beauty-backgrounds1.jpg" for 127.0.0.1 at 2014-10-06 13:45:02 -0400
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-10-06 13:47:31 -0400
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-10-06 13:47:31 -0400
+
+
+Started GET "/assets/foundation_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-06 13:47:31 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-10-06 13:47:31 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-10-06 13:47:31 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-06 13:47:31 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-06 13:51:05 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (1.4ms)
+  Rendered shared/_navigation.html.erb (0.1ms)
+Completed 200 OK in 441ms (Views: 440.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-10-06 13:51:06 -0400
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-10-06 13:51:06 -0400
+
+
+Started GET "/assets/foundation_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-06 13:51:06 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-10-06 13:51:06 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-10-06 13:51:06 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-06 13:51:06 -0400
+
+
+Started GET "/assets/vendor/modernizr.js?body=1" for 127.0.0.1 at 2014-10-06 13:51:06 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-06 13:51:06 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-06 13:51:06 -0400
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2014-10-06 13:51:06 -0400
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2014-10-06 13:51:06 -0400
+
+
+Started GET "/assets/foundation/foundation.accordion.js?body=1" for 127.0.0.1 at 2014-10-06 13:51:06 -0400
+
+
+Started GET "/assets/foundation/foundation.alert.js?body=1" for 127.0.0.1 at 2014-10-06 13:51:06 -0400
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2014-10-06 13:51:06 -0400
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2014-10-06 13:51:06 -0400
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2014-10-06 13:51:06 -0400
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2014-10-06 13:51:06 -0400
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2014-10-06 13:51:06 -0400
+
+
+Started GET "/assets/foundation/foundation.offcanvas.js?body=1" for 127.0.0.1 at 2014-10-06 13:51:06 -0400
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2014-10-06 13:51:06 -0400
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2014-10-06 13:51:06 -0400
+
+
+Started GET "/assets/foundation/foundation.slider.js?body=1" for 127.0.0.1 at 2014-10-06 13:51:06 -0400
+
+
+Started GET "/assets/foundation/foundation.tab.js?body=1" for 127.0.0.1 at 2014-10-06 13:51:06 -0400
+
+
+Started GET "/assets/foundation/foundation.tooltip.js?body=1" for 127.0.0.1 at 2014-10-06 13:51:06 -0400
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2014-10-06 13:51:06 -0400
+
+
+Started GET "/assets/foundation/foundation.equalizer.js?body=1" for 127.0.0.1 at 2014-10-06 13:51:06 -0400
+
+
+Started GET "/assets/foundation.js?body=1" for 127.0.0.1 at 2014-10-06 13:51:06 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-06 13:51:06 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-10-06 13:51:06 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-10-06 13:51:06 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-06 13:51:06 -0400
+
+
+Started GET "/assets/banner_foru_brands.jpg" for 127.0.0.1 at 2014-10-06 13:51:06 -0400
+
+
+Started GET "/assets/ORCHID%20WIG%20BY%20ESTETICA%20DESIGNS.png" for 127.0.0.1 at 2014-10-06 13:51:06 -0400
+
+
+Started GET "/assets/Jill%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-10-06 13:51:06 -0400
+
+
+Started GET "/assets/SHEER%20TOUCH%20MODERATE%20HAIRPIECE%20copy.png" for 127.0.0.1 at 2014-10-06 13:51:06 -0400
+
+
+Started GET "/assets/Lisa%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-10-06 13:51:06 -0400
+
+
+Started GET "/assets/beauty-backgrounds1.jpg" for 127.0.0.1 at 2014-10-06 13:51:06 -0400
+
+
+Started GET "/assets/theperfectfitlogo.png" for 127.0.0.1 at 2014-10-06 13:51:06 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-06 13:51:47 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (1.3ms)
+Warning. Error encountered while saving cache 2c0b84a960566cf0f2cd4cb971e9c4cfd439a485/default.css.scssc: can't dump anonymous class #<Class:0x00000101bd8768>
+
+Warning. Error encountered while saving cache 59b45398fb435d29bb549648243c55bc47017348/_top-bar.scssc: can't dump anonymous class #<Class:0x00000101bd8768>
+
+Warning. Error encountered while saving cache 59b45398fb435d29bb549648243c55bc47017348/_global.scssc: can't dump anonymous class #<Class:0x00000101bd8768>
+
+Warning. Error encountered while saving cache 6d21952b2ba85137cec938526e11d0b0603e322b/_functions.scssc: can't dump anonymous class #<Class:0x00000101bd8768>
+
+Warning. Error encountered while saving cache 59b45398fb435d29bb549648243c55bc47017348/_grid.scssc: can't dump anonymous class #<Class:0x00000101bd8768>
+
+Warning. Error encountered while saving cache 59b45398fb435d29bb549648243c55bc47017348/_global.scssc: can't dump anonymous class #<Class:0x00000101bd8768>
+
+Warning. Error encountered while saving cache 6d21952b2ba85137cec938526e11d0b0603e322b/_functions.scssc: can't dump anonymous class #<Class:0x00000101bd8768>
+
+Warning. Error encountered while saving cache 59b45398fb435d29bb549648243c55bc47017348/_buttons.scssc: can't dump anonymous class #<Class:0x00000101bd8768>
+
+Warning. Error encountered while saving cache 59b45398fb435d29bb549648243c55bc47017348/_global.scssc: can't dump anonymous class #<Class:0x00000101bd8768>
+
+Warning. Error encountered while saving cache 6d21952b2ba85137cec938526e11d0b0603e322b/_functions.scssc: can't dump anonymous class #<Class:0x00000101bd8768>
+
+Warning. Error encountered while saving cache 2c0b84a960566cf0f2cd4cb971e9c4cfd439a485/application.css.scssc: can't dump anonymous class #<Class:0x00000101bd8768>
+
+  Rendered shared/_navigation.html.erb (0.1ms)
+Completed 200 OK in 1530ms (Views: 1529.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-10-06 13:51:49 -0400
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-10-06 13:51:49 -0400
+
+
+Started GET "/assets/foundation_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-06 13:51:49 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-10-06 13:51:49 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-10-06 13:51:49 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-06 13:51:49 -0400
+
+
+Started GET "/assets/vendor/modernizr.js?body=1" for 127.0.0.1 at 2014-10-06 13:51:49 -0400
+
+
+Started GET "/assets/foundation/foundation.accordion.js?body=1" for 127.0.0.1 at 2014-10-06 13:51:49 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-06 13:51:49 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-06 13:51:49 -0400
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2014-10-06 13:51:49 -0400
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2014-10-06 13:51:49 -0400
+
+
+Started GET "/assets/foundation/foundation.alert.js?body=1" for 127.0.0.1 at 2014-10-06 13:51:49 -0400
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2014-10-06 13:51:49 -0400
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2014-10-06 13:51:49 -0400
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2014-10-06 13:51:49 -0400
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2014-10-06 13:51:49 -0400
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2014-10-06 13:51:49 -0400
+
+
+Started GET "/assets/foundation/foundation.offcanvas.js?body=1" for 127.0.0.1 at 2014-10-06 13:51:49 -0400
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2014-10-06 13:51:49 -0400
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2014-10-06 13:51:49 -0400
+
+
+Started GET "/assets/foundation/foundation.slider.js?body=1" for 127.0.0.1 at 2014-10-06 13:51:49 -0400
+
+
+Started GET "/assets/foundation/foundation.tab.js?body=1" for 127.0.0.1 at 2014-10-06 13:51:49 -0400
+
+
+Started GET "/assets/foundation/foundation.tooltip.js?body=1" for 127.0.0.1 at 2014-10-06 13:51:49 -0400
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2014-10-06 13:51:49 -0400
+
+
+Started GET "/assets/foundation/foundation.equalizer.js?body=1" for 127.0.0.1 at 2014-10-06 13:51:49 -0400
+
+
+Started GET "/assets/foundation.js?body=1" for 127.0.0.1 at 2014-10-06 13:51:49 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-06 13:51:49 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-10-06 13:51:49 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-10-06 13:51:49 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-06 13:51:49 -0400
+
+
+Started GET "/assets/banner_foru_brands.jpg" for 127.0.0.1 at 2014-10-06 13:51:49 -0400
+
+
+Started GET "/assets/ORCHID%20WIG%20BY%20ESTETICA%20DESIGNS.png" for 127.0.0.1 at 2014-10-06 13:51:49 -0400
+
+
+Started GET "/assets/beauty-backgrounds1.jpg" for 127.0.0.1 at 2014-10-06 13:51:49 -0400
+
+
+Started GET "/assets/Jill%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-10-06 13:51:49 -0400
+
+
+Started GET "/assets/SHEER%20TOUCH%20MODERATE%20HAIRPIECE%20copy.png" for 127.0.0.1 at 2014-10-06 13:51:49 -0400
+
+
+Started GET "/assets/Lisa%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-10-06 13:51:49 -0400
+
+
+Started GET "/assets/theperfectfitlogo.png" for 127.0.0.1 at 2014-10-06 13:51:49 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-06 13:52:43 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (1.1ms)
+Warning. Error encountered while saving cache 2c0b84a960566cf0f2cd4cb971e9c4cfd439a485/default.css.scssc: can't dump anonymous class #<Class:0x00000101bd8768>
+
+Warning. Error encountered while saving cache 59b45398fb435d29bb549648243c55bc47017348/_top-bar.scssc: can't dump anonymous class #<Class:0x00000101bd8768>
+
+Warning. Error encountered while saving cache 59b45398fb435d29bb549648243c55bc47017348/_global.scssc: can't dump anonymous class #<Class:0x00000101bd8768>
+
+Warning. Error encountered while saving cache 6d21952b2ba85137cec938526e11d0b0603e322b/_functions.scssc: can't dump anonymous class #<Class:0x00000101bd8768>
+
+Warning. Error encountered while saving cache 59b45398fb435d29bb549648243c55bc47017348/_grid.scssc: can't dump anonymous class #<Class:0x00000101bd8768>
+
+Warning. Error encountered while saving cache 59b45398fb435d29bb549648243c55bc47017348/_global.scssc: can't dump anonymous class #<Class:0x00000101bd8768>
+
+Warning. Error encountered while saving cache 6d21952b2ba85137cec938526e11d0b0603e322b/_functions.scssc: can't dump anonymous class #<Class:0x00000101bd8768>
+
+Warning. Error encountered while saving cache 59b45398fb435d29bb549648243c55bc47017348/_buttons.scssc: can't dump anonymous class #<Class:0x00000101bd8768>
+
+Warning. Error encountered while saving cache 59b45398fb435d29bb549648243c55bc47017348/_global.scssc: can't dump anonymous class #<Class:0x00000101bd8768>
+
+Warning. Error encountered while saving cache 6d21952b2ba85137cec938526e11d0b0603e322b/_functions.scssc: can't dump anonymous class #<Class:0x00000101bd8768>
+
+Warning. Error encountered while saving cache 2c0b84a960566cf0f2cd4cb971e9c4cfd439a485/application.css.scssc: can't dump anonymous class #<Class:0x00000101bd8768>
+
+  Rendered shared/_navigation.html.erb (0.1ms)
+Completed 200 OK in 864ms (Views: 863.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-10-06 13:52:44 -0400
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-10-06 13:52:44 -0400
+
+
+Started GET "/assets/foundation_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-06 13:52:44 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-10-06 13:52:44 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-10-06 13:52:44 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-06 13:52:44 -0400
+
+
+Started GET "/assets/vendor/modernizr.js?body=1" for 127.0.0.1 at 2014-10-06 13:52:44 -0400
+
+
+Started GET "/assets/foundation/foundation.accordion.js?body=1" for 127.0.0.1 at 2014-10-06 13:52:44 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-06 13:52:44 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-06 13:52:44 -0400
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2014-10-06 13:52:44 -0400
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2014-10-06 13:52:44 -0400
+
+
+Started GET "/assets/foundation/foundation.alert.js?body=1" for 127.0.0.1 at 2014-10-06 13:52:44 -0400
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2014-10-06 13:52:44 -0400
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2014-10-06 13:52:44 -0400
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2014-10-06 13:52:44 -0400
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2014-10-06 13:52:44 -0400
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2014-10-06 13:52:44 -0400
+
+
+Started GET "/assets/foundation/foundation.offcanvas.js?body=1" for 127.0.0.1 at 2014-10-06 13:52:44 -0400
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2014-10-06 13:52:44 -0400
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2014-10-06 13:52:44 -0400
+
+
+Started GET "/assets/foundation/foundation.slider.js?body=1" for 127.0.0.1 at 2014-10-06 13:52:44 -0400
+
+
+Started GET "/assets/foundation/foundation.tab.js?body=1" for 127.0.0.1 at 2014-10-06 13:52:44 -0400
+
+
+Started GET "/assets/foundation/foundation.tooltip.js?body=1" for 127.0.0.1 at 2014-10-06 13:52:44 -0400
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2014-10-06 13:52:44 -0400
+
+
+Started GET "/assets/foundation/foundation.equalizer.js?body=1" for 127.0.0.1 at 2014-10-06 13:52:44 -0400
+
+
+Started GET "/assets/foundation.js?body=1" for 127.0.0.1 at 2014-10-06 13:52:44 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-06 13:52:44 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-10-06 13:52:44 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-10-06 13:52:44 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-06 13:52:44 -0400
+
+
+Started GET "/assets/banner_foru_brands.jpg" for 127.0.0.1 at 2014-10-06 13:52:44 -0400
+
+
+Started GET "/assets/ORCHID%20WIG%20BY%20ESTETICA%20DESIGNS.png" for 127.0.0.1 at 2014-10-06 13:52:44 -0400
+
+
+Started GET "/assets/beauty-backgrounds1.jpg" for 127.0.0.1 at 2014-10-06 13:52:44 -0400
+
+
+Started GET "/assets/Jill%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-10-06 13:52:44 -0400
+
+
+Started GET "/assets/SHEER%20TOUCH%20MODERATE%20HAIRPIECE%20copy.png" for 127.0.0.1 at 2014-10-06 13:52:44 -0400
+
+
+Started GET "/assets/Lisa%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-10-06 13:52:44 -0400
+
+
+Started GET "/assets/theperfectfitlogo.png" for 127.0.0.1 at 2014-10-06 13:52:44 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-06 13:53:30 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (55.4ms)
+Completed 500 Internal Server Error in 58ms
+
+SyntaxError (/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:4: syntax error, unexpected '<', expecting ')'
+</section> -->
+ ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:9: unknown regexp option - h
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:9: syntax error, unexpected tINTEGER, expecting ')'
+...small-12"> <h2>WIGS TO LOVE</h2></div>
+...                               ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:13: unknown regexp options - dv
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:14: syntax error, unexpected '<'
+			<div class="featured-stars"><i...
+			 ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:14: syntax error, unexpected '<'
+...		<div class="featured-stars"><i class="fa fa-star fa-2x"></...
+...		                             ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:14: syntax error, unexpected '<'
+..."><i class="fa fa-star fa-2x"></i> &nbsp;<i class="fa fa-sta...
+...                               ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:14: syntax error, unexpected &
+...class="fa fa-star fa-2x"></i> &nbsp;<i class="fa fa-star fa-...
+...                               ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:14: syntax error, unexpected '<', expecting ')'
+..."fa fa-star fa-2x"></i> &nbsp;<i class="fa fa-star fa-2x"></...
+...                               ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:14: syntax error, unexpected '<'
+...p;<i class="fa fa-star fa-2x"></i> &nbsp;<i class="fa fa-sta...
+...                               ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:14: syntax error, unexpected &
+...class="fa fa-star fa-2x"></i> &nbsp;</div>
+...                               ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:14: syntax error, unexpected '<', expecting ')'
+..."fa fa-star fa-2x"></i> &nbsp;</div>
+...                               ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:16: unknown regexp options - artcl
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:17: syntax error, unexpected '<'
+	<article class=" feature columns small-12 medium-6 large-3">
+	 ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:19: syntax error, unexpected '<'
+			<div class="featured-titles co...
+			 ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:19: syntax error, unexpected '<'
+...red-titles columns small-12"> <h2>Lace Fronts</h2></div>
+...                               ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:19: syntax error, unexpected tCONSTANT, expecting keyword_do or '{' or '('
+...umns small-12"> <h2>Lace Fronts</h2></div>
+...                               ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:19: unknown regexp options - dv
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:20: syntax error, unexpected '<'
+			<div class="featured-img">
+			 ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:22: syntax error, unexpected '<', expecting ')'
+			</div>
+			 ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:23: syntax error, unexpected &
+...class="fa fa-star fa-2x"></i> &nbsp;<i class="fa fa-star fa-...
+...                               ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:23: syntax error, unexpected '<', expecting ')'
+..."fa fa-star fa-2x"></i> &nbsp;<i class="fa fa-star fa-2x"></...
+...                               ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:23: syntax error, unexpected '<'
+...p;<i class="fa fa-star fa-2x"></i> &nbsp;<i class="fa fa-sta...
+...                               ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:23: syntax error, unexpected &
+...class="fa fa-star fa-2x"></i> &nbsp;<i class="fa fa-star fa-...
+...                               ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:23: syntax error, unexpected '<', expecting ')'
+..."fa fa-star fa-2x"></i> &nbsp;<i class="fa fa-star fa-2x"></...
+...                               ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:23: syntax error, unexpected '<'
+...p;<i class="fa fa-star fa-2x"></i> &nbsp;</div>
+...                               ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:23: unknown regexp options - dv
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:25: syntax error, unexpected '<'
+	</article>
+	 ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:28: unknown regexp option - h
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:28: syntax error, unexpected tINTEGER, expecting ')'
+...small-12"> <h2>Short & Sexy</h2></div>
+...                               ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:31: unknown regexp options - dv
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:32: syntax error, unexpected '<'
+			<div class="featured-stars"><i...
+			 ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:32: syntax error, unexpected '<'
+...		<div class="featured-stars"><i class="fa fa-star fa-2x"></...
+...		                             ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:32: syntax error, unexpected '<'
+..."><i class="fa fa-star fa-2x"></i> &nbsp;<i class="fa fa-sta...
+...                               ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:32: syntax error, unexpected &
+...class="fa fa-star fa-2x"></i> &nbsp;<i class="fa fa-star fa-...
+...                               ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:32: syntax error, unexpected '<', expecting ')'
+..."fa fa-star fa-2x"></i> &nbsp;<i class="fa fa-star fa-2x"></...
+...                               ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:32: syntax error, unexpected '<'
+...p;<i class="fa fa-star fa-2x"></i> &nbsp;<i class="fa fa-sta...
+...                               ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:32: syntax error, unexpected &
+...class="fa fa-star fa-2x"></i> &nbsp;</div>
+...                               ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:32: syntax error, unexpected '<', expecting ')'
+..."fa fa-star fa-2x"></i> &nbsp;</div>
+...                               ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:33: unknown regexp options - artcl
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:34: syntax error, unexpected '<'
+	<article class=" feature columns small-12 medium-6 large-3">
+	 ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:35: syntax error, unexpected '<'
+			<div class="featured-titles co...
+			 ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:35: syntax error, unexpected '<'
+...red-titles columns small-12"> <h2>Featured Brands</h2></div>
+...                               ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:35: syntax error, unexpected tCONSTANT, expecting keyword_do or '{' or '('
+... small-12"> <h2>Featured Brands</h2></div>
+...                               ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:35: unknown regexp options - dv
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:36: syntax error, unexpected '<'
+			<div class="featured-img">
+			 ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:38: syntax error, unexpected '<', expecting ')'
+			</div>
+			 ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:39: syntax error, unexpected &
+...class="fa fa-star fa-2x"></i> &nbsp;<i class="fa fa-star fa-...
+...                               ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:39: syntax error, unexpected '<', expecting ')'
+..."fa fa-star fa-2x"></i> &nbsp;<i class="fa fa-star fa-2x"></...
+...                               ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:39: syntax error, unexpected '<'
+...p;<i class="fa fa-star fa-2x"></i> &nbsp;<i class="fa fa-sta...
+...                               ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:39: syntax error, unexpected &
+...class="fa fa-star fa-2x"></i> &nbsp;<i class="fa fa-star fa-...
+...                               ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:39: syntax error, unexpected '<', expecting ')'
+..."fa fa-star fa-2x"></i> &nbsp;<i class="fa fa-star fa-2x"></...
+...                               ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:39: syntax error, unexpected '<'
+...p;<i class="fa fa-star fa-2x"></i> &nbsp;</div>
+...                               ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:39: unknown regexp options - dv
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:41: syntax error, unexpected '<'
+	</article>
+	 ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:42: unknown regexp options - ct
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:43: syntax error, unexpected '<'
+<section class=" row transparent-white" id="hair-loss">
+ ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:43: syntax error, unexpected tIDENTIFIER, expecting ')'
+<section class=" row transparent-white" id="hair-loss">
+                                          ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:45: syntax error, unexpected '<'
+	<article class="columns small-12 medium-6">
+	 ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:46: syntax error, unexpected '<'
+		<h2>Hair-loss</h2>
+		 ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:47: unknown regexp options - trg
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:47: regexp encoding option 's' differs from source encoding 'UTF-8'
+/.../n has a non escaped non ASCII character in non ASCII-8BIT script: /h2>
+	  <p>Do you suffer with hair loss? Whether it\u2019s natural hair loss, genetic hair loss or hair loss from cancer treatments, there is something you can do about your hair loss. Anyone can experience hair loss. Women actually make up a large percentage of American hair loss sufferers <strong>(1 in 4 women suffer from hair loss in the U. S. alone)</
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:47: syntax error, unexpected ','
+...s in the U. S. alone)</strong>, that’s over <strong>40 mil...
+...                               ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:47: syntax error, unexpected tIDENTIFIER, expecting ')'
+...hat’s over <strong>40 million women</strong>. </p>
+...                               ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:47: unknown regexp option - p
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:50: syntax error, unexpected '<', expecting ')'
+	</article>
+	 ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:53: unknown regexp option - h
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:53: syntax error, unexpected tINTEGER, expecting ')'
+		<h2>Custom Wigs</h2>
+		                   ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:54: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+		<p>Custom wigs is what we do best here at T...
+		              ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:54: syntax error, unexpected tIDENTIFIER, expecting :: or '[' or '.'
+... best suited for you. There are a number of ways that we go ...
+...                               ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:54: syntax error, unexpected tIDENTIFIER, expecting keyword_end
+... go about doing this: 1. We may view old photographs, 2.We m...
+...                               ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:54: syntax error, unexpected tIDENTIFIER, expecting keyword_end
+... view old photographs, 2.We may go thru some of our customiz...
+...                               ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:54: syntax error, unexpected ',', expecting keyword_when
+...r lifestyle. Whatever the case, our goal is to make <strong>...
+...                               ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:54: unknown regexp option - p
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:55: syntax error, unexpected '<'
+	</article>
+	 ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:56: unknown regexp options - ct
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:57: syntax error, unexpected '<'
+<section class="row education" id="education">
+ ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:57: syntax error, unexpected tIDENTIFIER, expecting keyword_end
+<section class="row education" id="education">
+                                 ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:58: syntax error, unexpected '<'
+	<article class=" columns small-12 medium-6">
+	 ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:59: syntax error, unexpected '<'
+		<h2> <i class="fa fa-book "></i> &nbsp;Education / Workshops</h2>
+		 ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:59: syntax error, unexpected '<'
+		<h2> <i class="fa fa-book "></i> &nbsp;Education / Workshops</h2>
+		                             ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:59: syntax error, unexpected tCONSTANT, expecting keyword_end
+		<h2> <i class="fa fa-book "></i> &nbsp;Education / Workshops</h2>
+		                                                            ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:60: unknown regexp options - trg
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:60: regexp encoding option 's' differs from source encoding 'UTF-8'
+/.../n has a non escaped non ASCII character in non ASCII-8BIT script: /h2>
+		<p>The Perfect Fit, Just For You LLC is proud to have it\u2019s first ever Educational Workshop coming in October 2014, Tammara Taylor will be conducting a special class: <strong class="color">\u201CThe Art of Wig Making.\u201D </
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:60: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+...g Making.” </strong> The goal of this class is to teach an...
+...                               ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:60: class/module name must be CONSTANT
+...g> The goal of this class is to teach an individual how to m...
+...                               ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:60: syntax error, unexpected tIDENTIFIER, expecting '<' or ';' or '\n'
+...g> The goal of this class is to teach an individual how to m...
+...                               ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:65: class definition in method body
+		<h2><i class="fa fa-calendar "></i> &nbsp;Upcoming Events</h2>
+		                                          ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:67: unknown regexp option - p
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:68: syntax error, unexpected '<'
+	</article>
+	 ^
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:70: unknown regexp options - ct
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:71: unterminated string meets end of file
+/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views/welcome/home.html.erb:71: syntax error, unexpected end-of-input, expecting keyword_end):
+  app/views/welcome/home.html.erb:4: syntax error, unexpected '<', expecting ')'
+  app/views/welcome/home.html.erb:9: unknown regexp option - h
+  app/views/welcome/home.html.erb:9: syntax error, unexpected tINTEGER, expecting ')'
+  app/views/welcome/home.html.erb:13: unknown regexp options - dv
+  app/views/welcome/home.html.erb:14: syntax error, unexpected '<'
+  app/views/welcome/home.html.erb:14: syntax error, unexpected '<'
+  app/views/welcome/home.html.erb:14: syntax error, unexpected '<'
+  app/views/welcome/home.html.erb:14: syntax error, unexpected &
+  app/views/welcome/home.html.erb:14: syntax error, unexpected '<', expecting ')'
+  app/views/welcome/home.html.erb:14: syntax error, unexpected '<'
+  app/views/welcome/home.html.erb:14: syntax error, unexpected &
+  app/views/welcome/home.html.erb:14: syntax error, unexpected '<', expecting ')'
+  app/views/welcome/home.html.erb:16: unknown regexp options - artcl
+  app/views/welcome/home.html.erb:17: syntax error, unexpected '<'
+  app/views/welcome/home.html.erb:19: syntax error, unexpected '<'
+  app/views/welcome/home.html.erb:19: syntax error, unexpected '<'
+  app/views/welcome/home.html.erb:19: syntax error, unexpected tCONSTANT, expecting keyword_do or '{' or '('
+  app/views/welcome/home.html.erb:19: unknown regexp options - dv
+  app/views/welcome/home.html.erb:20: syntax error, unexpected '<'
+  app/views/welcome/home.html.erb:22: syntax error, unexpected '<', expecting ')'
+  app/views/welcome/home.html.erb:23: syntax error, unexpected &
+  app/views/welcome/home.html.erb:23: syntax error, unexpected '<', expecting ')'
+  app/views/welcome/home.html.erb:23: syntax error, unexpected '<'
+  app/views/welcome/home.html.erb:23: syntax error, unexpected &
+  app/views/welcome/home.html.erb:23: syntax error, unexpected '<', expecting ')'
+  app/views/welcome/home.html.erb:23: syntax error, unexpected '<'
+  app/views/welcome/home.html.erb:23: unknown regexp options - dv
+  app/views/welcome/home.html.erb:25: syntax error, unexpected '<'
+  app/views/welcome/home.html.erb:28: unknown regexp option - h
+  app/views/welcome/home.html.erb:28: syntax error, unexpected tINTEGER, expecting ')'
+  app/views/welcome/home.html.erb:31: unknown regexp options - dv
+  app/views/welcome/home.html.erb:32: syntax error, unexpected '<'
+  app/views/welcome/home.html.erb:32: syntax error, unexpected '<'
+  app/views/welcome/home.html.erb:32: syntax error, unexpected '<'
+  app/views/welcome/home.html.erb:32: syntax error, unexpected &
+  app/views/welcome/home.html.erb:32: syntax error, unexpected '<', expecting ')'
+  app/views/welcome/home.html.erb:32: syntax error, unexpected '<'
+  app/views/welcome/home.html.erb:32: syntax error, unexpected &
+  app/views/welcome/home.html.erb:32: syntax error, unexpected '<', expecting ')'
+  app/views/welcome/home.html.erb:33: unknown regexp options - artcl
+  app/views/welcome/home.html.erb:34: syntax error, unexpected '<'
+  app/views/welcome/home.html.erb:35: syntax error, unexpected '<'
+  app/views/welcome/home.html.erb:35: syntax error, unexpected '<'
+  app/views/welcome/home.html.erb:35: syntax error, unexpected tCONSTANT, expecting keyword_do or '{' or '('
+  app/views/welcome/home.html.erb:35: unknown regexp options - dv
+  app/views/welcome/home.html.erb:36: syntax error, unexpected '<'
+  app/views/welcome/home.html.erb:38: syntax error, unexpected '<', expecting ')'
+  app/views/welcome/home.html.erb:39: syntax error, unexpected &
+  app/views/welcome/home.html.erb:39: syntax error, unexpected '<', expecting ')'
+  app/views/welcome/home.html.erb:39: syntax error, unexpected '<'
+  app/views/welcome/home.html.erb:39: syntax error, unexpected &
+  app/views/welcome/home.html.erb:39: syntax error, unexpected '<', expecting ')'
+  app/views/welcome/home.html.erb:39: syntax error, unexpected '<'
+  app/views/welcome/home.html.erb:39: unknown regexp options - dv
+  app/views/welcome/home.html.erb:41: syntax error, unexpected '<'
+  app/views/welcome/home.html.erb:42: unknown regexp options - ct
+  app/views/welcome/home.html.erb:43: syntax error, unexpected '<'
+  app/views/welcome/home.html.erb:43: syntax error, unexpected tIDENTIFIER, expecting ')'
+  app/views/welcome/home.html.erb:45: syntax error, unexpected '<'
+  app/views/welcome/home.html.erb:46: syntax error, unexpected '<'
+  app/views/welcome/home.html.erb:47: unknown regexp options - trg
+  app/views/welcome/home.html.erb:47: regexp encoding option 's' differs from source encoding 'UTF-8'
+  app/views/welcome/home.html.erb:47: syntax error, unexpected ','
+  app/views/welcome/home.html.erb:47: syntax error, unexpected tIDENTIFIER, expecting ')'
+  app/views/welcome/home.html.erb:47: unknown regexp option - p
+  app/views/welcome/home.html.erb:50: syntax error, unexpected '<', expecting ')'
+  app/views/welcome/home.html.erb:53: unknown regexp option - h
+  app/views/welcome/home.html.erb:53: syntax error, unexpected tINTEGER, expecting ')'
+  app/views/welcome/home.html.erb:54: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+  app/views/welcome/home.html.erb:54: syntax error, unexpected tIDENTIFIER, expecting :: or '[' or '.'
+  app/views/welcome/home.html.erb:54: syntax error, unexpected tIDENTIFIER, expecting keyword_end
+  app/views/welcome/home.html.erb:54: syntax error, unexpected tIDENTIFIER, expecting keyword_end
+  app/views/welcome/home.html.erb:54: syntax error, unexpected ',', expecting keyword_when
+  app/views/welcome/home.html.erb:54: unknown regexp option - p
+  app/views/welcome/home.html.erb:55: syntax error, unexpected '<'
+  app/views/welcome/home.html.erb:56: unknown regexp options - ct
+  app/views/welcome/home.html.erb:57: syntax error, unexpected '<'
+  app/views/welcome/home.html.erb:57: syntax error, unexpected tIDENTIFIER, expecting keyword_end
+  app/views/welcome/home.html.erb:58: syntax error, unexpected '<'
+  app/views/welcome/home.html.erb:59: syntax error, unexpected '<'
+  app/views/welcome/home.html.erb:59: syntax error, unexpected '<'
+  app/views/welcome/home.html.erb:59: syntax error, unexpected tCONSTANT, expecting keyword_end
+  app/views/welcome/home.html.erb:60: unknown regexp options - trg
+  app/views/welcome/home.html.erb:60: regexp encoding option 's' differs from source encoding 'UTF-8'
+  app/views/welcome/home.html.erb:60: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+  app/views/welcome/home.html.erb:60: class/module name must be CONSTANT
+  app/views/welcome/home.html.erb:60: syntax error, unexpected tIDENTIFIER, expecting '<' or ';' or '\n'
+  app/views/welcome/home.html.erb:65: class definition in method body
+  app/views/welcome/home.html.erb:67: unknown regexp option - p
+  app/views/welcome/home.html.erb:68: syntax error, unexpected '<'
+  app/views/welcome/home.html.erb:70: unknown regexp options - ct
+  app/views/welcome/home.html.erb:71: unterminated string meets end of file
+  app/views/welcome/home.html.erb:71: syntax error, unexpected end-of-input, expecting keyword_end
+
+
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (15.0ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.3ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (41.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-06 13:53:37 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (1.3ms)
+  Rendered shared/_navigation.html.erb (0.0ms)
+Completed 200 OK in 164ms (Views: 163.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-10-06 13:53:37 -0400
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-10-06 13:53:37 -0400
+
+
+Started GET "/assets/foundation_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-06 13:53:37 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-10-06 13:53:37 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-10-06 13:53:37 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-06 13:53:37 -0400
+
+
+Started GET "/assets/vendor/modernizr.js?body=1" for 127.0.0.1 at 2014-10-06 13:53:37 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-06 13:53:37 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-06 13:53:37 -0400
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2014-10-06 13:53:37 -0400
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2014-10-06 13:53:37 -0400
+
+
+Started GET "/assets/foundation/foundation.accordion.js?body=1" for 127.0.0.1 at 2014-10-06 13:53:37 -0400
+
+
+Started GET "/assets/foundation/foundation.alert.js?body=1" for 127.0.0.1 at 2014-10-06 13:53:37 -0400
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2014-10-06 13:53:37 -0400
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2014-10-06 13:53:37 -0400
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2014-10-06 13:53:37 -0400
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2014-10-06 13:53:37 -0400
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2014-10-06 13:53:37 -0400
+
+
+Started GET "/assets/foundation/foundation.offcanvas.js?body=1" for 127.0.0.1 at 2014-10-06 13:53:37 -0400
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2014-10-06 13:53:37 -0400
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2014-10-06 13:53:37 -0400
+
+
+Started GET "/assets/foundation/foundation.slider.js?body=1" for 127.0.0.1 at 2014-10-06 13:53:37 -0400
+
+
+Started GET "/assets/foundation/foundation.tab.js?body=1" for 127.0.0.1 at 2014-10-06 13:53:37 -0400
+
+
+Started GET "/assets/foundation/foundation.tooltip.js?body=1" for 127.0.0.1 at 2014-10-06 13:53:37 -0400
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2014-10-06 13:53:37 -0400
+
+
+Started GET "/assets/foundation/foundation.equalizer.js?body=1" for 127.0.0.1 at 2014-10-06 13:53:37 -0400
+
+
+Started GET "/assets/foundation.js?body=1" for 127.0.0.1 at 2014-10-06 13:53:37 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-06 13:53:37 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-10-06 13:53:37 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-10-06 13:53:37 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-06 13:53:37 -0400
+
+
+Started GET "/assets/ORCHID%20WIG%20BY%20ESTETICA%20DESIGNS.png" for 127.0.0.1 at 2014-10-06 13:53:37 -0400
+
+
+Started GET "/assets/Jill%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-10-06 13:53:37 -0400
+
+
+Started GET "/assets/SHEER%20TOUCH%20MODERATE%20HAIRPIECE%20copy.png" for 127.0.0.1 at 2014-10-06 13:53:37 -0400
+
+
+Started GET "/assets/Lisa%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-10-06 13:53:37 -0400
+
+
+Started GET "/assets/theperfectfitlogo.png" for 127.0.0.1 at 2014-10-06 13:53:37 -0400
+
+
+Started GET "/assets/beauty-backgrounds1.jpg" for 127.0.0.1 at 2014-10-06 13:53:42 -0400
+
+
+Started GET "/assets/Lisa%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-10-06 13:53:42 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-06 13:53:42 -0400
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2014-10-06 13:53:43 -0400
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2014-10-06 13:53:43 -0400
+
+
+Started GET "/assets/foundation/foundation.accordion.js?body=1" for 127.0.0.1 at 2014-10-06 13:53:43 -0400
+
+
+Started GET "/assets/foundation/foundation.alert.js?body=1" for 127.0.0.1 at 2014-10-06 13:53:43 -0400
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2014-10-06 13:53:43 -0400
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2014-10-06 13:53:43 -0400
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2014-10-06 13:53:43 -0400
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2014-10-06 13:53:43 -0400
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2014-10-06 13:53:43 -0400
+
+
+Started GET "/assets/foundation/foundation.offcanvas.js?body=1" for 127.0.0.1 at 2014-10-06 13:53:43 -0400
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2014-10-06 13:53:43 -0400
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2014-10-06 13:53:43 -0400
+
+
+Started GET "/assets/foundation/foundation.slider.js?body=1" for 127.0.0.1 at 2014-10-06 13:53:43 -0400
+
+
+Started GET "/assets/foundation/foundation.tab.js?body=1" for 127.0.0.1 at 2014-10-06 13:53:43 -0400
+
+
+Started GET "/assets/foundation/foundation.tooltip.js?body=1" for 127.0.0.1 at 2014-10-06 13:53:43 -0400
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2014-10-06 13:53:43 -0400
+
+
+Started GET "/assets/foundation/foundation.equalizer.js?body=1" for 127.0.0.1 at 2014-10-06 13:53:43 -0400
+
+
+Started GET "/assets/foundation.js?body=1" for 127.0.0.1 at 2014-10-06 13:53:43 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-06 13:53:43 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-10-06 13:53:43 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-10-06 13:53:43 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-06 13:53:43 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-06 13:54:41 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (1.7ms)
+  Rendered shared/_navigation.html.erb (0.0ms)
+Completed 200 OK in 171ms (Views: 170.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-10-06 13:54:41 -0400
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-10-06 13:54:41 -0400
+
+
+Started GET "/assets/foundation_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-06 13:54:41 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-10-06 13:54:41 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-10-06 13:54:41 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-06 13:54:41 -0400
+
+
+Started GET "/assets/vendor/modernizr.js?body=1" for 127.0.0.1 at 2014-10-06 13:54:41 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-06 13:54:41 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-06 13:54:41 -0400
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2014-10-06 13:54:41 -0400
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2014-10-06 13:54:41 -0400
+
+
+Started GET "/assets/foundation/foundation.accordion.js?body=1" for 127.0.0.1 at 2014-10-06 13:54:41 -0400
+
+
+Started GET "/assets/foundation/foundation.alert.js?body=1" for 127.0.0.1 at 2014-10-06 13:54:41 -0400
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2014-10-06 13:54:41 -0400
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2014-10-06 13:54:41 -0400
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2014-10-06 13:54:41 -0400
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2014-10-06 13:54:41 -0400
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2014-10-06 13:54:41 -0400
+
+
+Started GET "/assets/foundation/foundation.offcanvas.js?body=1" for 127.0.0.1 at 2014-10-06 13:54:41 -0400
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2014-10-06 13:54:41 -0400
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2014-10-06 13:54:41 -0400
+
+
+Started GET "/assets/foundation/foundation.slider.js?body=1" for 127.0.0.1 at 2014-10-06 13:54:41 -0400
+
+
+Started GET "/assets/foundation/foundation.tab.js?body=1" for 127.0.0.1 at 2014-10-06 13:54:41 -0400
+
+
+Started GET "/assets/foundation/foundation.tooltip.js?body=1" for 127.0.0.1 at 2014-10-06 13:54:41 -0400
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2014-10-06 13:54:41 -0400
+
+
+Started GET "/assets/foundation/foundation.equalizer.js?body=1" for 127.0.0.1 at 2014-10-06 13:54:41 -0400
+
+
+Started GET "/assets/foundation.js?body=1" for 127.0.0.1 at 2014-10-06 13:54:41 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-06 13:54:41 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-10-06 13:54:41 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-10-06 13:54:41 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-06 13:54:41 -0400
+
+
+Started GET "/assets/beauty-backgrounds1.jpg" for 127.0.0.1 at 2014-10-06 13:54:41 -0400
+
+
+Started GET "/assets/ORCHID%20WIG%20BY%20ESTETICA%20DESIGNS.png" for 127.0.0.1 at 2014-10-06 13:54:41 -0400
+
+
+Started GET "/assets/Jill%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-10-06 13:54:41 -0400
+
+
+Started GET "/assets/SHEER%20TOUCH%20MODERATE%20HAIRPIECE%20copy.png" for 127.0.0.1 at 2014-10-06 13:54:41 -0400
+
+
+Started GET "/assets/Lisa%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-10-06 13:54:41 -0400
+
+
+Started GET "/assets/theperfectfitlogo.png" for 127.0.0.1 at 2014-10-06 13:54:41 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-06 13:54:55 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (1.4ms)
+  Rendered shared/_navigation.html.erb (0.1ms)
+Completed 200 OK in 162ms (Views: 161.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-10-06 13:54:56 -0400
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-10-06 13:54:56 -0400
+
+
+Started GET "/assets/foundation_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-06 13:54:56 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-10-06 13:54:56 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-10-06 13:54:56 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-06 13:54:56 -0400
+
+
+Started GET "/assets/vendor/modernizr.js?body=1" for 127.0.0.1 at 2014-10-06 13:54:56 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-06 13:54:56 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-06 13:54:56 -0400
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2014-10-06 13:54:56 -0400
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2014-10-06 13:54:56 -0400
+
+
+Started GET "/assets/foundation/foundation.accordion.js?body=1" for 127.0.0.1 at 2014-10-06 13:54:56 -0400
+
+
+Started GET "/assets/foundation/foundation.alert.js?body=1" for 127.0.0.1 at 2014-10-06 13:54:56 -0400
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2014-10-06 13:54:56 -0400
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2014-10-06 13:54:56 -0400
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2014-10-06 13:54:56 -0400
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2014-10-06 13:54:56 -0400
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2014-10-06 13:54:56 -0400
+
+
+Started GET "/assets/foundation/foundation.offcanvas.js?body=1" for 127.0.0.1 at 2014-10-06 13:54:56 -0400
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2014-10-06 13:54:56 -0400
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2014-10-06 13:54:56 -0400
+
+
+Started GET "/assets/foundation/foundation.slider.js?body=1" for 127.0.0.1 at 2014-10-06 13:54:56 -0400
+
+
+Started GET "/assets/foundation/foundation.tab.js?body=1" for 127.0.0.1 at 2014-10-06 13:54:56 -0400
+
+
+Started GET "/assets/foundation/foundation.tooltip.js?body=1" for 127.0.0.1 at 2014-10-06 13:54:56 -0400
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2014-10-06 13:54:56 -0400
+
+
+Started GET "/assets/foundation/foundation.equalizer.js?body=1" for 127.0.0.1 at 2014-10-06 13:54:56 -0400
+
+
+Started GET "/assets/foundation.js?body=1" for 127.0.0.1 at 2014-10-06 13:54:56 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-06 13:54:56 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-10-06 13:54:56 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-10-06 13:54:56 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-06 13:54:56 -0400
+
+
+Started GET "/assets/beauty-backgrounds1.jpg" for 127.0.0.1 at 2014-10-06 13:54:56 -0400
+
+
+Started GET "/assets/ORCHID%20WIG%20BY%20ESTETICA%20DESIGNS.png" for 127.0.0.1 at 2014-10-06 13:54:56 -0400
+
+
+Started GET "/assets/Jill%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-10-06 13:54:56 -0400
+
+
+Started GET "/assets/SHEER%20TOUCH%20MODERATE%20HAIRPIECE%20copy.png" for 127.0.0.1 at 2014-10-06 13:54:56 -0400
+
+
+Started GET "/assets/Lisa%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-10-06 13:54:56 -0400
+
+
+Started GET "/assets/theperfectfitlogo.png" for 127.0.0.1 at 2014-10-06 13:54:56 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-06 13:56:00 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (1.4ms)
+Warning. Error encountered while saving cache 2c0b84a960566cf0f2cd4cb971e9c4cfd439a485/welcome.css.scssc: can't dump anonymous class #<Class:0x00000101bd8768>
+
+Warning. Error encountered while saving cache 2c0b84a960566cf0f2cd4cb971e9c4cfd439a485/application.css.scssc: can't dump anonymous class #<Class:0x00000101bd8768>
+
+  Rendered shared/_navigation.html.erb (0.0ms)
+Completed 200 OK in 1390ms (Views: 1389.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-10-06 13:56:03 -0400
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-10-06 13:56:03 -0400
+
+
+Started GET "/assets/foundation_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-06 13:56:03 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-10-06 13:56:03 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-10-06 13:56:03 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-06 13:56:03 -0400
+
+
+Started GET "/assets/vendor/modernizr.js?body=1" for 127.0.0.1 at 2014-10-06 13:56:03 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-06 13:56:03 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-06 13:56:03 -0400
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2014-10-06 13:56:03 -0400
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2014-10-06 13:56:03 -0400
+
+
+Started GET "/assets/foundation/foundation.accordion.js?body=1" for 127.0.0.1 at 2014-10-06 13:56:03 -0400
+
+
+Started GET "/assets/foundation/foundation.alert.js?body=1" for 127.0.0.1 at 2014-10-06 13:56:03 -0400
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2014-10-06 13:56:03 -0400
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2014-10-06 13:56:03 -0400
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2014-10-06 13:56:03 -0400
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2014-10-06 13:56:03 -0400
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2014-10-06 13:56:03 -0400
+
+
+Started GET "/assets/foundation/foundation.offcanvas.js?body=1" for 127.0.0.1 at 2014-10-06 13:56:03 -0400
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2014-10-06 13:56:03 -0400
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2014-10-06 13:56:03 -0400
+
+
+Started GET "/assets/foundation/foundation.slider.js?body=1" for 127.0.0.1 at 2014-10-06 13:56:03 -0400
+
+
+Started GET "/assets/foundation/foundation.tab.js?body=1" for 127.0.0.1 at 2014-10-06 13:56:03 -0400
+
+
+Started GET "/assets/foundation/foundation.tooltip.js?body=1" for 127.0.0.1 at 2014-10-06 13:56:03 -0400
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2014-10-06 13:56:03 -0400
+
+
+Started GET "/assets/foundation/foundation.equalizer.js?body=1" for 127.0.0.1 at 2014-10-06 13:56:03 -0400
+
+
+Started GET "/assets/foundation.js?body=1" for 127.0.0.1 at 2014-10-06 13:56:03 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-06 13:56:03 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-10-06 13:56:03 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-10-06 13:56:03 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-06 13:56:03 -0400
+
+
+Started GET "/assets/beauty-backgrounds1.jpg" for 127.0.0.1 at 2014-10-06 13:56:03 -0400
+
+
+Started GET "/assets/ORCHID%20WIG%20BY%20ESTETICA%20DESIGNS.png" for 127.0.0.1 at 2014-10-06 13:56:03 -0400
+
+
+Started GET "/assets/Jill%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-10-06 13:56:03 -0400
+
+
+Started GET "/assets/SHEER%20TOUCH%20MODERATE%20HAIRPIECE%20copy.png" for 127.0.0.1 at 2014-10-06 13:56:03 -0400
+
+
+Started GET "/assets/Lisa%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-10-06 13:56:03 -0400
+
+
+Started GET "/assets/theperfectfitlogo.png" for 127.0.0.1 at 2014-10-06 13:56:03 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-06 13:56:14 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (0.9ms)
+Warning. Error encountered while saving cache 2c0b84a960566cf0f2cd4cb971e9c4cfd439a485/welcome.css.scssc: can't dump anonymous class #<Class:0x00000101bd8768>
+
+Warning. Error encountered while saving cache 2c0b84a960566cf0f2cd4cb971e9c4cfd439a485/application.css.scssc: can't dump anonymous class #<Class:0x00000101bd8768>
+
+  Rendered shared/_navigation.html.erb (0.0ms)
+Completed 200 OK in 433ms (Views: 431.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-10-06 13:56:14 -0400
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-10-06 13:56:14 -0400
+
+
+Started GET "/assets/foundation_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-06 13:56:14 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-10-06 13:56:14 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-10-06 13:56:14 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-06 13:56:14 -0400
+
+
+Started GET "/assets/vendor/modernizr.js?body=1" for 127.0.0.1 at 2014-10-06 13:56:14 -0400
+
+
+Started GET "/assets/foundation/foundation.accordion.js?body=1" for 127.0.0.1 at 2014-10-06 13:56:14 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-06 13:56:14 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-06 13:56:14 -0400
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2014-10-06 13:56:14 -0400
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2014-10-06 13:56:14 -0400
+
+
+Started GET "/assets/foundation/foundation.alert.js?body=1" for 127.0.0.1 at 2014-10-06 13:56:14 -0400
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2014-10-06 13:56:14 -0400
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2014-10-06 13:56:14 -0400
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2014-10-06 13:56:14 -0400
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2014-10-06 13:56:14 -0400
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2014-10-06 13:56:14 -0400
+
+
+Started GET "/assets/foundation/foundation.offcanvas.js?body=1" for 127.0.0.1 at 2014-10-06 13:56:14 -0400
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2014-10-06 13:56:14 -0400
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2014-10-06 13:56:14 -0400
+
+
+Started GET "/assets/foundation/foundation.slider.js?body=1" for 127.0.0.1 at 2014-10-06 13:56:14 -0400
+
+
+Started GET "/assets/foundation/foundation.tab.js?body=1" for 127.0.0.1 at 2014-10-06 13:56:14 -0400
+
+
+Started GET "/assets/foundation/foundation.tooltip.js?body=1" for 127.0.0.1 at 2014-10-06 13:56:14 -0400
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2014-10-06 13:56:14 -0400
+
+
+Started GET "/assets/foundation/foundation.equalizer.js?body=1" for 127.0.0.1 at 2014-10-06 13:56:14 -0400
+
+
+Started GET "/assets/foundation.js?body=1" for 127.0.0.1 at 2014-10-06 13:56:14 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-06 13:56:14 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-10-06 13:56:14 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-10-06 13:56:14 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-06 13:56:15 -0400
+
+
+Started GET "/assets/beauty-backgrounds1.jpg" for 127.0.0.1 at 2014-10-06 13:56:15 -0400
+
+
+Started GET "/assets/ORCHID%20WIG%20BY%20ESTETICA%20DESIGNS.png" for 127.0.0.1 at 2014-10-06 13:56:15 -0400
+
+
+Started GET "/assets/Jill%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-10-06 13:56:15 -0400
+
+
+Started GET "/assets/SHEER%20TOUCH%20MODERATE%20HAIRPIECE%20copy.png" for 127.0.0.1 at 2014-10-06 13:56:15 -0400
+
+
+Started GET "/assets/Lisa%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-10-06 13:56:15 -0400
+
+
+Started GET "/assets/theperfectfitlogo.png" for 127.0.0.1 at 2014-10-06 13:56:15 -0400
+
+
+Started GET "/welcome/about" for 127.0.0.1 at 2014-10-06 13:57:01 -0400
+Processing by WelcomeController#about as HTML
+  Rendered welcome/about.html.erb within layouts/application (140.3ms)
+  Rendered shared/_navigation.html.erb (0.1ms)
+Completed 200 OK in 753ms (Views: 753.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-06 13:57:02 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-06 13:57:02 -0400
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2014-10-06 13:57:02 -0400
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2014-10-06 13:57:02 -0400
+
+
+Started GET "/assets/foundation/foundation.accordion.js?body=1" for 127.0.0.1 at 2014-10-06 13:57:02 -0400
+
+
+Started GET "/assets/foundation/foundation.alert.js?body=1" for 127.0.0.1 at 2014-10-06 13:57:02 -0400
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2014-10-06 13:57:02 -0400
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2014-10-06 13:57:02 -0400
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2014-10-06 13:57:02 -0400
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2014-10-06 13:57:02 -0400
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2014-10-06 13:57:02 -0400
+
+
+Started GET "/assets/foundation/foundation.offcanvas.js?body=1" for 127.0.0.1 at 2014-10-06 13:57:02 -0400
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2014-10-06 13:57:02 -0400
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2014-10-06 13:57:02 -0400
+
+
+Started GET "/assets/foundation/foundation.slider.js?body=1" for 127.0.0.1 at 2014-10-06 13:57:02 -0400
+
+
+Started GET "/assets/foundation/foundation.tab.js?body=1" for 127.0.0.1 at 2014-10-06 13:57:02 -0400
+
+
+Started GET "/assets/foundation/foundation.tooltip.js?body=1" for 127.0.0.1 at 2014-10-06 13:57:02 -0400
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2014-10-06 13:57:02 -0400
+
+
+Started GET "/assets/foundation/foundation.equalizer.js?body=1" for 127.0.0.1 at 2014-10-06 13:57:02 -0400
+
+
+Started GET "/assets/foundation.js?body=1" for 127.0.0.1 at 2014-10-06 13:57:02 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-06 13:57:02 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-10-06 13:57:02 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-10-06 13:57:02 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-06 13:57:02 -0400
+
+
+Started GET "/assets/Tammara_wigs-3126-Edit.jpg" for 127.0.0.1 at 2014-10-06 13:57:02 -0400
+
+
+Started GET "/assets/jforu.jpg" for 127.0.0.1 at 2014-10-06 13:57:02 -0400
+
+
+Started GET "/welcome/about" for 127.0.0.1 at 2014-10-06 13:58:03 -0400
+Processing by WelcomeController#about as HTML
+  Rendered welcome/about.html.erb within layouts/application (1.4ms)
+Warning. Error encountered while saving cache 2c0b84a960566cf0f2cd4cb971e9c4cfd439a485/welcome.css.scssc: can't dump anonymous class #<Class:0x00000101bd8768>
+
+Warning. Error encountered while saving cache 2c0b84a960566cf0f2cd4cb971e9c4cfd439a485/application.css.scssc: can't dump anonymous class #<Class:0x00000101bd8768>
+
+  Rendered shared/_navigation.html.erb (0.1ms)
+Completed 200 OK in 756ms (Views: 755.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-10-06 13:58:03 -0400
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-10-06 13:58:03 -0400
+
+
+Started GET "/assets/foundation_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-06 13:58:03 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-10-06 13:58:03 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-10-06 13:58:03 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-06 13:58:04 -0400
+
+
+Started GET "/assets/vendor/modernizr.js?body=1" for 127.0.0.1 at 2014-10-06 13:58:04 -0400
+
+
+Started GET "/assets/foundation/foundation.accordion.js?body=1" for 127.0.0.1 at 2014-10-06 13:58:04 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-06 13:58:04 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-06 13:58:04 -0400
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2014-10-06 13:58:04 -0400
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2014-10-06 13:58:04 -0400
+
+
+Started GET "/assets/foundation/foundation.alert.js?body=1" for 127.0.0.1 at 2014-10-06 13:58:04 -0400
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2014-10-06 13:58:04 -0400
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2014-10-06 13:58:04 -0400
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2014-10-06 13:58:04 -0400
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2014-10-06 13:58:04 -0400
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2014-10-06 13:58:04 -0400
+
+
+Started GET "/assets/foundation/foundation.offcanvas.js?body=1" for 127.0.0.1 at 2014-10-06 13:58:04 -0400
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2014-10-06 13:58:04 -0400
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2014-10-06 13:58:04 -0400
+
+
+Started GET "/assets/foundation/foundation.slider.js?body=1" for 127.0.0.1 at 2014-10-06 13:58:04 -0400
+
+
+Started GET "/assets/foundation/foundation.tab.js?body=1" for 127.0.0.1 at 2014-10-06 13:58:04 -0400
+
+
+Started GET "/assets/foundation/foundation.tooltip.js?body=1" for 127.0.0.1 at 2014-10-06 13:58:04 -0400
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2014-10-06 13:58:04 -0400
+
+
+Started GET "/assets/foundation/foundation.equalizer.js?body=1" for 127.0.0.1 at 2014-10-06 13:58:04 -0400
+
+
+Started GET "/assets/foundation.js?body=1" for 127.0.0.1 at 2014-10-06 13:58:04 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-06 13:58:04 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-10-06 13:58:04 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-10-06 13:58:04 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-06 13:58:04 -0400
+
+
+Started GET "/assets/beauty-backgrounds1.jpg" for 127.0.0.1 at 2014-10-06 13:58:04 -0400
+
+
+Started GET "/assets/Tammara_wigs-3126-Edit.jpg" for 127.0.0.1 at 2014-10-06 13:58:04 -0400
+
+
+Started GET "/assets/jforu.jpg" for 127.0.0.1 at 2014-10-06 13:58:04 -0400
+
+
+Started GET "/assets/theperfectfitlogo.png" for 127.0.0.1 at 2014-10-06 13:58:04 -0400
+
+
+Started GET "/welcome/about" for 127.0.0.1 at 2014-10-06 13:58:26 -0400
+Processing by WelcomeController#about as HTML
+  Rendered welcome/about.html.erb within layouts/application (0.3ms)
+Warning. Error encountered while saving cache 2c0b84a960566cf0f2cd4cb971e9c4cfd439a485/welcome.css.scssc: can't dump anonymous class #<Class:0x00000101bd8768>
+
+Warning. Error encountered while saving cache 2c0b84a960566cf0f2cd4cb971e9c4cfd439a485/application.css.scssc: can't dump anonymous class #<Class:0x00000101bd8768>
+
+  Rendered shared/_navigation.html.erb (0.0ms)
+Completed 200 OK in 229ms (Views: 228.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-10-06 13:58:26 -0400
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-10-06 13:58:26 -0400
+
+
+Started GET "/assets/foundation_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-06 13:58:26 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-10-06 13:58:26 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-10-06 13:58:26 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-06 13:58:26 -0400
+
+
+Started GET "/assets/vendor/modernizr.js?body=1" for 127.0.0.1 at 2014-10-06 13:58:26 -0400
+
+
+Started GET "/assets/foundation/foundation.accordion.js?body=1" for 127.0.0.1 at 2014-10-06 13:58:26 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-06 13:58:26 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-06 13:58:26 -0400
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2014-10-06 13:58:26 -0400
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2014-10-06 13:58:26 -0400
+
+
+Started GET "/assets/foundation/foundation.alert.js?body=1" for 127.0.0.1 at 2014-10-06 13:58:26 -0400
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2014-10-06 13:58:26 -0400
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2014-10-06 13:58:26 -0400
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2014-10-06 13:58:26 -0400
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2014-10-06 13:58:26 -0400
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2014-10-06 13:58:26 -0400
+
+
+Started GET "/assets/foundation/foundation.offcanvas.js?body=1" for 127.0.0.1 at 2014-10-06 13:58:26 -0400
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2014-10-06 13:58:26 -0400
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2014-10-06 13:58:26 -0400
+
+
+Started GET "/assets/foundation/foundation.slider.js?body=1" for 127.0.0.1 at 2014-10-06 13:58:26 -0400
+
+
+Started GET "/assets/foundation/foundation.tab.js?body=1" for 127.0.0.1 at 2014-10-06 13:58:26 -0400
+
+
+Started GET "/assets/foundation/foundation.tooltip.js?body=1" for 127.0.0.1 at 2014-10-06 13:58:26 -0400
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2014-10-06 13:58:26 -0400
+
+
+Started GET "/assets/foundation/foundation.equalizer.js?body=1" for 127.0.0.1 at 2014-10-06 13:58:26 -0400
+
+
+Started GET "/assets/foundation.js?body=1" for 127.0.0.1 at 2014-10-06 13:58:26 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-06 13:58:26 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-10-06 13:58:26 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-10-06 13:58:26 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-06 13:58:26 -0400
+
+
+Started GET "/assets/Tammara_wigs-3126-Edit.jpg" for 127.0.0.1 at 2014-10-06 13:58:26 -0400
+
+
+Started GET "/assets/jforu.jpg" for 127.0.0.1 at 2014-10-06 13:58:26 -0400
+
+
+Started GET "/assets/theperfectfitlogo.png" for 127.0.0.1 at 2014-10-06 13:58:26 -0400
+
+
+Started GET "/assets/beauty-backgrounds1.jpg" for 127.0.0.1 at 2014-10-06 13:58:27 -0400
+
+
+Started GET "/welcome/about" for 127.0.0.1 at 2014-10-06 13:59:30 -0400
+Processing by WelcomeController#about as HTML
+  Rendered welcome/about.html.erb within layouts/application (0.8ms)
+  Rendered shared/_navigation.html.erb (0.1ms)
+Completed 200 OK in 338ms (Views: 337.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-10-06 13:59:30 -0400
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-10-06 13:59:30 -0400
+
+
+Started GET "/assets/foundation_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-06 13:59:30 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-10-06 13:59:30 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-10-06 13:59:30 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-06 13:59:30 -0400
+
+
+Started GET "/assets/vendor/modernizr.js?body=1" for 127.0.0.1 at 2014-10-06 13:59:30 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-06 13:59:30 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-06 13:59:30 -0400
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2014-10-06 13:59:30 -0400
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2014-10-06 13:59:30 -0400
+
+
+Started GET "/assets/foundation/foundation.accordion.js?body=1" for 127.0.0.1 at 2014-10-06 13:59:30 -0400
+
+
+Started GET "/assets/foundation/foundation.alert.js?body=1" for 127.0.0.1 at 2014-10-06 13:59:30 -0400
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2014-10-06 13:59:30 -0400
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2014-10-06 13:59:30 -0400
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2014-10-06 13:59:30 -0400
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2014-10-06 13:59:30 -0400
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2014-10-06 13:59:30 -0400
+
+
+Started GET "/assets/foundation/foundation.offcanvas.js?body=1" for 127.0.0.1 at 2014-10-06 13:59:30 -0400
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2014-10-06 13:59:30 -0400
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2014-10-06 13:59:30 -0400
+
+
+Started GET "/assets/foundation/foundation.slider.js?body=1" for 127.0.0.1 at 2014-10-06 13:59:30 -0400
+
+
+Started GET "/assets/foundation/foundation.tab.js?body=1" for 127.0.0.1 at 2014-10-06 13:59:30 -0400
+
+
+Started GET "/assets/foundation/foundation.tooltip.js?body=1" for 127.0.0.1 at 2014-10-06 13:59:30 -0400
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2014-10-06 13:59:30 -0400
+
+
+Started GET "/assets/foundation/foundation.equalizer.js?body=1" for 127.0.0.1 at 2014-10-06 13:59:30 -0400
+
+
+Started GET "/assets/foundation.js?body=1" for 127.0.0.1 at 2014-10-06 13:59:30 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-06 13:59:30 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-10-06 13:59:30 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-10-06 13:59:30 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-06 13:59:30 -0400
+
+
+Started GET "/assets/beauty-backgrounds1.jpg" for 127.0.0.1 at 2014-10-06 13:59:30 -0400
+
+
+Started GET "/assets/Tammara_wigs-3126-Edit.jpg" for 127.0.0.1 at 2014-10-06 13:59:30 -0400
+
+
+Started GET "/assets/jforu.jpg" for 127.0.0.1 at 2014-10-06 13:59:30 -0400
+
+
+Started GET "/assets/theperfectfitlogo.png" for 127.0.0.1 at 2014-10-06 13:59:30 -0400
+
+
+Started GET "/welcome/about" for 127.0.0.1 at 2014-10-06 14:00:10 -0400
+Processing by WelcomeController#about as HTML
+  Rendered welcome/about.html.erb within layouts/application (1.1ms)
+  Rendered shared/_navigation.html.erb (0.1ms)
+Completed 200 OK in 168ms (Views: 167.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-10-06 14:00:11 -0400
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-10-06 14:00:11 -0400
+
+
+Started GET "/assets/foundation_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-06 14:00:11 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-10-06 14:00:11 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-10-06 14:00:11 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-06 14:00:11 -0400
+
+
+Started GET "/assets/vendor/modernizr.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:11 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:11 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:11 -0400
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:11 -0400
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:11 -0400
+
+
+Started GET "/assets/foundation/foundation.accordion.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:11 -0400
+
+
+Started GET "/assets/foundation/foundation.alert.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:11 -0400
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:11 -0400
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:11 -0400
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:11 -0400
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:11 -0400
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:11 -0400
+
+
+Started GET "/assets/foundation/foundation.offcanvas.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:11 -0400
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:11 -0400
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:11 -0400
+
+
+Started GET "/assets/foundation/foundation.slider.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:11 -0400
+
+
+Started GET "/assets/foundation/foundation.tab.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:11 -0400
+
+
+Started GET "/assets/foundation/foundation.tooltip.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:11 -0400
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:11 -0400
+
+
+Started GET "/assets/foundation/foundation.equalizer.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:11 -0400
+
+
+Started GET "/assets/foundation.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:11 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:11 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:11 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:11 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:11 -0400
+
+
+Started GET "/assets/beauty-backgrounds1.jpg" for 127.0.0.1 at 2014-10-06 14:00:11 -0400
+
+
+Started GET "/assets/Tammara_wigs-3126-Edit.jpg" for 127.0.0.1 at 2014-10-06 14:00:11 -0400
+
+
+Started GET "/assets/jforu.jpg" for 127.0.0.1 at 2014-10-06 14:00:11 -0400
+
+
+Started GET "/assets/theperfectfitlogo.png" for 127.0.0.1 at 2014-10-06 14:00:11 -0400
+
+
+Started GET "/welcome/about" for 127.0.0.1 at 2014-10-06 14:00:40 -0400
+Processing by WelcomeController#about as HTML
+  Rendered welcome/about.html.erb within layouts/application (1.1ms)
+  Rendered shared/_navigation.html.erb (0.0ms)
+Completed 200 OK in 152ms (Views: 151.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-10-06 14:00:41 -0400
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-10-06 14:00:41 -0400
+
+
+Started GET "/assets/foundation_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-06 14:00:41 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-10-06 14:00:41 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-10-06 14:00:41 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-06 14:00:41 -0400
+
+
+Started GET "/assets/vendor/modernizr.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:41 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:41 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:41 -0400
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:41 -0400
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:41 -0400
+
+
+Started GET "/assets/foundation/foundation.accordion.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:41 -0400
+
+
+Started GET "/assets/foundation/foundation.alert.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:41 -0400
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:41 -0400
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:41 -0400
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:41 -0400
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:41 -0400
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:41 -0400
+
+
+Started GET "/assets/foundation/foundation.offcanvas.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:41 -0400
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:41 -0400
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:41 -0400
+
+
+Started GET "/assets/foundation/foundation.slider.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:41 -0400
+
+
+Started GET "/assets/foundation/foundation.tab.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:41 -0400
+
+
+Started GET "/assets/foundation/foundation.tooltip.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:41 -0400
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:41 -0400
+
+
+Started GET "/assets/foundation/foundation.equalizer.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:41 -0400
+
+
+Started GET "/assets/foundation.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:41 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:41 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:41 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:41 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:41 -0400
+
+
+Started GET "/assets/Tammara_wigs-3126-Edit.jpg" for 127.0.0.1 at 2014-10-06 14:00:41 -0400
+
+
+Started GET "/assets/jforu.jpg" for 127.0.0.1 at 2014-10-06 14:00:41 -0400
+
+
+Started GET "/assets/theperfectfitlogo.png" for 127.0.0.1 at 2014-10-06 14:00:41 -0400
+
+
+Started GET "/assets/beauty-backgrounds1.jpg" for 127.0.0.1 at 2014-10-06 14:00:41 -0400
+
+
+Started GET "/welcome/home" for 127.0.0.1 at 2014-10-06 14:00:55 -0400
+Processing by WelcomeController#home as HTML
+  Rendered welcome/home.html.erb within layouts/application (2.6ms)
+  Rendered shared/_navigation.html.erb (0.1ms)
+Completed 200 OK in 184ms (Views: 183.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:55 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:55 -0400
+
+
+Started GET "/assets/ORCHID%20WIG%20BY%20ESTETICA%20DESIGNS.png" for 127.0.0.1 at 2014-10-06 14:00:55 -0400
+
+
+Started GET "/assets/Jill%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-10-06 14:00:55 -0400
+
+
+Started GET "/assets/SHEER%20TOUCH%20MODERATE%20HAIRPIECE%20copy.png" for 127.0.0.1 at 2014-10-06 14:00:55 -0400
+
+
+Started GET "/assets/Lisa%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-10-06 14:00:55 -0400
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:55 -0400
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:55 -0400
+
+
+Started GET "/assets/foundation/foundation.accordion.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:55 -0400
+
+
+Started GET "/assets/foundation/foundation.alert.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:55 -0400
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:55 -0400
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:55 -0400
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:55 -0400
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:55 -0400
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:55 -0400
+
+
+Started GET "/assets/foundation/foundation.offcanvas.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:55 -0400
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:55 -0400
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:55 -0400
+
+
+Started GET "/assets/foundation/foundation.slider.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:55 -0400
+
+
+Started GET "/assets/foundation/foundation.tab.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:55 -0400
+
+
+Started GET "/assets/foundation/foundation.tooltip.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:55 -0400
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:55 -0400
+
+
+Started GET "/assets/foundation/foundation.equalizer.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:55 -0400
+
+
+Started GET "/assets/foundation.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:55 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:56 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:56 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:56 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-06 14:00:56 -0400
