@@ -23,8 +23,14 @@ $hot_pink: rgba(255, 63, 255, 0.9);
 
 .featured-wig{
 
+
 	.feature{
+		border-radius: 50%;
+	  overflow: hidden;
 		margin-top: 1em;
+	}
+	.feature:hover{
+		border: solid 1px $hot_pink;
 	}
 	
 	.featured-titles{
@@ -33,9 +39,10 @@ $hot_pink: rgba(255, 63, 255, 0.9);
 		background-color: rgba(0,0,0,0.5);
 		text-align: center;
 		line-height: 2em;
+		
 		h2{
 			color: white;
-			font-size: 170%;
+			font-size: 100%;
 		}
 	}
 	.featured-img{
@@ -164,5 +171,10 @@ max-width: 89.5em;
 
 .hair_loss{
 	background-color: rgba(255,255,255,0.8);
+}
+.h1-color{
+	margin-top: 5px;
+	color: #626262;
+	font-size: 1.5em;
 }
 
