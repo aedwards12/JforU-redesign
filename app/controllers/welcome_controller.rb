@@ -14,4 +14,14 @@ class WelcomeController < ApplicationController
 
   def hair_loss
   end	
+
+  def form_route
+      p params["subject"]
+      p params["name"]
+      p params["body"]
+      p params["email"]
+      @params = params
+      JforuMailer.inquiry_confirmation(@params).deliver
+
+  end  
 end

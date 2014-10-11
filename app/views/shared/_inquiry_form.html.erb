@@ -1,0 +1,12 @@
+<div class="columns small-12 medium-4 form-style">
+<%= form_tag('welcome/form_route', remote: true) do %>
+  <%= text_field_tag 'name',nil, placeholder: 'Full name' %>
+  <%= text_field_tag 'email',nil, placeholder: 'Your email' %>
+  <%= text_field_tag 'subject',nil, placeholder: 'subject' %>
+  <%= text_area_tag 'body', nil, rows: 10, cols: 25 %>
+  <%= submit_tag("Search") %>
+<% end %>
+</div>
+
+
+
