@@ -1,12 +1,48 @@
 .form-style{
+	 margin: 10px 0px;
+   padding: 10px;
+   border-radius: 10px;
+   background-color: #C29AF2;
+
+
+	.form{
+		-webkit-appearance:none;
+		-moz-appearance: none;
+		-ms-appearance:none;
+		appearance:none;
+		outline: 1;
+		box-shadow: none;
+		padding: 20px;
+
+		.h-3{
+			text-align: left;
+			margin-left: 0px;
+    }
+
+	}
+
 	input{
 		width: 300px;
 		height: 25px;
+		margin-bottom: 5px;
 		display: block;
 		clear:right;
-
+		border-radius: 5px;
 	}
+
+	
+	input[type="text"]:focus,textarea:focus{
+		background-color: #eef;
+	}
+
+	input[type="text"]:valid,textarea:valid{
+		background-color: rgb(207, 253, 207);
+	}
+
 	textarea{
 		width: 300px;
+		border-radius: 5px;
+		outline: 0px;
 	}
+
 }

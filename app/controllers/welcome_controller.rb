@@ -16,12 +16,8 @@ class WelcomeController < ApplicationController
   end	
 
   def form_route
-      p params["subject"]
-      p params["name"]
-      p params["body"]
-      p params["email"]
       @params = params
       JforuMailer.inquiry_confirmation(@params).deliver
-
+      JforuMailer.send_to_admin(@params).deliver
   end  
 end
