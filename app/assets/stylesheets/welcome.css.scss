@@ -22,12 +22,16 @@ $hot_pink: rgba(255, 63, 255, 0.9);
 }
 
 .featured-wig{
-
+	padding-bottom: 40px;
 	h3{
 		margin-left: 2em;
 	}
+
+	.image-wrapper{
+		max-width: 250px;
+		margin: 0 auto;
+	}
 	.feature{
-		border-radius: 50%;
 	  overflow: hidden;
 		margin-top: 1em;
 	}
@@ -49,6 +53,10 @@ $hot_pink: rgba(255, 63, 255, 0.9);
 	}
 	.featured-img{
 		width: 100%;
+		img{
+			height:250px;
+			width: 250px;
+		}
 	}
 	.featured-stars{
 		height: 30px;
