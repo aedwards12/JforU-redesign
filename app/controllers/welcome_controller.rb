@@ -16,8 +16,10 @@ class WelcomeController < ApplicationController
   end	
 
   def form_route
-      @params = params
+    @params = params
+    Thread.new do 
       JforuMailer.inquiry_confirmation(@params).deliver
       JforuMailer.send_to_admin(@params).deliver
+    end
   end  
 end
