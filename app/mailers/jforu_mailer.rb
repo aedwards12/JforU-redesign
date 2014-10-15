@@ -1,5 +1,5 @@
 class JforuMailer < ActionMailer::Base
-  default from: "inquiry@jforu.com"
+  default from: "anthony.edwardsjr@gmail.com"
 
   def inquiry_confirmation(content)
   	@content = content

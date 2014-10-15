@@ -77789,3 +77789,2291 @@ Started GET "/assets/Lisa%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-10-1
 
 
 Started GET "/assets/theperfectfitlogo.png" for 127.0.0.1 at 2014-10-11 23:59:30 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-15 10:39:37 -0400
+Processing by WelcomeController#home as HTML
+  Rendered shared/_inquiry_form.html.erb (2.7ms)
+  Rendered welcome/home.html.erb within layouts/application (206.1ms)
+  Rendered shared/_navigation.html.erb (0.1ms)
+Completed 200 OK in 1176ms (Views: 1101.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-15 10:39:39 -0400
+Processing by WelcomeController#home as HTML
+  Rendered shared/_inquiry_form.html.erb (0.5ms)
+  Rendered welcome/home.html.erb within layouts/application (1.9ms)
+  Rendered shared/_navigation.html.erb (0.0ms)
+Completed 200 OK in 200ms (Views: 199.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-10-15 10:39:39 -0400
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-10-15 10:39:39 -0400
+
+
+Started GET "/assets/forms.css?body=1" for 127.0.0.1 at 2014-10-15 10:39:39 -0400
+
+
+Started GET "/assets/foundation_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-15 10:39:39 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-10-15 10:39:39 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-10-15 10:39:39 -0400
+
+
+Started GET "/assets/vendor/modernizr.js?body=1" for 127.0.0.1 at 2014-10-15 10:39:39 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-15 10:39:39 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-15 10:39:39 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-15 10:39:39 -0400
+
+
+Started GET "/assets/foundation/foundation.alert.js?body=1" for 127.0.0.1 at 2014-10-15 10:39:39 -0400
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2014-10-15 10:39:39 -0400
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2014-10-15 10:39:39 -0400
+
+
+Started GET "/assets/foundation/foundation.accordion.js?body=1" for 127.0.0.1 at 2014-10-15 10:39:39 -0400
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2014-10-15 10:39:39 -0400
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2014-10-15 10:39:39 -0400
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2014-10-15 10:39:39 -0400
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2014-10-15 10:39:39 -0400
+
+
+Started GET "/assets/foundation/foundation.offcanvas.js?body=1" for 127.0.0.1 at 2014-10-15 10:39:39 -0400
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2014-10-15 10:39:39 -0400
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2014-10-15 10:39:39 -0400
+
+
+Started GET "/assets/foundation/foundation.slider.js?body=1" for 127.0.0.1 at 2014-10-15 10:39:39 -0400
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2014-10-15 10:39:39 -0400
+
+
+Started GET "/assets/foundation/foundation.tab.js?body=1" for 127.0.0.1 at 2014-10-15 10:39:39 -0400
+
+
+Started GET "/assets/foundation.js?body=1" for 127.0.0.1 at 2014-10-15 10:39:39 -0400
+
+
+Started GET "/assets/foundation/foundation.tooltip.js?body=1" for 127.0.0.1 at 2014-10-15 10:39:39 -0400
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2014-10-15 10:39:39 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-15 10:39:39 -0400
+
+
+Started GET "/assets/foundation/foundation.equalizer.js?body=1" for 127.0.0.1 at 2014-10-15 10:39:39 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-10-15 10:39:39 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-10-15 10:39:39 -0400
+
+
+Started GET "/assets/ORCHID%20WIG%20BY%20ESTETICA%20DESIGNS.png" for 127.0.0.1 at 2014-10-15 10:39:39 -0400
+
+
+Started GET "/assets/theperfectfitlogo.png" for 127.0.0.1 at 2014-10-15 10:39:39 -0400
+
+
+Started GET "/assets/Lisa%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-10-15 10:39:39 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-15 10:39:39 -0400
+
+
+Started GET "/assets/Jill%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-10-15 10:39:39 -0400
+
+
+Started GET "/assets/SHEER%20TOUCH%20MODERATE%20HAIRPIECE%20copy.png" for 127.0.0.1 at 2014-10-15 10:39:40 -0400
+
+
+Started GET "/assets/beauty-backgrounds1.jpg" for 127.0.0.1 at 2014-10-15 10:39:40 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-15 10:40:14 -0400
+Processing by WelcomeController#home as HTML
+  Rendered shared/_inquiry_form.html.erb (0.4ms)
+  Rendered welcome/home.html.erb within layouts/application (2.9ms)
+  Rendered shared/_navigation.html.erb (0.0ms)
+Completed 200 OK in 275ms (Views: 274.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-10-15 10:40:14 -0400
+
+
+Started GET "/assets/forms.css?body=1" for 127.0.0.1 at 2014-10-15 10:40:14 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-10-15 10:40:14 -0400
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-10-15 10:40:14 -0400
+
+
+Started GET "/assets/foundation_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-15 10:40:14 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-10-15 10:40:14 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-15 10:40:14 -0400
+
+
+Started GET "/assets/vendor/modernizr.js?body=1" for 127.0.0.1 at 2014-10-15 10:40:14 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-15 10:40:14 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-15 10:40:14 -0400
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2014-10-15 10:40:14 -0400
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2014-10-15 10:40:14 -0400
+
+
+Started GET "/assets/foundation/foundation.accordion.js?body=1" for 127.0.0.1 at 2014-10-15 10:40:14 -0400
+
+
+Started GET "/assets/foundation/foundation.alert.js?body=1" for 127.0.0.1 at 2014-10-15 10:40:14 -0400
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2014-10-15 10:40:14 -0400
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2014-10-15 10:40:14 -0400
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2014-10-15 10:40:14 -0400
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2014-10-15 10:40:14 -0400
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2014-10-15 10:40:14 -0400
+
+
+Started GET "/assets/foundation/foundation.offcanvas.js?body=1" for 127.0.0.1 at 2014-10-15 10:40:14 -0400
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2014-10-15 10:40:14 -0400
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2014-10-15 10:40:14 -0400
+
+
+Started GET "/assets/foundation/foundation.slider.js?body=1" for 127.0.0.1 at 2014-10-15 10:40:14 -0400
+
+
+Started GET "/assets/foundation/foundation.tab.js?body=1" for 127.0.0.1 at 2014-10-15 10:40:14 -0400
+
+
+Started GET "/assets/foundation/foundation.tooltip.js?body=1" for 127.0.0.1 at 2014-10-15 10:40:14 -0400
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2014-10-15 10:40:14 -0400
+
+
+Started GET "/assets/foundation/foundation.equalizer.js?body=1" for 127.0.0.1 at 2014-10-15 10:40:14 -0400
+
+
+Started GET "/assets/foundation.js?body=1" for 127.0.0.1 at 2014-10-15 10:40:14 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-15 10:40:14 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-10-15 10:40:14 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-10-15 10:40:14 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-15 10:40:14 -0400
+
+
+Started GET "/assets/beauty-backgrounds1.jpg" for 127.0.0.1 at 2014-10-15 10:40:14 -0400
+
+
+Started GET "/assets/ORCHID%20WIG%20BY%20ESTETICA%20DESIGNS.png" for 127.0.0.1 at 2014-10-15 10:40:14 -0400
+
+
+Started GET "/assets/Jill%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-10-15 10:40:14 -0400
+
+
+Started GET "/assets/SHEER%20TOUCH%20MODERATE%20HAIRPIECE%20copy.png" for 127.0.0.1 at 2014-10-15 10:40:15 -0400
+
+
+Started GET "/assets/Lisa%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-10-15 10:40:15 -0400
+
+
+Started GET "/assets/theperfectfitlogo.png" for 127.0.0.1 at 2014-10-15 10:40:15 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-15 11:03:20 -0400
+Processing by WelcomeController#home as HTML
+  Rendered shared/_inquiry_form.html.erb (1.0ms)
+  Rendered welcome/home.html.erb within layouts/application (203.0ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+Completed 200 OK in 2429ms (Views: 2392.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-10-15 11:03:24 -0400
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-10-15 11:03:24 -0400
+
+
+Started GET "/assets/forms.css?body=1" for 127.0.0.1 at 2014-10-15 11:03:24 -0400
+
+
+Started GET "/assets/foundation_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-15 11:03:24 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-10-15 11:03:24 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-10-15 11:03:24 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-15 11:03:24 -0400
+
+
+Started GET "/assets/vendor/modernizr.js?body=1" for 127.0.0.1 at 2014-10-15 11:03:24 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-15 11:03:24 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-15 11:03:24 -0400
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2014-10-15 11:03:24 -0400
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2014-10-15 11:03:24 -0400
+
+
+Started GET "/assets/foundation/foundation.accordion.js?body=1" for 127.0.0.1 at 2014-10-15 11:03:24 -0400
+
+
+Started GET "/assets/foundation/foundation.alert.js?body=1" for 127.0.0.1 at 2014-10-15 11:03:24 -0400
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2014-10-15 11:03:24 -0400
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2014-10-15 11:03:24 -0400
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2014-10-15 11:03:24 -0400
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2014-10-15 11:03:24 -0400
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2014-10-15 11:03:24 -0400
+
+
+Started GET "/assets/foundation/foundation.offcanvas.js?body=1" for 127.0.0.1 at 2014-10-15 11:03:24 -0400
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2014-10-15 11:03:24 -0400
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2014-10-15 11:03:24 -0400
+
+
+Started GET "/assets/foundation/foundation.slider.js?body=1" for 127.0.0.1 at 2014-10-15 11:03:24 -0400
+
+
+Started GET "/assets/foundation/foundation.tab.js?body=1" for 127.0.0.1 at 2014-10-15 11:03:24 -0400
+
+
+Started GET "/assets/foundation/foundation.tooltip.js?body=1" for 127.0.0.1 at 2014-10-15 11:03:24 -0400
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2014-10-15 11:03:24 -0400
+
+
+Started GET "/assets/foundation/foundation.equalizer.js?body=1" for 127.0.0.1 at 2014-10-15 11:03:24 -0400
+
+
+Started GET "/assets/foundation.js?body=1" for 127.0.0.1 at 2014-10-15 11:03:24 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-15 11:03:24 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-10-15 11:03:24 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-10-15 11:03:24 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-15 11:03:24 -0400
+
+
+Started GET "/assets/ORCHID%20WIG%20BY%20ESTETICA%20DESIGNS.png" for 127.0.0.1 at 2014-10-15 11:03:24 -0400
+
+
+Started GET "/assets/Jill%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-10-15 11:03:24 -0400
+
+
+Started GET "/assets/SHEER%20TOUCH%20MODERATE%20HAIRPIECE%20copy.png" for 127.0.0.1 at 2014-10-15 11:03:24 -0400
+
+
+Started GET "/assets/Lisa%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-10-15 11:03:24 -0400
+
+
+Started GET "/assets/theperfectfitlogo.png" for 127.0.0.1 at 2014-10-15 11:03:24 -0400
+
+
+Started GET "/assets/beauty-backgrounds1.jpg" for 127.0.0.1 at 2014-10-15 11:03:24 -0400
+
+
+Started POST "/welcome/form_route" for 127.0.0.1 at 2014-10-15 11:03:38 -0400
+Processing by WelcomeController#form_route as JS
+  Parameters: {"utf8"=>"✓", "name"=>"Anthony", "email"=>"anthony.edwardsjr@gmail.com", "subject"=>"mailer", "body"=>"testingingign", "commit"=>"Send"}
+Completed 500 Internal Server Error in 100ms
+
+ActionView::MissingTemplate (Missing template welcome/form_route, application/form_route with {:locale=>[:en], :formats=>[:js, "application/ecmascript", "application/x-ecmascript", :html, :text, :js, :css, :ics, :csv, :vcf, :png, :jpeg, :gif, :bmp, :tiff, :mpeg, :xml, :rss, :atom, :yaml, :multipart_form, :url_encoded_form, :json, :pdf, :zip], :variants=>[], :handlers=>[:erb, :builder, :raw, :ruby, :jbuilder, :coffee]}. Searched in:
+  * "/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views"
+  * "/Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/foundation-rails-5.4.4.0/app/views"
+):
+  actionview (4.1.4) lib/action_view/path_set.rb:46:in `find'
+  actionview (4.1.4) lib/action_view/lookup_context.rb:124:in `find'
+  actionview (4.1.4) lib/action_view/renderer/abstract_renderer.rb:18:in `find_template'
+  actionview (4.1.4) lib/action_view/renderer/template_renderer.rb:41:in `determine_template'
+  actionview (4.1.4) lib/action_view/renderer/template_renderer.rb:8:in `render'
+  actionview (4.1.4) lib/action_view/renderer/renderer.rb:42:in `render_template'
+  actionview (4.1.4) lib/action_view/renderer/renderer.rb:23:in `render'
+  actionview (4.1.4) lib/action_view/rendering.rb:99:in `_render_template'
+  actionpack (4.1.4) lib/action_controller/metal/streaming.rb:217:in `_render_template'
+  actionview (4.1.4) lib/action_view/rendering.rb:82:in `render_to_body'
+  actionpack (4.1.4) lib/action_controller/metal/rendering.rb:32:in `render_to_body'
+  actionpack (4.1.4) lib/action_controller/metal/renderers.rb:32:in `render_to_body'
+  actionpack (4.1.4) lib/abstract_controller/rendering.rb:25:in `render'
+  actionpack (4.1.4) lib/action_controller/metal/rendering.rb:16:in `render'
+  actionpack (4.1.4) lib/action_controller/metal/instrumentation.rb:41:in `block (2 levels) in render'
+  activesupport (4.1.4) lib/active_support/core_ext/benchmark.rb:12:in `block in ms'
+  /Users/anthonyedwardsjr/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/benchmark.rb:294:in `realtime'
+  activesupport (4.1.4) lib/active_support/core_ext/benchmark.rb:12:in `ms'
+  actionpack (4.1.4) lib/action_controller/metal/instrumentation.rb:41:in `block in render'
+  actionpack (4.1.4) lib/action_controller/metal/instrumentation.rb:84:in `cleanup_view_runtime'
+  activerecord (4.1.4) lib/active_record/railties/controller_runtime.rb:25:in `cleanup_view_runtime'
+  actionpack (4.1.4) lib/action_controller/metal/instrumentation.rb:40:in `render'
+  actionpack (4.1.4) lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+  actionpack (4.1.4) lib/action_controller/metal/implicit_render.rb:5:in `send_action'
+  actionpack (4.1.4) lib/abstract_controller/base.rb:189:in `process_action'
+  actionpack (4.1.4) lib/action_controller/metal/rendering.rb:10:in `process_action'
+  actionpack (4.1.4) lib/abstract_controller/callbacks.rb:20:in `block in process_action'
+  activesupport (4.1.4) lib/active_support/callbacks.rb:113:in `call'
+  activesupport (4.1.4) lib/active_support/callbacks.rb:113:in `call'
+  activesupport (4.1.4) lib/active_support/callbacks.rb:229:in `block in halting'
+  activesupport (4.1.4) lib/active_support/callbacks.rb:229:in `call'
+  activesupport (4.1.4) lib/active_support/callbacks.rb:229:in `block in halting'
+  activesupport (4.1.4) lib/active_support/callbacks.rb:166:in `call'
+  activesupport (4.1.4) lib/active_support/callbacks.rb:166:in `block in halting'
+  activesupport (4.1.4) lib/active_support/callbacks.rb:166:in `call'
+  activesupport (4.1.4) lib/active_support/callbacks.rb:166:in `block in halting'
+  activesupport (4.1.4) lib/active_support/callbacks.rb:166:in `call'
+  activesupport (4.1.4) lib/active_support/callbacks.rb:166:in `block in halting'
+  activesupport (4.1.4) lib/active_support/callbacks.rb:86:in `call'
+  activesupport (4.1.4) lib/active_support/callbacks.rb:86:in `run_callbacks'
+  actionpack (4.1.4) lib/abstract_controller/callbacks.rb:19:in `process_action'
+  actionpack (4.1.4) lib/action_controller/metal/rescue.rb:29:in `process_action'
+  actionpack (4.1.4) lib/action_controller/metal/instrumentation.rb:31:in `block in process_action'
+  activesupport (4.1.4) lib/active_support/notifications.rb:159:in `block in instrument'
+  activesupport (4.1.4) lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  activesupport (4.1.4) lib/active_support/notifications.rb:159:in `instrument'
+  actionpack (4.1.4) lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+  actionpack (4.1.4) lib/action_controller/metal/params_wrapper.rb:250:in `process_action'
+  activerecord (4.1.4) lib/active_record/railties/controller_runtime.rb:18:in `process_action'
+  actionpack (4.1.4) lib/abstract_controller/base.rb:136:in `process'
+  actionview (4.1.4) lib/action_view/rendering.rb:30:in `process'
+  actionpack (4.1.4) lib/action_controller/metal.rb:196:in `dispatch'
+  actionpack (4.1.4) lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+  actionpack (4.1.4) lib/action_controller/metal.rb:232:in `block in action'
+  actionpack (4.1.4) lib/action_dispatch/routing/route_set.rb:82:in `call'
+  actionpack (4.1.4) lib/action_dispatch/routing/route_set.rb:82:in `dispatch'
+  actionpack (4.1.4) lib/action_dispatch/routing/route_set.rb:50:in `call'
+  actionpack (4.1.4) lib/action_dispatch/journey/router.rb:71:in `block in call'
+  actionpack (4.1.4) lib/action_dispatch/journey/router.rb:59:in `each'
+  actionpack (4.1.4) lib/action_dispatch/journey/router.rb:59:in `call'
+  actionpack (4.1.4) lib/action_dispatch/routing/route_set.rb:678:in `call'
+  rack (1.5.2) lib/rack/etag.rb:23:in `call'
+  rack (1.5.2) lib/rack/conditionalget.rb:35:in `call'
+  rack (1.5.2) lib/rack/head.rb:11:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/flash.rb:254:in `call'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/cookies.rb:560:in `call'
+  activerecord (4.1.4) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.1.4) lib/active_record/connection_adapters/abstract/connection_pool.rb:621:in `call'
+  activerecord (4.1.4) lib/active_record/migration.rb:380:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.1.4) lib/active_support/callbacks.rb:82:in `run_callbacks'
+  actionpack (4.1.4) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/remote_ip.rb:76:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.4) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.4) lib/rails/engine.rb:514:in `call'
+  railties (4.1.4) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  thin (1.6.2) lib/thin/connection.rb:86:in `block in pre_process'
+  thin (1.6.2) lib/thin/connection.rb:84:in `catch'
+  thin (1.6.2) lib/thin/connection.rb:84:in `pre_process'
+  thin (1.6.2) lib/thin/connection.rb:53:in `process'
+  thin (1.6.2) lib/thin/connection.rb:39:in `receive_data'
+  eventmachine (1.0.3) lib/eventmachine.rb:187:in `run_machine'
+  eventmachine (1.0.3) lib/eventmachine.rb:187:in `run'
+  thin (1.6.2) lib/thin/backends/base.rb:73:in `start'
+  thin (1.6.2) lib/thin/server.rb:162:in `start'
+  rack (1.5.2) lib/rack/handler/thin.rb:16:in `run'
+  rack (1.5.2) lib/rack/server.rb:264:in `start'
+  railties (4.1.4) lib/rails/commands/server.rb:69:in `start'
+  railties (4.1.4) lib/rails/commands/commands_tasks.rb:81:in `block in server'
+  railties (4.1.4) lib/rails/commands/commands_tasks.rb:76:in `tap'
+  railties (4.1.4) lib/rails/commands/commands_tasks.rb:76:in `server'
+  railties (4.1.4) lib/rails/commands/commands_tasks.rb:40:in `run_command!'
+  railties (4.1.4) lib/rails/commands.rb:17:in `<top (required)>'
+  bin/rails:8:in `require'
+  bin/rails:8:in `<top (required)>'
+  spring (1.1.3) lib/spring/client/rails.rb:27:in `load'
+  spring (1.1.3) lib/spring/client/rails.rb:27:in `call'
+  spring (1.1.3) lib/spring/client/command.rb:7:in `call'
+  spring (1.1.3) lib/spring/client.rb:26:in `run'
+  spring (1.1.3) bin/spring:48:in `<top (required)>'
+  spring (1.1.3) lib/spring/binstub.rb:11:in `load'
+  spring (1.1.3) lib/spring/binstub.rb:11:in `<top (required)>'
+  bin/spring:16:in `require'
+  bin/spring:16:in `<top (required)>'
+  bin/rails:3:in `load'
+  bin/rails:3:in `<main>'
+
+
+  Rendered jforu_mailer/inquiry_confirmation.html.erb (0.4ms)
+
+JforuMailer#inquiry_confirmation: processed outbound mail in 115.5ms
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/missing_template.text.erb (0.4ms)
+
+Sent mail to anthony.edwardsjr@gmail.com (2461.0ms)
+Date: Wed, 15 Oct 2014 11:03:38 -0400
+From: inquiry@jforu.com
+To: anthony.edwardsjr@gmail.com
+Message-ID: <543e8ccad6c3b_eedb8205119450823@AEvisionz.local.mail>
+Subject: mailer
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content='text/html; charset=UTF-8' http-equiv='Content-Type' />
+  </head>
+  <body>
+Hello, Anthony<br>
+
+
+<p>This is to confirm that your message has be sent. We will get back to you within 48 hours with a response. We appreciate your business.</p>
+
+Regards,<br>
+
+Tammara<br>
+
+The Perfect Fit<br>
+<ul>
+	<li>516 Broadway 2nd Floor Ste 6</li>
+	<li>Kingston, New York 12401</li>
+	<li>P: (845) 853-8040</li>
+</ul>
+
+ </body>
+</html>
+
+
+
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-15 11:05:56 -0400
+Processing by WelcomeController#home as HTML
+  Rendered shared/_inquiry_form.html.erb (0.5ms)
+  Rendered welcome/home.html.erb within layouts/application (2.2ms)
+  Rendered shared/_navigation.html.erb (0.1ms)
+Completed 200 OK in 162ms (Views: 161.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-10-15 11:05:56 -0400
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-10-15 11:05:56 -0400
+
+
+Started GET "/assets/forms.css?body=1" for 127.0.0.1 at 2014-10-15 11:05:56 -0400
+
+
+Started GET "/assets/foundation_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-15 11:05:56 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-10-15 11:05:56 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-10-15 11:05:56 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-15 11:05:56 -0400
+
+
+Started GET "/assets/vendor/modernizr.js?body=1" for 127.0.0.1 at 2014-10-15 11:05:56 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-15 11:05:56 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-15 11:05:56 -0400
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2014-10-15 11:05:56 -0400
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2014-10-15 11:05:56 -0400
+
+
+Started GET "/assets/foundation/foundation.accordion.js?body=1" for 127.0.0.1 at 2014-10-15 11:05:56 -0400
+
+
+Started GET "/assets/foundation/foundation.alert.js?body=1" for 127.0.0.1 at 2014-10-15 11:05:56 -0400
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2014-10-15 11:05:56 -0400
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2014-10-15 11:05:56 -0400
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2014-10-15 11:05:56 -0400
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2014-10-15 11:05:56 -0400
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2014-10-15 11:05:56 -0400
+
+
+Started GET "/assets/foundation/foundation.offcanvas.js?body=1" for 127.0.0.1 at 2014-10-15 11:05:56 -0400
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2014-10-15 11:05:56 -0400
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2014-10-15 11:05:56 -0400
+
+
+Started GET "/assets/foundation/foundation.slider.js?body=1" for 127.0.0.1 at 2014-10-15 11:05:56 -0400
+
+
+Started GET "/assets/foundation/foundation.tab.js?body=1" for 127.0.0.1 at 2014-10-15 11:05:56 -0400
+
+
+Started GET "/assets/foundation/foundation.tooltip.js?body=1" for 127.0.0.1 at 2014-10-15 11:05:56 -0400
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2014-10-15 11:05:56 -0400
+
+
+Started GET "/assets/foundation/foundation.equalizer.js?body=1" for 127.0.0.1 at 2014-10-15 11:05:56 -0400
+
+
+Started GET "/assets/foundation.js?body=1" for 127.0.0.1 at 2014-10-15 11:05:56 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-15 11:05:56 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-10-15 11:05:56 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-10-15 11:05:56 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-15 11:05:56 -0400
+
+
+Started GET "/assets/beauty-backgrounds1.jpg" for 127.0.0.1 at 2014-10-15 11:05:56 -0400
+
+
+Started GET "/assets/ORCHID%20WIG%20BY%20ESTETICA%20DESIGNS.png" for 127.0.0.1 at 2014-10-15 11:05:56 -0400
+
+
+Started GET "/assets/Jill%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-10-15 11:05:56 -0400
+
+
+Started GET "/assets/SHEER%20TOUCH%20MODERATE%20HAIRPIECE%20copy.png" for 127.0.0.1 at 2014-10-15 11:05:56 -0400
+
+
+Started GET "/assets/Lisa%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-10-15 11:05:56 -0400
+
+
+Started GET "/assets/theperfectfitlogo.png" for 127.0.0.1 at 2014-10-15 11:05:56 -0400
+
+
+Started POST "/welcome/form_route" for 127.0.0.1 at 2014-10-15 11:09:09 -0400
+Processing by WelcomeController#form_route as JS
+  Parameters: {"utf8"=>"✓", "name"=>"ant", "email"=>"anthony.edwardsjr@gmail.com", "subject"=>"message", "body"=>"meadddse", "commit"=>"Send"}
+Completed 500 Internal Server Error in 13ms
+
+ActionView::MissingTemplate (Missing template welcome/form_route, application/form_route with {:locale=>[:en], :formats=>[:js, "application/ecmascript", "application/x-ecmascript", :html, :text, :js, :css, :ics, :csv, :vcf, :png, :jpeg, :gif, :bmp, :tiff, :mpeg, :xml, :rss, :atom, :yaml, :multipart_form, :url_encoded_form, :json, :pdf, :zip], :variants=>[], :handlers=>[:erb, :builder, :raw, :ruby, :jbuilder, :coffee]}. Searched in:
+  * "/Users/anthonyedwardsjr/Desktop/ruby/projects/JforU-redesign/app/views"
+  * "/Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/foundation-rails-5.4.4.0/app/views"
+):
+  actionview (4.1.4) lib/action_view/path_set.rb:46:in `find'
+  actionview (4.1.4) lib/action_view/lookup_context.rb:124:in `find'
+  actionview (4.1.4) lib/action_view/renderer/abstract_renderer.rb:18:in `find_template'
+  actionview (4.1.4) lib/action_view/renderer/template_renderer.rb:41:in `determine_template'
+  actionview (4.1.4) lib/action_view/renderer/template_renderer.rb:8:in `render'
+  actionview (4.1.4) lib/action_view/renderer/renderer.rb:42:in `render_template'
+  actionview (4.1.4) lib/action_view/renderer/renderer.rb:23:in `render'
+  actionview (4.1.4) lib/action_view/rendering.rb:99:in `_render_template'
+  actionpack (4.1.4) lib/action_controller/metal/streaming.rb:217:in `_render_template'
+  actionview (4.1.4) lib/action_view/rendering.rb:82:in `render_to_body'
+  actionpack (4.1.4) lib/action_controller/metal/rendering.rb:32:in `render_to_body'
+  actionpack (4.1.4) lib/action_controller/metal/renderers.rb:32:in `render_to_body'
+  actionpack (4.1.4) lib/abstract_controller/rendering.rb:25:in `render'
+  actionpack (4.1.4) lib/action_controller/metal/rendering.rb:16:in `render'
+  actionpack (4.1.4) lib/action_controller/metal/instrumentation.rb:41:in `block (2 levels) in render'
+  activesupport (4.1.4) lib/active_support/core_ext/benchmark.rb:12:in `block in ms'
+  /Users/anthonyedwardsjr/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/benchmark.rb:294:in `realtime'
+  activesupport (4.1.4) lib/active_support/core_ext/benchmark.rb:12:in `ms'
+  actionpack (4.1.4) lib/action_controller/metal/instrumentation.rb:41:in `block in render'
+  actionpack (4.1.4) lib/action_controller/metal/instrumentation.rb:84:in `cleanup_view_runtime'
+  activerecord (4.1.4) lib/active_record/railties/controller_runtime.rb:25:in `cleanup_view_runtime'
+  actionpack (4.1.4) lib/action_controller/metal/instrumentation.rb:40:in `render'
+  actionpack (4.1.4) lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+  actionpack (4.1.4) lib/action_controller/metal/implicit_render.rb:5:in `send_action'
+  actionpack (4.1.4) lib/abstract_controller/base.rb:189:in `process_action'
+  actionpack (4.1.4) lib/action_controller/metal/rendering.rb:10:in `process_action'
+  actionpack (4.1.4) lib/abstract_controller/callbacks.rb:20:in `block in process_action'
+  activesupport (4.1.4) lib/active_support/callbacks.rb:113:in `call'
+  activesupport (4.1.4) lib/active_support/callbacks.rb:113:in `call'
+  activesupport (4.1.4) lib/active_support/callbacks.rb:229:in `block in halting'
+  activesupport (4.1.4) lib/active_support/callbacks.rb:229:in `call'
+  activesupport (4.1.4) lib/active_support/callbacks.rb:229:in `block in halting'
+  activesupport (4.1.4) lib/active_support/callbacks.rb:166:in `call'
+  activesupport (4.1.4) lib/active_support/callbacks.rb:166:in `block in halting'
+  activesupport (4.1.4) lib/active_support/callbacks.rb:166:in `call'
+  activesupport (4.1.4) lib/active_support/callbacks.rb:166:in `block in halting'
+  activesupport (4.1.4) lib/active_support/callbacks.rb:166:in `call'
+  activesupport (4.1.4) lib/active_support/callbacks.rb:166:in `block in halting'
+  activesupport (4.1.4) lib/active_support/callbacks.rb:86:in `call'
+  activesupport (4.1.4) lib/active_support/callbacks.rb:86:in `run_callbacks'
+  actionpack (4.1.4) lib/abstract_controller/callbacks.rb:19:in `process_action'
+  actionpack (4.1.4) lib/action_controller/metal/rescue.rb:29:in `process_action'
+  actionpack (4.1.4) lib/action_controller/metal/instrumentation.rb:31:in `block in process_action'
+  activesupport (4.1.4) lib/active_support/notifications.rb:159:in `block in instrument'
+  activesupport (4.1.4) lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  activesupport (4.1.4) lib/active_support/notifications.rb:159:in `instrument'
+  actionpack (4.1.4) lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+  actionpack (4.1.4) lib/action_controller/metal/params_wrapper.rb:250:in `process_action'
+  activerecord (4.1.4) lib/active_record/railties/controller_runtime.rb:18:in `process_action'
+  actionpack (4.1.4) lib/abstract_controller/base.rb:136:in `process'
+  actionview (4.1.4) lib/action_view/rendering.rb:30:in `process'
+  actionpack (4.1.4) lib/action_controller/metal.rb:196:in `dispatch'
+  actionpack (4.1.4) lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+  actionpack (4.1.4) lib/action_controller/metal.rb:232:in `block in action'
+  actionpack (4.1.4) lib/action_dispatch/routing/route_set.rb:82:in `call'
+  actionpack (4.1.4) lib/action_dispatch/routing/route_set.rb:82:in `dispatch'
+  actionpack (4.1.4) lib/action_dispatch/routing/route_set.rb:50:in `call'
+  actionpack (4.1.4) lib/action_dispatch/journey/router.rb:71:in `block in call'
+  actionpack (4.1.4) lib/action_dispatch/journey/router.rb:59:in `each'
+  actionpack (4.1.4) lib/action_dispatch/journey/router.rb:59:in `call'
+  actionpack (4.1.4) lib/action_dispatch/routing/route_set.rb:678:in `call'
+  rack (1.5.2) lib/rack/etag.rb:23:in `call'
+  rack (1.5.2) lib/rack/conditionalget.rb:35:in `call'
+  rack (1.5.2) lib/rack/head.rb:11:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/flash.rb:254:in `call'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/cookies.rb:560:in `call'
+  activerecord (4.1.4) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.1.4) lib/active_record/connection_adapters/abstract/connection_pool.rb:621:in `call'
+  activerecord (4.1.4) lib/active_record/migration.rb:380:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.1.4) lib/active_support/callbacks.rb:82:in `run_callbacks'
+  actionpack (4.1.4) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/remote_ip.rb:76:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.4) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.4) lib/rails/engine.rb:514:in `call'
+  railties (4.1.4) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  thin (1.6.2) lib/thin/connection.rb:86:in `block in pre_process'
+  thin (1.6.2) lib/thin/connection.rb:84:in `catch'
+  thin (1.6.2) lib/thin/connection.rb:84:in `pre_process'
+  thin (1.6.2) lib/thin/connection.rb:53:in `process'
+  thin (1.6.2) lib/thin/connection.rb:39:in `receive_data'
+  eventmachine (1.0.3) lib/eventmachine.rb:187:in `run_machine'
+  eventmachine (1.0.3) lib/eventmachine.rb:187:in `run'
+  thin (1.6.2) lib/thin/backends/base.rb:73:in `start'
+  thin (1.6.2) lib/thin/server.rb:162:in `start'
+  rack (1.5.2) lib/rack/handler/thin.rb:16:in `run'
+  rack (1.5.2) lib/rack/server.rb:264:in `start'
+  railties (4.1.4) lib/rails/commands/server.rb:69:in `start'
+  railties (4.1.4) lib/rails/commands/commands_tasks.rb:81:in `block in server'
+  railties (4.1.4) lib/rails/commands/commands_tasks.rb:76:in `tap'
+  railties (4.1.4) lib/rails/commands/commands_tasks.rb:76:in `server'
+  railties (4.1.4) lib/rails/commands/commands_tasks.rb:40:in `run_command!'
+  railties (4.1.4) lib/rails/commands.rb:17:in `<top (required)>'
+  bin/rails:8:in `require'
+  bin/rails:8:in `<top (required)>'
+  spring (1.1.3) lib/spring/client/rails.rb:27:in `load'
+  spring (1.1.3) lib/spring/client/rails.rb:27:in `call'
+  spring (1.1.3) lib/spring/client/command.rb:7:in `call'
+  spring (1.1.3) lib/spring/client.rb:26:in `run'
+  spring (1.1.3) bin/spring:48:in `<top (required)>'
+  spring (1.1.3) lib/spring/binstub.rb:11:in `load'
+  spring (1.1.3) lib/spring/binstub.rb:11:in `<top (required)>'
+  bin/spring:16:in `require'
+  bin/spring:16:in `<top (required)>'
+  bin/rails:3:in `load'
+  bin/rails:3:in `<main>'
+
+
+  Rendered jforu_mailer/inquiry_confirmation.html.erb (0.1ms)
+
+JforuMailer#inquiry_confirmation: processed outbound mail in 26.5ms
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/missing_template.text.erb (0.5ms)
+
+Sent mail to anthony.edwardsjr@gmail.com (1956.1ms)
+Date: Wed, 15 Oct 2014 11:09:09 -0400
+From: inquiry@jforu.com
+To: anthony.edwardsjr@gmail.com
+Message-ID: <543e8e152b3ce_eedb80949550509e1@AEvisionz.local.mail>
+Subject: message
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content='text/html; charset=UTF-8' http-equiv='Content-Type' />
+  </head>
+  <body>
+Hello, ant<br>
+
+
+<p>This is to confirm that your message has be sent. We will get back to you within 48 hours with a response. We appreciate your business.</p>
+
+Regards,<br>
+
+Tammara<br>
+
+The Perfect Fit<br>
+<ul>
+	<li>516 Broadway 2nd Floor Ste 6</li>
+	<li>Kingston, New York 12401</li>
+	<li>P: (845) 853-8040</li>
+</ul>
+
+ </body>
+</html>
+
+
+
+
+
+Started POST "/welcome/form_route" for 127.0.0.1 at 2014-10-15 11:39:39 -0400
+Processing by WelcomeController#form_route as JS
+  Parameters: {"utf8"=>"✓", "name"=>"ant", "email"=>"anthony.edwardsjr@gmail.com", "subject"=>"message", "body"=>"meadddse", "commit"=>"Send"}
+Completed 406 Not Acceptable in 15ms
+
+ActionController::UnknownFormat (ActionController::UnknownFormat):
+  app/controllers/welcome_controller.rb:20:in `form_route'
+
+
+  Rendered jforu_mailer/inquiry_confirmation.html.erb (0.1ms)
+
+JforuMailer#inquiry_confirmation: processed outbound mail in 131.9ms
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.7ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.text.erb (0.6ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.text.erb (1.0ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb (21.2ms)
+
+Sent mail to anthony.edwardsjr@gmail.com (1814.4ms)
+Date: Wed, 15 Oct 2014 11:39:39 -0400
+From: inquiry@jforu.com
+To: anthony.edwardsjr@gmail.com
+Message-ID: <543e953bbd0a2_eedb821eb374510d7@AEvisionz.local.mail>
+Subject: message
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content='text/html; charset=UTF-8' http-equiv='Content-Type' />
+  </head>
+  <body>
+Hello, ant<br>
+
+
+<p>This is to confirm that your message has be sent. We will get back to you within 48 hours with a response. We appreciate your business.</p>
+
+Regards,<br>
+
+Tammara<br>
+
+The Perfect Fit<br>
+<ul>
+	<li>516 Broadway 2nd Floor Ste 6</li>
+	<li>Kingston, New York 12401</li>
+	<li>P: (845) 853-8040</li>
+</ul>
+
+ </body>
+</html>
+
+
+
+
+
+Started POST "/welcome/form_route" for 127.0.0.1 at 2014-10-15 11:40:42 -0400
+Processing by WelcomeController#form_route as JS
+  Parameters: {"utf8"=>"✓", "name"=>"ant", "email"=>"anthony.edwardsjr@gmail.com", "subject"=>"message", "body"=>"meadddse", "commit"=>"Send"}
+  Rendered jforu_mailer/send_to_admin.html.erb (0.5ms)
+
+JforuMailer#send_to_admin: processed outbound mail in 40.9ms
+
+Sent mail to tammara@jforu.com (1416.6ms)
+Date: Wed, 15 Oct 2014 11:40:42 -0400
+From: inquiry@jforu.com
+To: tammara@jforu.com
+Message-ID: <543e957a911e4_eedb80c2bbec511af@AEvisionz.local.mail>
+Subject: Inquiry from jforu.com
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Hello Jforu.com Staff, ant has sent you an inquiry. </p>
+
+<p>Name: ant</p>
+<p>Email: anthony.edwardsjr@gmail.com</p>
+<p>Subject: message</p>
+<p>Body: meadddse</p>
+
+Please respond back ASAP!
+
+Completed 500 Internal Server Error in 1521ms
+
+Net::SMTPAuthenticationError (530 authentication required
+):
+  app/controllers/welcome_controller.rb:24:in `block in form_route'
+  app/controllers/welcome_controller.rb:20:in `form_route'
+
+
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.5ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.text.erb (0.6ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.text.erb (0.8ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb (13.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-15 12:27:57 -0400
+Processing by WelcomeController#home as HTML
+  Rendered shared/_inquiry_form.html.erb (1.0ms)
+  Rendered welcome/home.html.erb within layouts/application (253.5ms)
+  Rendered shared/_navigation.html.erb (0.4ms)
+Completed 200 OK in 2832ms (Views: 2793.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-10-15 12:28:02 -0400
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-10-15 12:28:02 -0400
+
+
+Started GET "/assets/forms.css?body=1" for 127.0.0.1 at 2014-10-15 12:28:02 -0400
+
+
+Started GET "/assets/foundation_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-15 12:28:02 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-10-15 12:28:02 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-10-15 12:28:02 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-15 12:28:02 -0400
+
+
+Started GET "/assets/vendor/modernizr.js?body=1" for 127.0.0.1 at 2014-10-15 12:28:02 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-15 12:28:02 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-15 12:28:02 -0400
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2014-10-15 12:28:02 -0400
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2014-10-15 12:28:02 -0400
+
+
+Started GET "/assets/foundation/foundation.accordion.js?body=1" for 127.0.0.1 at 2014-10-15 12:28:02 -0400
+
+
+Started GET "/assets/foundation/foundation.alert.js?body=1" for 127.0.0.1 at 2014-10-15 12:28:02 -0400
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2014-10-15 12:28:02 -0400
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2014-10-15 12:28:02 -0400
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2014-10-15 12:28:02 -0400
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2014-10-15 12:28:02 -0400
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2014-10-15 12:28:02 -0400
+
+
+Started GET "/assets/foundation/foundation.offcanvas.js?body=1" for 127.0.0.1 at 2014-10-15 12:28:02 -0400
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2014-10-15 12:28:02 -0400
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2014-10-15 12:28:02 -0400
+
+
+Started GET "/assets/foundation/foundation.slider.js?body=1" for 127.0.0.1 at 2014-10-15 12:28:02 -0400
+
+
+Started GET "/assets/foundation/foundation.tab.js?body=1" for 127.0.0.1 at 2014-10-15 12:28:02 -0400
+
+
+Started GET "/assets/foundation/foundation.tooltip.js?body=1" for 127.0.0.1 at 2014-10-15 12:28:02 -0400
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2014-10-15 12:28:02 -0400
+
+
+Started GET "/assets/foundation/foundation.equalizer.js?body=1" for 127.0.0.1 at 2014-10-15 12:28:02 -0400
+
+
+Started GET "/assets/foundation.js?body=1" for 127.0.0.1 at 2014-10-15 12:28:02 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-15 12:28:02 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-10-15 12:28:02 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-10-15 12:28:02 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-15 12:28:02 -0400
+
+
+Started GET "/assets/ORCHID%20WIG%20BY%20ESTETICA%20DESIGNS.png" for 127.0.0.1 at 2014-10-15 12:28:02 -0400
+
+
+Started GET "/assets/Jill%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-10-15 12:28:02 -0400
+
+
+Started GET "/assets/SHEER%20TOUCH%20MODERATE%20HAIRPIECE%20copy.png" for 127.0.0.1 at 2014-10-15 12:28:02 -0400
+
+
+Started GET "/assets/Lisa%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-10-15 12:28:02 -0400
+
+
+Started GET "/assets/theperfectfitlogo.png" for 127.0.0.1 at 2014-10-15 12:28:02 -0400
+
+
+Started GET "/assets/beauty-backgrounds1.jpg" for 127.0.0.1 at 2014-10-15 12:28:02 -0400
+
+
+Started POST "/welcome/form_route" for 127.0.0.1 at 2014-10-15 12:28:24 -0400
+Processing by WelcomeController#form_route as JS
+  Parameters: {"utf8"=>"✓", "name"=>"anthny", "email"=>"anthony.edwardsjr@gmail.com", "subject"=>"inquiry", "body"=>"lmmmmmaaa", "commit"=>"Send"}
+  Rendered jforu_mailer/send_to_admin.html.erb (0.5ms)
+
+JforuMailer#send_to_admin: processed outbound mail in 34.4ms
+
+Sent mail to tammara@jforu.com (875.1ms)
+Date: Wed, 15 Oct 2014 12:28:25 -0400
+From: inquiry@jforu.com
+To: tammara@jforu.com
+Message-ID: <543ea0a912356_f7a68082dbf81526a@AEvisionz.local.mail>
+Subject: Inquiry from jforu.com
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Hello Jforu.com Staff, anthny has sent you an inquiry. </p>
+
+<p>Name: anthny</p>
+<p>Email: anthony.edwardsjr@gmail.com</p>
+<p>Subject: inquiry</p>
+<p>Body: lmmmmmaaa</p>
+
+Please respond back ASAP!
+
+Completed 500 Internal Server Error in 915ms
+
+Net::SMTPAuthenticationError (530 authentication required
+):
+  app/controllers/welcome_controller.rb:24:in `block in form_route'
+  app/controllers/welcome_controller.rb:20:in `form_route'
+
+
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.7ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.text.erb (1.2ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.text.erb (0.8ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb (15.5ms)
+
+
+Started POST "/welcome/form_route" for 127.0.0.1 at 2014-10-15 12:29:44 -0400
+Processing by WelcomeController#form_route as JS
+  Parameters: {"utf8"=>"✓", "name"=>"anthny", "email"=>"anthony.edwardsjr@gmail.com", "subject"=>"inquiry", "body"=>"lmmmmmaaa", "commit"=>"Send"}
+  Rendered jforu_mailer/send_to_admin.html.erb (0.1ms)
+
+JforuMailer#send_to_admin: processed outbound mail in 14.5ms
+
+Sent mail to tammara@jforu.com (5348.4ms)
+Date: Wed, 15 Oct 2014 12:29:44 -0400
+From: inquiry@jforu.com
+To: tammara@jforu.com
+Message-ID: <543ea0f89827d_f7a68082dbf815370@AEvisionz.local.mail>
+Subject: Inquiry from jforu.com
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Hello Jforu.com Staff, anthny has sent you an inquiry. </p>
+
+<p>Name: anthny</p>
+<p>Email: anthony.edwardsjr@gmail.com</p>
+<p>Subject: inquiry</p>
+<p>Body: lmmmmmaaa</p>
+
+Please respond back ASAP!
+
+Completed 500 Internal Server Error in 5364ms
+
+Net::SMTPAuthenticationError (530 authentication required
+):
+  app/controllers/welcome_controller.rb:24:in `block in form_route'
+  app/controllers/welcome_controller.rb:20:in `form_route'
+
+
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.5ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.text.erb (0.5ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.text.erb (0.7ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb (12.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-15 13:01:22 -0400
+Processing by WelcomeController#home as HTML
+  Rendered shared/_inquiry_form.html.erb (1.2ms)
+  Rendered welcome/home.html.erb within layouts/application (14.4ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+Completed 200 OK in 375ms (Views: 357.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-10-15 13:01:23 -0400
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-10-15 13:01:23 -0400
+
+
+Started GET "/assets/forms.css?body=1" for 127.0.0.1 at 2014-10-15 13:01:23 -0400
+
+
+Started GET "/assets/foundation_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-15 13:01:23 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-10-15 13:01:23 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-10-15 13:01:23 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-15 13:01:23 -0400
+
+
+Started GET "/assets/vendor/modernizr.js?body=1" for 127.0.0.1 at 2014-10-15 13:01:23 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-15 13:01:23 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-15 13:01:23 -0400
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2014-10-15 13:01:23 -0400
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2014-10-15 13:01:23 -0400
+
+
+Started GET "/assets/foundation/foundation.accordion.js?body=1" for 127.0.0.1 at 2014-10-15 13:01:23 -0400
+
+
+Started GET "/assets/foundation/foundation.alert.js?body=1" for 127.0.0.1 at 2014-10-15 13:01:23 -0400
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2014-10-15 13:01:23 -0400
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2014-10-15 13:01:23 -0400
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2014-10-15 13:01:23 -0400
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2014-10-15 13:01:23 -0400
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2014-10-15 13:01:23 -0400
+
+
+Started GET "/assets/foundation/foundation.offcanvas.js?body=1" for 127.0.0.1 at 2014-10-15 13:01:23 -0400
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2014-10-15 13:01:23 -0400
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2014-10-15 13:01:23 -0400
+
+
+Started GET "/assets/foundation/foundation.slider.js?body=1" for 127.0.0.1 at 2014-10-15 13:01:23 -0400
+
+
+Started GET "/assets/foundation/foundation.tab.js?body=1" for 127.0.0.1 at 2014-10-15 13:01:23 -0400
+
+
+Started GET "/assets/foundation/foundation.tooltip.js?body=1" for 127.0.0.1 at 2014-10-15 13:01:23 -0400
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2014-10-15 13:01:23 -0400
+
+
+Started GET "/assets/foundation/foundation.equalizer.js?body=1" for 127.0.0.1 at 2014-10-15 13:01:23 -0400
+
+
+Started GET "/assets/foundation.js?body=1" for 127.0.0.1 at 2014-10-15 13:01:23 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-15 13:01:23 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-10-15 13:01:23 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-10-15 13:01:23 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-15 13:01:23 -0400
+
+
+Started GET "/assets/ORCHID%20WIG%20BY%20ESTETICA%20DESIGNS.png" for 127.0.0.1 at 2014-10-15 13:01:23 -0400
+
+
+Started GET "/assets/Jill%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-10-15 13:01:23 -0400
+
+
+Started GET "/assets/SHEER%20TOUCH%20MODERATE%20HAIRPIECE%20copy.png" for 127.0.0.1 at 2014-10-15 13:01:23 -0400
+
+
+Started GET "/assets/Lisa%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-10-15 13:01:23 -0400
+
+
+Started GET "/assets/theperfectfitlogo.png" for 127.0.0.1 at 2014-10-15 13:01:23 -0400
+
+
+Started GET "/assets/beauty-backgrounds1.jpg" for 127.0.0.1 at 2014-10-15 13:01:24 -0400
+
+
+Started POST "/welcome/form_route" for 127.0.0.1 at 2014-10-15 13:04:34 -0400
+Processing by WelcomeController#form_route as JS
+  Parameters: {"utf8"=>"✓", "name"=>"anthlny", "email"=>"anthony.edwardsjr@gmail.com", "subject"=>"message", "body"=>"meassage", "commit"=>"Send"}
+  Rendered jforu_mailer/send_to_admin.html.erb (0.6ms)
+
+JforuMailer#send_to_admin: processed outbound mail in 61.5ms
+
+Sent mail to tammara@jforu.com (1890.1ms)
+Date: Wed, 15 Oct 2014 13:04:34 -0400
+From: tpfjfy@gmail.com
+To: tammara@jforu.com
+Message-ID: <543ea922201fc_fb7380c2bbec6948b@AEvisionz.local.mail>
+Subject: Inquiry from jforu.com
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Hello Jforu.com Staff, anthlny has sent you an inquiry. </p>
+
+<p>Name: anthlny</p>
+<p>Email: anthony.edwardsjr@gmail.com</p>
+<p>Subject: message</p>
+<p>Body: meassage</p>
+
+Please respond back ASAP!
+
+Completed 500 Internal Server Error in 1956ms
+
+Net::SMTPAuthenticationError (530 authentication required
+):
+  app/controllers/welcome_controller.rb:24:in `block in form_route'
+  app/controllers/welcome_controller.rb:20:in `form_route'
+
+
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.5ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.text.erb (0.5ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.text.erb (0.8ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb (13.2ms)
+
+
+Started POST "/welcome/form_route" for 127.0.0.1 at 2014-10-15 13:07:22 -0400
+Processing by WelcomeController#form_route as JS
+  Parameters: {"utf8"=>"✓", "name"=>"anthlny", "email"=>"anthony.edwardsjr@gmail.com", "subject"=>"message", "body"=>"meassage", "commit"=>"Send"}
+  Rendered jforu_mailer/send_to_admin.html.erb (0.1ms)
+
+JforuMailer#send_to_admin: processed outbound mail in 14.2ms
+
+Sent mail to tammara@jforu.com (2637.7ms)
+Date: Wed, 15 Oct 2014 13:07:22 -0400
+From: tpfjfy@gmail.com
+To: tammara@jforu.com
+Message-ID: <543ea9caaa713_fb7380c2bbec6954f@AEvisionz.local.mail>
+Subject: Inquiry from jforu.com
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Hello Jforu.com Staff, anthlny has sent you an inquiry. </p>
+
+<p>Name: anthlny</p>
+<p>Email: anthony.edwardsjr@gmail.com</p>
+<p>Subject: message</p>
+<p>Body: meassage</p>
+
+Please respond back ASAP!
+
+Completed 500 Internal Server Error in 2653ms
+
+Net::SMTPAuthenticationError (530 authentication required
+):
+  app/controllers/welcome_controller.rb:24:in `block in form_route'
+  app/controllers/welcome_controller.rb:20:in `form_route'
+
+
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.6ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.text.erb (0.9ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.text.erb (0.7ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb (13.4ms)
+
+
+Started POST "/welcome/form_route" for 127.0.0.1 at 2014-10-15 13:09:52 -0400
+Processing by WelcomeController#form_route as JS
+  Parameters: {"utf8"=>"✓", "name"=>"anthlny", "email"=>"anthony.edwardsjr@gmail.com", "subject"=>"message", "body"=>"meassage", "commit"=>"Send"}
+  Rendered jforu_mailer/send_to_admin.html.erb (0.1ms)
+
+JforuMailer#send_to_admin: processed outbound mail in 8.7ms
+
+Sent mail to tammara@jforu.com (805.3ms)
+Date: Wed, 15 Oct 2014 13:09:52 -0400
+From: tpfjfy@gmail.com
+To: tammara@jforu.com
+Message-ID: <543eaa60d4151_fb7380c2bbec69626@AEvisionz.local.mail>
+Subject: Inquiry from jforu.com
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Hello Jforu.com Staff, anthlny has sent you an inquiry. </p>
+
+<p>Name: anthlny</p>
+<p>Email: anthony.edwardsjr@gmail.com</p>
+<p>Subject: message</p>
+<p>Body: meassage</p>
+
+Please respond back ASAP!
+
+Completed 500 Internal Server Error in 815ms
+
+Net::SMTPAuthenticationError (530 authentication required
+):
+  app/controllers/welcome_controller.rb:24:in `block in form_route'
+  app/controllers/welcome_controller.rb:20:in `form_route'
+
+
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.5ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.text.erb (0.6ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.text.erb (0.9ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb (13.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-15 13:10:09 -0400
+Processing by WelcomeController#home as HTML
+  Rendered shared/_inquiry_form.html.erb (0.5ms)
+  Rendered welcome/home.html.erb within layouts/application (2.5ms)
+  Rendered shared/_navigation.html.erb (0.1ms)
+Completed 200 OK in 177ms (Views: 176.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-10-15 13:10:10 -0400
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-10-15 13:10:10 -0400
+
+
+Started GET "/assets/forms.css?body=1" for 127.0.0.1 at 2014-10-15 13:10:10 -0400
+
+
+Started GET "/assets/foundation_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-15 13:10:10 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-10-15 13:10:10 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-10-15 13:10:10 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-15 13:10:10 -0400
+
+
+Started GET "/assets/vendor/modernizr.js?body=1" for 127.0.0.1 at 2014-10-15 13:10:10 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-15 13:10:10 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-15 13:10:10 -0400
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2014-10-15 13:10:10 -0400
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2014-10-15 13:10:10 -0400
+
+
+Started GET "/assets/foundation/foundation.accordion.js?body=1" for 127.0.0.1 at 2014-10-15 13:10:10 -0400
+
+
+Started GET "/assets/foundation/foundation.alert.js?body=1" for 127.0.0.1 at 2014-10-15 13:10:10 -0400
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2014-10-15 13:10:10 -0400
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2014-10-15 13:10:10 -0400
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2014-10-15 13:10:10 -0400
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2014-10-15 13:10:10 -0400
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2014-10-15 13:10:10 -0400
+
+
+Started GET "/assets/foundation/foundation.offcanvas.js?body=1" for 127.0.0.1 at 2014-10-15 13:10:10 -0400
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2014-10-15 13:10:10 -0400
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2014-10-15 13:10:10 -0400
+
+
+Started GET "/assets/foundation/foundation.slider.js?body=1" for 127.0.0.1 at 2014-10-15 13:10:10 -0400
+
+
+Started GET "/assets/foundation/foundation.tab.js?body=1" for 127.0.0.1 at 2014-10-15 13:10:10 -0400
+
+
+Started GET "/assets/foundation/foundation.tooltip.js?body=1" for 127.0.0.1 at 2014-10-15 13:10:10 -0400
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2014-10-15 13:10:10 -0400
+
+
+Started GET "/assets/foundation/foundation.equalizer.js?body=1" for 127.0.0.1 at 2014-10-15 13:10:10 -0400
+
+
+Started GET "/assets/foundation.js?body=1" for 127.0.0.1 at 2014-10-15 13:10:10 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-15 13:10:10 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-10-15 13:10:10 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-10-15 13:10:10 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-15 13:10:10 -0400
+
+
+Started GET "/assets/beauty-backgrounds1.jpg" for 127.0.0.1 at 2014-10-15 13:10:10 -0400
+
+
+Started GET "/assets/ORCHID%20WIG%20BY%20ESTETICA%20DESIGNS.png" for 127.0.0.1 at 2014-10-15 13:10:10 -0400
+
+
+Started GET "/assets/Jill%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-10-15 13:10:10 -0400
+
+
+Started GET "/assets/SHEER%20TOUCH%20MODERATE%20HAIRPIECE%20copy.png" for 127.0.0.1 at 2014-10-15 13:10:10 -0400
+
+
+Started GET "/assets/Lisa%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-10-15 13:10:10 -0400
+
+
+Started GET "/assets/theperfectfitlogo.png" for 127.0.0.1 at 2014-10-15 13:10:10 -0400
+
+
+Started POST "/welcome/form_route" for 127.0.0.1 at 2014-10-15 13:10:24 -0400
+Processing by WelcomeController#form_route as JS
+  Parameters: {"utf8"=>"✓", "name"=>"anthony", "email"=>"anthony.edwardsjr@gmail.com", "subject"=>"math", "body"=>"dfadklfjladskfj;ladjfl;akjds", "commit"=>"Send"}
+  Rendered jforu_mailer/send_to_admin.html.erb (0.1ms)
+
+JforuMailer#send_to_admin: processed outbound mail in 9.0ms
+
+Sent mail to tammara@jforu.com (394.4ms)
+Date: Wed, 15 Oct 2014 13:10:24 -0400
+From: tpfjfy@gmail.com
+To: tammara@jforu.com
+Message-ID: <543eaa80a78c6_fb7380c2bbec69746@AEvisionz.local.mail>
+Subject: Inquiry from jforu.com
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Hello Jforu.com Staff, anthony has sent you an inquiry. </p>
+
+<p>Name: anthony</p>
+<p>Email: anthony.edwardsjr@gmail.com</p>
+<p>Subject: math</p>
+<p>Body: dfadklfjladskfj;ladjfl;akjds</p>
+
+Please respond back ASAP!
+
+Completed 500 Internal Server Error in 405ms
+
+Net::SMTPAuthenticationError (530 authentication required
+):
+  app/controllers/welcome_controller.rb:24:in `block in form_route'
+  app/controllers/welcome_controller.rb:20:in `form_route'
+
+
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.5ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.text.erb (0.5ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.text.erb (0.6ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb (12.6ms)
+
+
+Started POST "/welcome/form_route" for 127.0.0.1 at 2014-10-15 13:17:07 -0400
+Processing by WelcomeController#form_route as JS
+  Parameters: {"utf8"=>"✓", "name"=>"anthony", "email"=>"anthony.edwardsjr@gmail.com", "subject"=>"math", "body"=>"dfadklfjladskfj;ladjfl;akjds", "commit"=>"Send"}
+  Rendered jforu_mailer/send_to_admin.html.erb (0.1ms)
+
+JforuMailer#send_to_admin: processed outbound mail in 9.1ms
+
+Sent mail to tammara@jforu.com (882.8ms)
+Date: Wed, 15 Oct 2014 13:17:07 -0400
+From: tpfjfy@gmail.com
+To: tammara@jforu.com
+Message-ID: <543eac13e5874_fb7380c2bbec69890@AEvisionz.local.mail>
+Subject: Inquiry from jforu.com
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Hello Jforu.com Staff, anthony has sent you an inquiry. </p>
+
+<p>Name: anthony</p>
+<p>Email: anthony.edwardsjr@gmail.com</p>
+<p>Subject: math</p>
+<p>Body: dfadklfjladskfj;ladjfl;akjds</p>
+
+Please respond back ASAP!
+
+Completed 500 Internal Server Error in 893ms
+
+Net::SMTPAuthenticationError (530 authentication required
+):
+  app/controllers/welcome_controller.rb:24:in `block in form_route'
+  app/controllers/welcome_controller.rb:20:in `form_route'
+
+
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.6ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.text.erb (0.7ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.text.erb (0.7ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb (13.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-15 13:18:48 -0400
+Processing by WelcomeController#home as HTML
+  Rendered shared/_inquiry_form.html.erb (1.2ms)
+  Rendered welcome/home.html.erb within layouts/application (13.8ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+Completed 200 OK in 390ms (Views: 373.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-10-15 13:18:49 -0400
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-10-15 13:18:49 -0400
+
+
+Started GET "/assets/forms.css?body=1" for 127.0.0.1 at 2014-10-15 13:18:49 -0400
+
+
+Started GET "/assets/foundation_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-15 13:18:49 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-10-15 13:18:49 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-10-15 13:18:49 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-15 13:18:49 -0400
+
+
+Started GET "/assets/vendor/modernizr.js?body=1" for 127.0.0.1 at 2014-10-15 13:18:49 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-15 13:18:49 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-15 13:18:49 -0400
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2014-10-15 13:18:49 -0400
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2014-10-15 13:18:49 -0400
+
+
+Started GET "/assets/foundation/foundation.accordion.js?body=1" for 127.0.0.1 at 2014-10-15 13:18:49 -0400
+
+
+Started GET "/assets/foundation/foundation.alert.js?body=1" for 127.0.0.1 at 2014-10-15 13:18:49 -0400
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2014-10-15 13:18:49 -0400
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2014-10-15 13:18:49 -0400
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2014-10-15 13:18:49 -0400
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2014-10-15 13:18:49 -0400
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2014-10-15 13:18:49 -0400
+
+
+Started GET "/assets/foundation/foundation.offcanvas.js?body=1" for 127.0.0.1 at 2014-10-15 13:18:49 -0400
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2014-10-15 13:18:49 -0400
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2014-10-15 13:18:49 -0400
+
+
+Started GET "/assets/foundation/foundation.slider.js?body=1" for 127.0.0.1 at 2014-10-15 13:18:49 -0400
+
+
+Started GET "/assets/foundation/foundation.tab.js?body=1" for 127.0.0.1 at 2014-10-15 13:18:49 -0400
+
+
+Started GET "/assets/foundation/foundation.tooltip.js?body=1" for 127.0.0.1 at 2014-10-15 13:18:49 -0400
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2014-10-15 13:18:49 -0400
+
+
+Started GET "/assets/foundation/foundation.equalizer.js?body=1" for 127.0.0.1 at 2014-10-15 13:18:49 -0400
+
+
+Started GET "/assets/foundation.js?body=1" for 127.0.0.1 at 2014-10-15 13:18:49 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-15 13:18:49 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-10-15 13:18:49 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-10-15 13:18:49 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-15 13:18:49 -0400
+
+
+Started GET "/assets/ORCHID%20WIG%20BY%20ESTETICA%20DESIGNS.png" for 127.0.0.1 at 2014-10-15 13:18:49 -0400
+
+
+Started GET "/assets/Jill%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-10-15 13:18:49 -0400
+
+
+Started GET "/assets/SHEER%20TOUCH%20MODERATE%20HAIRPIECE%20copy.png" for 127.0.0.1 at 2014-10-15 13:18:49 -0400
+
+
+Started GET "/assets/Lisa%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-10-15 13:18:49 -0400
+
+
+Started GET "/assets/theperfectfitlogo.png" for 127.0.0.1 at 2014-10-15 13:18:49 -0400
+
+
+Started GET "/assets/beauty-backgrounds1.jpg" for 127.0.0.1 at 2014-10-15 13:18:49 -0400
+
+
+Started POST "/welcome/form_route" for 127.0.0.1 at 2014-10-15 13:19:08 -0400
+Processing by WelcomeController#form_route as JS
+  Parameters: {"utf8"=>"✓", "name"=>"anthony", "email"=>"anthony.edwardsjr@gmail.com", "subject"=>"call me", "body"=>"MOm call me when you get this message", "commit"=>"Send"}
+  Rendered jforu_mailer/send_to_admin.html.erb (0.5ms)
+
+JforuMailer#send_to_admin: processed outbound mail in 12.4ms
+
+Sent mail to tammara@jforu.com (113.3ms)
+Date: Wed, 15 Oct 2014 13:19:08 -0400
+From: tpfjfy@gmail.com
+To: tammara@jforu.com
+Message-ID: <543eac8c271d5_fd3380c2bbec3531f@AEvisionz.local.mail>
+Subject: Inquiry from jforu.com
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Hello Jforu.com Staff, anthony has sent you an inquiry. </p>
+
+<p>Name: anthony</p>
+<p>Email: anthony.edwardsjr@gmail.com</p>
+<p>Subject: call me</p>
+<p>Body: MOm call me when you get this message</p>
+
+Please respond back ASAP!
+
+Completed 500 Internal Server Error in 130ms
+
+SocketError (getaddrinfo: nodename nor servname provided, or not known):
+  app/controllers/welcome_controller.rb:24:in `block in form_route'
+  app/controllers/welcome_controller.rb:20:in `form_route'
+
+
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.5ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.text.erb (0.6ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.text.erb (0.7ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb (13.8ms)
+
+
+Started POST "/welcome/form_route" for 127.0.0.1 at 2014-10-15 13:22:12 -0400
+Processing by WelcomeController#form_route as JS
+  Parameters: {"utf8"=>"✓", "name"=>"anthony", "email"=>"anthony.edwardsjr@gmail.com", "subject"=>"call me", "body"=>"MOm call me when you get this message", "commit"=>"Send"}
+  Rendered jforu_mailer/send_to_admin.html.erb (0.1ms)
+
+JforuMailer#send_to_admin: processed outbound mail in 63.7ms
+
+Sent mail to tammara@jforu.com (433.7ms)
+Date: Wed, 15 Oct 2014 13:22:13 -0400
+From: tpfjfy@gmail.com
+To: tammara@jforu.com
+Message-ID: <543ead4528413_fd3380c2bbec354b1@AEvisionz.local.mail>
+Subject: Inquiry from jforu.com
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Hello Jforu.com Staff, anthony has sent you an inquiry. </p>
+
+<p>Name: anthony</p>
+<p>Email: anthony.edwardsjr@gmail.com</p>
+<p>Subject: call me</p>
+<p>Body: MOm call me when you get this message</p>
+
+Please respond back ASAP!
+
+Completed 500 Internal Server Error in 528ms
+
+SocketError (getaddrinfo: nodename nor servname provided, or not known):
+  app/controllers/welcome_controller.rb:24:in `form_route'
+
+
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.5ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.text.erb (0.8ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.text.erb (0.8ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb (15.2ms)
+
+
+Started POST "/welcome/form_route" for 127.0.0.1 at 2014-10-15 13:22:28 -0400
+Processing by WelcomeController#form_route as JS
+  Parameters: {"utf8"=>"✓", "name"=>"anthony", "email"=>"anthony.edwardsjr@gmail.com", "subject"=>"call me", "body"=>"MOm call me when you get this message", "commit"=>"Send"}
+  Rendered jforu_mailer/send_to_admin.html.erb (0.1ms)
+
+JforuMailer#send_to_admin: processed outbound mail in 8.8ms
+
+Sent mail to tammara@jforu.com (6.3ms)
+Date: Wed, 15 Oct 2014 13:22:28 -0400
+From: tpfjfy@gmail.com
+To: tammara@jforu.com
+Message-ID: <543ead54cea5e_fd3380c2bbec3557d@AEvisionz.local.mail>
+Subject: Inquiry from jforu.com
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Hello Jforu.com Staff, anthony has sent you an inquiry. </p>
+
+<p>Name: anthony</p>
+<p>Email: anthony.edwardsjr@gmail.com</p>
+<p>Subject: call me</p>
+<p>Body: MOm call me when you get this message</p>
+
+Please respond back ASAP!
+
+Completed 500 Internal Server Error in 16ms
+
+SocketError (getaddrinfo: nodename nor servname provided, or not known):
+  app/controllers/welcome_controller.rb:24:in `form_route'
+
+
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.8ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.text.erb (0.6ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.text.erb (0.7ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb (14.9ms)
+
+
+Started POST "/welcome/form_route" for 127.0.0.1 at 2014-10-15 14:52:25 -0400
+Processing by WelcomeController#form_route as JS
+  Parameters: {"utf8"=>"✓", "name"=>"anthony", "email"=>"anthony.edwardsjr@gmail.com", "subject"=>"call me", "body"=>"MOm call me when you get this messagekjglgkhgkl", "commit"=>"Send"}
+  Rendered jforu_mailer/send_to_admin.html.erb (0.1ms)
+
+JforuMailer#send_to_admin: processed outbound mail in 73.6ms
+
+Sent mail to tammara@jforu.com (99.6ms)
+Date: Wed, 15 Oct 2014 14:52:25 -0400
+From: tpfjfy@gmail.com
+To: tammara@jforu.com
+Message-ID: <543ec26996b4c_fd3380c2bbec35698@AEvisionz.local.mail>
+Subject: Inquiry from jforu.com
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Hello Jforu.com Staff, anthony has sent you an inquiry. </p>
+
+<p>Name: anthony</p>
+<p>Email: anthony.edwardsjr@gmail.com</p>
+<p>Subject: call me</p>
+<p>Body: MOm call me when you get this messagekjglgkhgkl</p>
+
+Please respond back ASAP!
+
+Completed 500 Internal Server Error in 174ms
+
+SocketError (getaddrinfo: nodename nor servname provided, or not known):
+  app/controllers/welcome_controller.rb:24:in `form_route'
+
+
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.6ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.text.erb (0.6ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.text.erb (0.8ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb (22.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-15 14:53:28 -0400
+Processing by WelcomeController#home as HTML
+  Rendered shared/_inquiry_form.html.erb (1.1ms)
+  Rendered welcome/home.html.erb within layouts/application (250.0ms)
+  Rendered shared/_navigation.html.erb (0.4ms)
+Completed 200 OK in 2784ms (Views: 2749.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-10-15 14:53:33 -0400
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-10-15 14:53:33 -0400
+
+
+Started GET "/assets/forms.css?body=1" for 127.0.0.1 at 2014-10-15 14:53:33 -0400
+
+
+Started GET "/assets/foundation_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-15 14:53:33 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-10-15 14:53:33 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-10-15 14:53:33 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-15 14:53:33 -0400
+
+
+Started GET "/assets/vendor/modernizr.js?body=1" for 127.0.0.1 at 2014-10-15 14:53:33 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-15 14:53:33 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-15 14:53:33 -0400
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2014-10-15 14:53:33 -0400
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2014-10-15 14:53:33 -0400
+
+
+Started GET "/assets/foundation/foundation.accordion.js?body=1" for 127.0.0.1 at 2014-10-15 14:53:33 -0400
+
+
+Started GET "/assets/foundation/foundation.alert.js?body=1" for 127.0.0.1 at 2014-10-15 14:53:33 -0400
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2014-10-15 14:53:33 -0400
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2014-10-15 14:53:33 -0400
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2014-10-15 14:53:33 -0400
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2014-10-15 14:53:33 -0400
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2014-10-15 14:53:33 -0400
+
+
+Started GET "/assets/foundation/foundation.offcanvas.js?body=1" for 127.0.0.1 at 2014-10-15 14:53:33 -0400
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2014-10-15 14:53:33 -0400
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2014-10-15 14:53:33 -0400
+
+
+Started GET "/assets/foundation/foundation.slider.js?body=1" for 127.0.0.1 at 2014-10-15 14:53:33 -0400
+
+
+Started GET "/assets/foundation/foundation.tab.js?body=1" for 127.0.0.1 at 2014-10-15 14:53:33 -0400
+
+
+Started GET "/assets/foundation/foundation.tooltip.js?body=1" for 127.0.0.1 at 2014-10-15 14:53:33 -0400
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2014-10-15 14:53:33 -0400
+
+
+Started GET "/assets/foundation/foundation.equalizer.js?body=1" for 127.0.0.1 at 2014-10-15 14:53:33 -0400
+
+
+Started GET "/assets/foundation.js?body=1" for 127.0.0.1 at 2014-10-15 14:53:33 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-15 14:53:33 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-10-15 14:53:33 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-10-15 14:53:33 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-15 14:53:33 -0400
+
+
+Started GET "/assets/beauty-backgrounds1.jpg" for 127.0.0.1 at 2014-10-15 14:53:33 -0400
+
+
+Started GET "/assets/ORCHID%20WIG%20BY%20ESTETICA%20DESIGNS.png" for 127.0.0.1 at 2014-10-15 14:53:33 -0400
+
+
+Started GET "/assets/Jill%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-10-15 14:53:33 -0400
+
+
+Started GET "/assets/SHEER%20TOUCH%20MODERATE%20HAIRPIECE%20copy.png" for 127.0.0.1 at 2014-10-15 14:53:33 -0400
+
+
+Started GET "/assets/theperfectfitlogo.png" for 127.0.0.1 at 2014-10-15 14:53:33 -0400
+
+
+Started GET "/assets/Lisa%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-10-15 14:53:33 -0400
+
+
+Started POST "/welcome/form_route" for 127.0.0.1 at 2014-10-15 14:53:50 -0400
+Processing by WelcomeController#form_route as JS
+  Parameters: {"utf8"=>"✓", "name"=>"anthony", "email"=>"anthony.edwardsjr@gmail.com", "subject"=>"call me", "body"=>"mother call me", "commit"=>"Send"}
+  Rendered jforu_mailer/send_to_admin.html.erb (0.6ms)
+
+JforuMailer#send_to_admin: processed outbound mail in 90.1ms
+
+Sent mail to tammara@jforu.com (488.2ms)
+Date: Wed, 15 Oct 2014 14:53:50 -0400
+From: tpfjfy@gmail.com
+To: tammara@jforu.com
+Message-ID: <543ec2be5bd3f_1045880c2bbec61625@AEvisionz.local.mail>
+Subject: Inquiry from jforu.com
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Hello Jforu.com Staff, anthony has sent you an inquiry. </p>
+
+<p>Name: anthony</p>
+<p>Email: anthony.edwardsjr@gmail.com</p>
+<p>Subject: call me</p>
+<p>Body: mother call me</p>
+
+Please respond back ASAP!
+
+Completed 500 Internal Server Error in 600ms
+
+SocketError (getaddrinfo: nodename nor servname provided, or not known):
+  app/controllers/welcome_controller.rb:24:in `form_route'
+
+
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.7ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.text.erb (0.7ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.text.erb (0.7ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb (15.2ms)
+
+
+Started POST "/welcome/form_route" for 127.0.0.1 at 2014-10-15 15:02:15 -0400
+Processing by WelcomeController#form_route as JS
+  Parameters: {"utf8"=>"✓", "name"=>"anthony", "email"=>"anthony.edwardsjr@gmail.com", "subject"=>"call me", "body"=>"mother call me", "commit"=>"Send"}
+  Rendered jforu_mailer/send_to_admin.html.erb (0.1ms)
+
+JforuMailer#send_to_admin: processed outbound mail in 28.2ms
+
+Sent mail to tammara@jforu.com (48.2ms)
+Date: Wed, 15 Oct 2014 15:02:15 -0400
+From: tpfjfy@gmail.com
+To: tammara@jforu.com
+Message-ID: <543ec4b7a64da_1045880c2bbec617e5@AEvisionz.local.mail>
+Subject: Inquiry from jforu.com
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Hello Jforu.com Staff, anthony has sent you an inquiry. </p>
+
+<p>Name: anthony</p>
+<p>Email: anthony.edwardsjr@gmail.com</p>
+<p>Subject: call me</p>
+<p>Body: mother call me</p>
+
+Please respond back ASAP!
+
+Completed 500 Internal Server Error in 78ms
+
+SocketError (getaddrinfo: nodename nor servname provided, or not known):
+  app/controllers/welcome_controller.rb:24:in `form_route'
+
+
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.5ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.text.erb (0.5ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.text.erb (0.8ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb (14.8ms)
+
+
+Started POST "/welcome/form_route" for 127.0.0.1 at 2014-10-15 15:03:28 -0400
+Processing by WelcomeController#form_route as JS
+  Parameters: {"utf8"=>"✓", "name"=>"anthony", "email"=>"anthony.edwardsjr@gmail.com", "subject"=>"call me", "body"=>"mother call me", "commit"=>"Send"}
+  Rendered jforu_mailer/send_to_admin.html.erb (0.1ms)
+
+JforuMailer#send_to_admin: processed outbound mail in 11.3ms
+
+Sent mail to tammara@jforu.com (434.9ms)
+Date: Wed, 15 Oct 2014 15:03:29 -0400
+From: anthony.edwardsjr@gmail.com
+To: tammara@jforu.com
+Message-ID: <543ec501a9e12_1045880c2bbec618d5@AEvisionz.local.mail>
+Subject: Inquiry from jforu.com
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Hello Jforu.com Staff, anthony has sent you an inquiry. </p>
+
+<p>Name: anthony</p>
+<p>Email: anthony.edwardsjr@gmail.com</p>
+<p>Subject: call me</p>
+<p>Body: mother call me</p>
+
+Please respond back ASAP!
+
+Completed 500 Internal Server Error in 451ms
+
+SocketError (getaddrinfo: nodename nor servname provided, or not known):
+  app/controllers/welcome_controller.rb:24:in `form_route'
+
+
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (1.2ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.text.erb (0.6ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.text.erb (1.3ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb (17.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-15 15:08:28 -0400
+Processing by WelcomeController#home as HTML
+  Rendered shared/_inquiry_form.html.erb (1.1ms)
+  Rendered welcome/home.html.erb within layouts/application (117.8ms)
+  Rendered shared/_navigation.html.erb (0.4ms)
+Completed 200 OK in 1093ms (Views: 1049.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2014-10-15 15:08:30 -0400
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2014-10-15 15:08:30 -0400
+
+
+Started GET "/assets/forms.css?body=1" for 127.0.0.1 at 2014-10-15 15:08:30 -0400
+
+
+Started GET "/assets/foundation_and_overrides.css?body=1" for 127.0.0.1 at 2014-10-15 15:08:30 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-10-15 15:08:30 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-10-15 15:08:30 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-15 15:08:30 -0400
+
+
+Started GET "/assets/vendor/modernizr.js?body=1" for 127.0.0.1 at 2014-10-15 15:08:30 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-15 15:08:30 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-15 15:08:30 -0400
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2014-10-15 15:08:30 -0400
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2014-10-15 15:08:30 -0400
+
+
+Started GET "/assets/foundation/foundation.accordion.js?body=1" for 127.0.0.1 at 2014-10-15 15:08:30 -0400
+
+
+Started GET "/assets/foundation/foundation.alert.js?body=1" for 127.0.0.1 at 2014-10-15 15:08:30 -0400
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2014-10-15 15:08:30 -0400
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2014-10-15 15:08:30 -0400
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2014-10-15 15:08:30 -0400
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2014-10-15 15:08:30 -0400
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2014-10-15 15:08:30 -0400
+
+
+Started GET "/assets/foundation/foundation.offcanvas.js?body=1" for 127.0.0.1 at 2014-10-15 15:08:30 -0400
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2014-10-15 15:08:30 -0400
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2014-10-15 15:08:30 -0400
+
+
+Started GET "/assets/foundation/foundation.slider.js?body=1" for 127.0.0.1 at 2014-10-15 15:08:30 -0400
+
+
+Started GET "/assets/foundation/foundation.tab.js?body=1" for 127.0.0.1 at 2014-10-15 15:08:30 -0400
+
+
+Started GET "/assets/foundation/foundation.tooltip.js?body=1" for 127.0.0.1 at 2014-10-15 15:08:30 -0400
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2014-10-15 15:08:30 -0400
+
+
+Started GET "/assets/foundation/foundation.equalizer.js?body=1" for 127.0.0.1 at 2014-10-15 15:08:30 -0400
+
+
+Started GET "/assets/foundation.js?body=1" for 127.0.0.1 at 2014-10-15 15:08:30 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-15 15:08:30 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-10-15 15:08:30 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-10-15 15:08:30 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-15 15:08:30 -0400
+
+
+Started GET "/assets/ORCHID%20WIG%20BY%20ESTETICA%20DESIGNS.png" for 127.0.0.1 at 2014-10-15 15:08:30 -0400
+
+
+Started GET "/assets/Jill%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-10-15 15:08:30 -0400
+
+
+Started GET "/assets/SHEER%20TOUCH%20MODERATE%20HAIRPIECE%20copy.png" for 127.0.0.1 at 2014-10-15 15:08:30 -0400
+
+
+Started GET "/assets/Lisa%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2014-10-15 15:08:30 -0400
+
+
+Started GET "/assets/theperfectfitlogo.png" for 127.0.0.1 at 2014-10-15 15:08:30 -0400
+
+
+Started GET "/assets/beauty-backgrounds1.jpg" for 127.0.0.1 at 2014-10-15 15:08:30 -0400
+
+
+Started POST "/welcome/form_route" for 127.0.0.1 at 2014-10-15 15:08:45 -0400
+Processing by WelcomeController#form_route as JS
+  Parameters: {"utf8"=>"✓", "name"=>"anthony", "email"=>"anthony.edwardsjr@gmail.com", "subject"=>"mmm", "body"=>"mmmmmeee", "commit"=>"Send"}
+  Rendered jforu_mailer/send_to_admin.html.erb (0.6ms)
+
+JforuMailer#send_to_admin: processed outbound mail in 55.3ms
+
+Sent mail to tammara@jforu.com (61.8ms)
+Date: Wed, 15 Oct 2014 15:08:45 -0400
+From: anthony.edwardsjr@gmail.com
+To: tammara@jforu.com
+Message-ID: <543ec63db6854_105a480c2bbec19869@AEvisionz.local.mail>
+Subject: Inquiry from jforu.com
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Hello Jforu.com Staff, anthony has sent you an inquiry. </p>
+
+<p>Name: anthony</p>
+<p>Email: anthony.edwardsjr@gmail.com</p>
+<p>Subject: mmm</p>
+<p>Body: mmmmmeee</p>
+
+Please respond back ASAP!
+
+Completed 500 Internal Server Error in 124ms
+
+SocketError (getaddrinfo: nodename nor servname provided, or not known):
+  app/controllers/welcome_controller.rb:24:in `form_route'
+
+
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.7ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.text.erb (0.6ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.text.erb (0.7ms)
+  Rendered /Users/anthonyedwardsjr/.rvm/gems/ruby-2.1.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb (14.7ms)
