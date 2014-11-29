@@ -1,7 +1,7 @@
 // # Place all the behaviors and hooks related to the matching controller here.
 // # All this logic will automatically be available in application.js.
 // # You can use CoffeeScript in this file: http://coffeescript.org/
-document.addEventListener('DOMContentLoaded', function(){   
+document.addEventListener('DOMContentLoaded', function(){
 
 console.log("loaded")
 
@@ -11,9 +11,14 @@ expand.addEventListener("click", toggle);
 var collapse = document.querySelector(".collapse");
 collapse.addEventListener("click", toggle);
 });
+$('#x-mas-add').trigger('reveal:close');
+
+setTimeout(function() {
+  $('#x-mas-add').foundation('reveal', 'open');
+}, 5000);
 
 function toggle(event){
-	
+
 
 var div = document.querySelector("#hair-loss");
 	console.log(div)
