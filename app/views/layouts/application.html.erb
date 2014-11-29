@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-	
+
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="google-site-verification" content="UBHzatp3ZvhLQQ0PDpQ9R7IdeILJeaZ4Ce-mfBpFkoI" />
 
     <title><%= content_for?(:title) ? yield(:title) : "The Perfect Fit" %></title>
     <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-	  <%= favicon_link_tag 'favco_jforu2.ico' %>
+    <%= favicon_link_tag 'favco_jforu2.ico' %>
 
     <%= stylesheet_link_tag "application" %>
     <%= javascript_include_tag "vendor/modernizr" %>
@@ -17,61 +17,63 @@
 <body>
 
 
-	<header class="row ">
-		<section class="columns small-12 medium-6 large-5">
-			<h1 class="">The Perfect Fit, Just for You LLC</h1>
-			<div class="row">
-				<div class="columns small-12 medium-8 right">
-				<span id="store-hours">Tues - Sat. 11:00 - 6:00PM EST</span>
-			</div>
-			</div>
-		</section>
-		<section class=" phone columns small-12 medium-6 large-4 left">
-			<h1 class="h1-color">Give us a call</h1>
-			<a href="tel:+1-845-389-7950"><h1 class="h1-color">(845) 853-8040</h1></a>
-		</section>
+  <header class="row ">
+    <section class="columns small-12 medium-6 large-5">
+      <h1 class="">The Perfect Fit, Just for You LLC</h1>
+      <div class="row">
+        <div class="columns small-12 medium-7 right">
+          <span id="store-hours">Tues - Sat. 11:00 - 6:00PM EST  <a href="tel:+1-845-389-7950"><h3 class="store-hours">(845) 853-8040</h3></a></span>
+        </div>
+      </div>
+    </section>
+     <section class=" phone columns small-12 medium-5 large-4 left">
+        <img src="http://shop.bgs.ac.uk/images/present.png" alt="" style="display:inline-block; height:155px; float:left">
+        <h1 class="h1-add" style="font-size:2em"><span style="font-size:20px; color:black; display:block;">Checkout our</span> Christmas Sales</h1>
+        <h4>Deals Deals Deals!</h4>
+      </section>
+
   </header>
 
   <%= render 'shared/navigation' %>
-  
+
   <%= yield %>
-  
-	<footer class="row">
-		<article class="columns small-12 medium-4 large-3">
-			<ul>
-				<li> <i class="fa fa-clock-o fa-2x"></i> &nbsp;Hours of Operation</li>
-				<li>Tuesday - Saturday: 11am- 6pm</li>
-				<li>Sunday: Closed</li>
-				<li>Monday: By Appointment Only</li>
-			</ul>	
-			<ul>
-				<li><i class="fa fa-envelope-o fa-2x"></i>&nbsp;Address</li>
-				<li>516 Broadway 2nd Floor Ste 6</li>
-				<li>Kingston, New York 12401</li>
-				<li>P: (845) 853-8040</li>
-			</ul>
-		</article>
-	  <article class="social columns small-12 medium-3 large-6 ">
-	  	<%=	image_tag("theperfectfitlogo.png") %>
-		
-  	</article>
 
-	  <article class=" columns small-12 medium-3 large-2 left icons">
-			<a href="https://www.facebook.com/pages/The-Perfect-Fit-Just-for-You/604031709684433"><i class="fa fa-facebook-square fa-5x"></a></i> &nbsp;
+  <footer class="row">
+    <article class="columns small-12 medium-4 large-3">
+      <ul>
+        <li> <i class="fa fa-clock-o fa-2x"></i> &nbsp;Hours of Operation</li>
+        <li>Tuesday - Saturday: 11am- 6pm</li>
+        <li>Sunday: Closed</li>
+        <li>Monday: By Appointment Only</li>
+      </ul>
+      <ul>
+        <li><i class="fa fa-envelope-o fa-2x"></i>&nbsp;Address</li>
+        <li>516 Broadway 2nd Floor Ste 6</li>
+        <li>Kingston, New York 12401</li>
+        <li>P: (845) 853-8040</li>
+      </ul>
+    </article>
+    <article class="social columns small-12 medium-3 large-6 ">
+      <%= image_tag("theperfectfitlogo.png") %>
 
-			<i class="fa fa-twitter-square fa-5x"></i> &nbsp;
-		</article>
-	</footer>
+    </article>
+
+    <article class=" columns small-12 medium-3 large-2 left icons">
+      <a href="https://www.facebook.com/pages/The-Perfect-Fit-Just-for-You/604031709684433"><i class="fa fa-facebook-square fa-5x"></a></i> &nbsp;
+
+      <i class="fa fa-twitter-square fa-5x"></i> &nbsp;
+    </article>
+  </footer>
    <%= javascript_include_tag "application" %>
-		  <script>
-			  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-			  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-			  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-			  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-			  ga('create', 'UA-55424459-1', 'auto');
-			  ga('send', 'pageview');
+      <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create', 'UA-55424459-1', 'auto');
+        ga('send', 'pageview');
 
-		   </script>
+       </script>
 </body>
 
 </html>
