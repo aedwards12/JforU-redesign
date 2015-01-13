@@ -11,11 +11,6 @@ expand.addEventListener("click", toggle);
 var collapse = document.querySelector(".collapse");
 collapse.addEventListener("click", toggle);
 });
-$('#x-mas-add').trigger('reveal:close');
-
-setTimeout(function() {
-  $('#x-mas-add').foundation('reveal', 'open');
-}, 5000);
 
 function toggle(event){
 
