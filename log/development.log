@@ -80770,3 +80770,736 @@ Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2015-01-12 21:26:43 -05
 
 
 Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-01-12 21:26:43 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-03-14 09:54:07 -0400
+
+ActiveRecord::NoDatabaseError (FATAL:  database "project_development" does not exist
+Run `$ bin/rake db:create db:migrate` to create your database):
+  activerecord (4.1.4) lib/active_record/connection_adapters/postgresql_adapter.rb:898:in `rescue in connect'
+  activerecord (4.1.4) lib/active_record/connection_adapters/postgresql_adapter.rb:888:in `connect'
+  activerecord (4.1.4) lib/active_record/connection_adapters/postgresql_adapter.rb:568:in `initialize'
+  activerecord (4.1.4) lib/active_record/connection_adapters/postgresql_adapter.rb:41:in `new'
+  activerecord (4.1.4) lib/active_record/connection_adapters/postgresql_adapter.rb:41:in `postgresql_connection'
+  activerecord (4.1.4) lib/active_record/connection_adapters/abstract/connection_pool.rb:435:in `new_connection'
+  activerecord (4.1.4) lib/active_record/connection_adapters/abstract/connection_pool.rb:445:in `checkout_new_connection'
+  activerecord (4.1.4) lib/active_record/connection_adapters/abstract/connection_pool.rb:416:in `acquire_connection'
+  activerecord (4.1.4) lib/active_record/connection_adapters/abstract/connection_pool.rb:351:in `block in checkout'
+  /Users/anthonyedwardsjr/.rbenv/versions/2.2.1/lib/ruby/2.2.0/monitor.rb:211:in `mon_synchronize'
+  activerecord (4.1.4) lib/active_record/connection_adapters/abstract/connection_pool.rb:350:in `checkout'
+  activerecord (4.1.4) lib/active_record/connection_adapters/abstract/connection_pool.rb:265:in `block in connection'
+  /Users/anthonyedwardsjr/.rbenv/versions/2.2.1/lib/ruby/2.2.0/monitor.rb:211:in `mon_synchronize'
+  activerecord (4.1.4) lib/active_record/connection_adapters/abstract/connection_pool.rb:264:in `connection'
+  activerecord (4.1.4) lib/active_record/connection_adapters/abstract/connection_pool.rb:541:in `retrieve_connection'
+  activerecord (4.1.4) lib/active_record/connection_handling.rb:113:in `retrieve_connection'
+  activerecord (4.1.4) lib/active_record/connection_handling.rb:87:in `connection'
+  activerecord (4.1.4) lib/active_record/query_cache.rb:51:in `restore_query_cache_settings'
+  activerecord (4.1.4) lib/active_record/query_cache.rb:43:in `rescue in call'
+  activerecord (4.1.4) lib/active_record/query_cache.rb:32:in `call'
+  activerecord (4.1.4) lib/active_record/connection_adapters/abstract/connection_pool.rb:621:in `call'
+  activerecord (4.1.4) lib/active_record/migration.rb:380:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.1.4) lib/active_support/callbacks.rb:82:in `run_callbacks'
+  actionpack (4.1.4) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/remote_ip.rb:76:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.4) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.4) lib/rails/engine.rb:514:in `call'
+  railties (4.1.4) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  thin (1.6.3) lib/thin/connection.rb:86:in `block in pre_process'
+  thin (1.6.3) lib/thin/connection.rb:84:in `catch'
+  thin (1.6.3) lib/thin/connection.rb:84:in `pre_process'
+  thin (1.6.3) lib/thin/connection.rb:53:in `process'
+  thin (1.6.3) lib/thin/connection.rb:39:in `receive_data'
+  eventmachine (1.0.7) lib/eventmachine.rb:187:in `run_machine'
+  eventmachine (1.0.7) lib/eventmachine.rb:187:in `run'
+  thin (1.6.3) lib/thin/backends/base.rb:73:in `start'
+  thin (1.6.3) lib/thin/server.rb:162:in `start'
+  rack (1.5.2) lib/rack/handler/thin.rb:16:in `run'
+  rack (1.5.2) lib/rack/server.rb:264:in `start'
+  railties (4.1.4) lib/rails/commands/server.rb:69:in `start'
+  railties (4.1.4) lib/rails/commands/commands_tasks.rb:81:in `block in server'
+  railties (4.1.4) lib/rails/commands/commands_tasks.rb:76:in `tap'
+  railties (4.1.4) lib/rails/commands/commands_tasks.rb:76:in `server'
+  railties (4.1.4) lib/rails/commands/commands_tasks.rb:40:in `run_command!'
+  railties (4.1.4) lib/rails/commands.rb:17:in `<top (required)>'
+  bin/rails:8:in `require'
+  bin/rails:8:in `<top (required)>'
+  spring (1.3.3) lib/spring/client/rails.rb:27:in `load'
+  spring (1.3.3) lib/spring/client/rails.rb:27:in `call'
+  spring (1.3.3) lib/spring/client/command.rb:7:in `call'
+  spring (1.3.3) lib/spring/client.rb:26:in `run'
+  spring (1.3.3) bin/spring:48:in `<top (required)>'
+  spring (1.3.3) lib/spring/binstub.rb:11:in `load'
+  spring (1.3.3) lib/spring/binstub.rb:11:in `<top (required)>'
+  /Users/anthonyedwardsjr/.rbenv/versions/2.2.1/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:54:in `require'
+  /Users/anthonyedwardsjr/.rbenv/versions/2.2.1/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb:54:in `require'
+  bin/spring:16:in `<top (required)>'
+  bin/rails:3:in `load'
+  bin/rails:3:in `<main>'
+
+
+  Rendered /Users/anthonyedwardsjr/.rbenv/versions/2.2.1/lib/ruby/gems/2.2.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (5.6ms)
+  Rendered /Users/anthonyedwardsjr/.rbenv/versions/2.2.1/lib/ruby/gems/2.2.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.2ms)
+  Rendered /Users/anthonyedwardsjr/.rbenv/versions/2.2.1/lib/ruby/gems/2.2.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /Users/anthonyedwardsjr/.rbenv/versions/2.2.1/lib/ruby/gems/2.2.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (80.4ms)
+  [1m[36m (8.4ms)[0m  [1mCREATE TABLE "schema_migrations" ("version" character varying(255) NOT NULL) [0m
+  [1m[35m (2.3ms)[0m  CREATE UNIQUE INDEX  "unique_schema_migrations" ON "schema_migrations"  ("version")
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+Started GET "/" for 127.0.0.1 at 2015-03-14 09:55:00 -0400
+Processing by WelcomeController#home as HTML
+  Rendered shared/_inquiry_form.html.erb (1.1ms)
+  Rendered welcome/home.html.erb within layouts/application (21.7ms)
+Completed 500 Internal Server Error in 296ms
+
+ActionView::Template::Error (Invalid CSS after "...ules: $modules ": expected "}", was "!global;"
+  (in /Users/anthonyedwardsjr/Tech/Ruby/projects/JforU-redesign/app/assets/stylesheets/default.css.scss:13)):
+    10:     <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+    11:     <%= favicon_link_tag 'favco_jforu2.ico' %>
+    12: 
+    13:     <%= stylesheet_link_tag "application" %>
+    14:     <%= javascript_include_tag "vendor/modernizr" %>
+    15:     <%= csrf_meta_tags %>
+    16:   </head>
+  app/assets/stylesheets/default.css.scss:4
+  app/views/layouts/application.html.erb:13:in `_app_views_layouts_application_html_erb___4069774107367664925_70222155178160'
+
+
+  Rendered /Users/anthonyedwardsjr/.rbenv/versions/2.2.1/lib/ruby/gems/2.2.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.3ms)
+  Rendered /Users/anthonyedwardsjr/.rbenv/versions/2.2.1/lib/ruby/gems/2.2.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.9ms)
+  Rendered /Users/anthonyedwardsjr/.rbenv/versions/2.2.1/lib/ruby/gems/2.2.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (45.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-03-14 09:58:31 -0400
+Processing by WelcomeController#home as HTML
+  Rendered shared/_inquiry_form.html.erb (0.5ms)
+  Rendered welcome/home.html.erb within layouts/application (2.8ms)
+Completed 500 Internal Server Error in 68ms
+
+ActionView::Template::Error (Invalid CSS after "...ules: $modules ": expected "}", was "!global;"
+  (in /Users/anthonyedwardsjr/Tech/Ruby/projects/JforU-redesign/app/assets/stylesheets/default.css.scss:13)):
+    10:     <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+    11:     <%= favicon_link_tag 'favco_jforu2.ico' %>
+    12: 
+    13:     <%= stylesheet_link_tag "application" %>
+    14:     <%= javascript_include_tag "vendor/modernizr" %>
+    15:     <%= csrf_meta_tags %>
+    16:   </head>
+  app/assets/stylesheets/default.css.scss:4
+  app/views/layouts/application.html.erb:13:in `_app_views_layouts_application_html_erb___4069774107367664925_70222155178160'
+
+
+  Rendered /Users/anthonyedwardsjr/.rbenv/versions/2.2.1/lib/ruby/gems/2.2.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.5ms)
+  Rendered /Users/anthonyedwardsjr/.rbenv/versions/2.2.1/lib/ruby/gems/2.2.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.9ms)
+  Rendered /Users/anthonyedwardsjr/.rbenv/versions/2.2.1/lib/ruby/gems/2.2.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (47.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-03-14 09:58:46 -0400
+Processing by WelcomeController#home as HTML
+  Rendered shared/_inquiry_form.html.erb (1.0ms)
+  Rendered welcome/home.html.erb within layouts/application (11.6ms)
+Completed 500 Internal Server Error in 265ms
+
+ActionView::Template::Error (Invalid CSS after "...ules: $modules ": expected "}", was "!global;"
+  (in /Users/anthonyedwardsjr/Tech/Ruby/projects/JforU-redesign/app/assets/stylesheets/default.css.scss:13)):
+    10:     <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+    11:     <%= favicon_link_tag 'favco_jforu2.ico' %>
+    12: 
+    13:     <%= stylesheet_link_tag "application" %>
+    14:     <%= javascript_include_tag "vendor/modernizr" %>
+    15:     <%= csrf_meta_tags %>
+    16:   </head>
+  app/assets/stylesheets/default.css.scss:4
+  app/views/layouts/application.html.erb:13:in `_app_views_layouts_application_html_erb__1374195530259953645_70272258793940'
+
+
+  Rendered /Users/anthonyedwardsjr/.rbenv/versions/2.2.1/lib/ruby/gems/2.2.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.5ms)
+  Rendered /Users/anthonyedwardsjr/.rbenv/versions/2.2.1/lib/ruby/gems/2.2.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /Users/anthonyedwardsjr/.rbenv/versions/2.2.1/lib/ruby/gems/2.2.0/gems/actionpack-4.1.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (50.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-03-14 10:13:17 -0400
+
+ActionController::RoutingError (The controller-level `respond_to' feature has been extracted to the `responders` gem. Add it to your Gemfile to continue using this feature:
+  gem 'responders', '~> 2.0'
+Consult the Rails upgrade guide for details.):
+  app/controllers/welcome_controller.rb:2:in `<class:WelcomeController>'
+  app/controllers/welcome_controller.rb:1:in `<top (required)>'
+
+
+  Rendered /Users/anthonyedwardsjr/.rbenv/versions/2.2.1/lib/ruby/gems/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.5ms)
+  Rendered /Users/anthonyedwardsjr/.rbenv/versions/2.2.1/lib/ruby/gems/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.6ms)
+  Rendered /Users/anthonyedwardsjr/.rbenv/versions/2.2.1/lib/ruby/gems/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (8.9ms)
+  Rendered /Users/anthonyedwardsjr/.rbenv/versions/2.2.1/lib/ruby/gems/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (8.8ms)
+  Rendered /Users/anthonyedwardsjr/.rbenv/versions/2.2.1/lib/ruby/gems/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (151.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-03-14 10:14:38 -0400
+
+ActionController::RoutingError (The controller-level `respond_to' feature has been extracted to the `responders` gem. Add it to your Gemfile to continue using this feature:
+  gem 'responders', '~> 2.0'
+Consult the Rails upgrade guide for details.):
+  app/controllers/welcome_controller.rb:2:in `<class:WelcomeController>'
+  app/controllers/welcome_controller.rb:1:in `<top (required)>'
+
+
+  Rendered /Users/anthonyedwardsjr/.rbenv/versions/2.2.1/lib/ruby/gems/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.3ms)
+  Rendered /Users/anthonyedwardsjr/.rbenv/versions/2.2.1/lib/ruby/gems/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered /Users/anthonyedwardsjr/.rbenv/versions/2.2.1/lib/ruby/gems/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.2ms)
+  Rendered /Users/anthonyedwardsjr/.rbenv/versions/2.2.1/lib/ruby/gems/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /Users/anthonyedwardsjr/.rbenv/versions/2.2.1/lib/ruby/gems/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (108.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-03-14 10:14:56 -0400
+Processing by WelcomeController#home as HTML
+  Rendered shared/_inquiry_form.html.erb (0.9ms)
+  Rendered welcome/home.html.erb within layouts/application (20.5ms)
+  Rendered shared/_navigation.html.erb (0.3ms)
+Completed 200 OK in 3255ms (Views: 3240.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2015-03-14 10:15:00 -0400
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2015-03-14 10:15:00 -0400
+
+
+Started GET "/assets/forms.css?body=1" for 127.0.0.1 at 2015-03-14 10:15:00 -0400
+
+
+Started GET "/assets/foundation_and_overrides.css?body=1" for 127.0.0.1 at 2015-03-14 10:15:00 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2015-03-14 10:15:00 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2015-03-14 10:15:00 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-14 10:15:00 -0400
+
+
+Started GET "/assets/vendor/modernizr.js?body=1" for 127.0.0.1 at 2015-03-14 10:15:00 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-14 10:15:00 -0400
+
+
+Started GET "/assets/foundation/foundation.accordion.js?body=1" for 127.0.0.1 at 2015-03-14 10:15:00 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-14 10:15:00 -0400
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2015-03-14 10:15:00 -0400
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2015-03-14 10:15:00 -0400
+
+
+Started GET "/assets/foundation/foundation.alert.js?body=1" for 127.0.0.1 at 2015-03-14 10:15:00 -0400
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2015-03-14 10:15:00 -0400
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2015-03-14 10:15:00 -0400
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2015-03-14 10:15:00 -0400
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2015-03-14 10:15:00 -0400
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2015-03-14 10:15:00 -0400
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2015-03-14 10:15:00 -0400
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2015-03-14 10:15:00 -0400
+
+
+Started GET "/assets/foundation/foundation.slider.js?body=1" for 127.0.0.1 at 2015-03-14 10:15:00 -0400
+
+
+Started GET "/assets/foundation/foundation.offcanvas.js?body=1" for 127.0.0.1 at 2015-03-14 10:15:00 -0400
+
+
+Started GET "/assets/foundation/foundation.tab.js?body=1" for 127.0.0.1 at 2015-03-14 10:15:00 -0400
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2015-03-14 10:15:00 -0400
+
+
+Started GET "/assets/foundation/foundation.equalizer.js?body=1" for 127.0.0.1 at 2015-03-14 10:15:00 -0400
+
+
+Started GET "/assets/foundation/foundation.tooltip.js?body=1" for 127.0.0.1 at 2015-03-14 10:15:00 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2015-03-14 10:15:00 -0400
+
+
+Started GET "/assets/foundation.js?body=1" for 127.0.0.1 at 2015-03-14 10:15:00 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-14 10:15:00 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-14 10:15:00 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2015-03-14 10:15:00 -0400
+
+
+Started GET "/assets/ORCHID%20WIG%20BY%20ESTETICA%20DESIGNS.png" for 127.0.0.1 at 2015-03-14 10:15:00 -0400
+
+
+Started GET "/assets/Jill%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2015-03-14 10:15:00 -0400
+
+
+Started GET "/assets/SHEER%20TOUCH%20MODERATE%20HAIRPIECE%20copy.png" for 127.0.0.1 at 2015-03-14 10:15:00 -0400
+
+
+Started GET "/assets/Lisa%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2015-03-14 10:15:00 -0400
+
+
+Started GET "/assets/theperfectfitlogo.png" for 127.0.0.1 at 2015-03-14 10:15:00 -0400
+
+
+Started GET "/assets/beauty-backgrounds1.jpg" for 127.0.0.1 at 2015-03-14 10:15:00 -0400
+
+
+Started GET "/images/favco_jforu2.ico" for 127.0.0.1 at 2015-03-14 10:15:01 -0400
+
+ActionController::RoutingError (No route matches [GET] "/images/favco_jforu2.ico"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.0) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.0) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.0) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.0) lib/rack/content_length.rb:15:in `call'
+  thin (1.6.3) lib/thin/connection.rb:86:in `block in pre_process'
+  thin (1.6.3) lib/thin/connection.rb:84:in `catch'
+  thin (1.6.3) lib/thin/connection.rb:84:in `pre_process'
+  thin (1.6.3) lib/thin/connection.rb:53:in `process'
+  thin (1.6.3) lib/thin/connection.rb:39:in `receive_data'
+  eventmachine (1.0.7) lib/eventmachine.rb:187:in `run_machine'
+  eventmachine (1.0.7) lib/eventmachine.rb:187:in `run'
+  thin (1.6.3) lib/thin/backends/base.rb:73:in `start'
+  thin (1.6.3) lib/thin/server.rb:162:in `start'
+  rack (1.6.0) lib/rack/handler/thin.rb:19:in `run'
+  rack (1.6.0) lib/rack/server.rb:286:in `start'
+  railties (4.2.0) lib/rails/commands/server.rb:80:in `start'
+  railties (4.2.0) lib/rails/commands/commands_tasks.rb:80:in `block in server'
+  railties (4.2.0) lib/rails/commands/commands_tasks.rb:75:in `tap'
+  railties (4.2.0) lib/rails/commands/commands_tasks.rb:75:in `server'
+  railties (4.2.0) lib/rails/commands/commands_tasks.rb:39:in `run_command!'
+  railties (4.2.0) lib/rails/commands.rb:17:in `<top (required)>'
+  bin/rails:4:in `require'
+  bin/rails:4:in `<main>'
+
+
+  Rendered /Users/anthonyedwardsjr/.rbenv/versions/2.2.1/lib/ruby/gems/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.9ms)
+  Rendered /Users/anthonyedwardsjr/.rbenv/versions/2.2.1/lib/ruby/gems/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.1ms)
+  Rendered /Users/anthonyedwardsjr/.rbenv/versions/2.2.1/lib/ruby/gems/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (10.1ms)
+  Rendered /Users/anthonyedwardsjr/.rbenv/versions/2.2.1/lib/ruby/gems/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.7ms)
+  Rendered /Users/anthonyedwardsjr/.rbenv/versions/2.2.1/lib/ruby/gems/2.2.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (104.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-03-14 10:16:02 -0400
+Processing by WelcomeController#home as HTML
+  Rendered shared/_inquiry_form.html.erb (0.4ms)
+  Rendered welcome/home.html.erb within layouts/application (3.7ms)
+  Rendered shared/_navigation.html.erb (0.0ms)
+Completed 200 OK in 140ms (Views: 139.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2015-03-14 10:16:02 -0400
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2015-03-14 10:16:02 -0400
+
+
+Started GET "/assets/forms.css?body=1" for 127.0.0.1 at 2015-03-14 10:16:02 -0400
+
+
+Started GET "/assets/foundation_and_overrides.css?body=1" for 127.0.0.1 at 2015-03-14 10:16:02 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2015-03-14 10:16:02 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2015-03-14 10:16:02 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-14 10:16:02 -0400
+
+
+Started GET "/assets/vendor/modernizr.js?body=1" for 127.0.0.1 at 2015-03-14 10:16:02 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-14 10:16:02 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-14 10:16:02 -0400
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2015-03-14 10:16:02 -0400
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2015-03-14 10:16:02 -0400
+
+
+Started GET "/assets/foundation/foundation.accordion.js?body=1" for 127.0.0.1 at 2015-03-14 10:16:02 -0400
+
+
+Started GET "/assets/foundation/foundation.alert.js?body=1" for 127.0.0.1 at 2015-03-14 10:16:02 -0400
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2015-03-14 10:16:02 -0400
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2015-03-14 10:16:02 -0400
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2015-03-14 10:16:02 -0400
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2015-03-14 10:16:02 -0400
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2015-03-14 10:16:02 -0400
+
+
+Started GET "/assets/foundation/foundation.offcanvas.js?body=1" for 127.0.0.1 at 2015-03-14 10:16:02 -0400
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2015-03-14 10:16:02 -0400
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2015-03-14 10:16:02 -0400
+
+
+Started GET "/assets/foundation/foundation.slider.js?body=1" for 127.0.0.1 at 2015-03-14 10:16:02 -0400
+
+
+Started GET "/assets/foundation/foundation.tab.js?body=1" for 127.0.0.1 at 2015-03-14 10:16:02 -0400
+
+
+Started GET "/assets/foundation/foundation.tooltip.js?body=1" for 127.0.0.1 at 2015-03-14 10:16:02 -0400
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2015-03-14 10:16:02 -0400
+
+
+Started GET "/assets/foundation/foundation.equalizer.js?body=1" for 127.0.0.1 at 2015-03-14 10:16:02 -0400
+
+
+Started GET "/assets/foundation.js?body=1" for 127.0.0.1 at 2015-03-14 10:16:02 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-14 10:16:02 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2015-03-14 10:16:02 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2015-03-14 10:16:02 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-14 10:16:02 -0400
+
+
+Started GET "/assets/beauty-backgrounds1.jpg" for 127.0.0.1 at 2015-03-14 10:16:02 -0400
+
+
+Started GET "/assets/ORCHID%20WIG%20BY%20ESTETICA%20DESIGNS.png" for 127.0.0.1 at 2015-03-14 10:16:02 -0400
+
+
+Started GET "/assets/Jill%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2015-03-14 10:16:02 -0400
+
+
+Started GET "/assets/SHEER%20TOUCH%20MODERATE%20HAIRPIECE%20copy.png" for 127.0.0.1 at 2015-03-14 10:16:02 -0400
+
+
+Started GET "/assets/Lisa%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2015-03-14 10:16:02 -0400
+
+
+Started GET "/assets/theperfectfitlogo.png" for 127.0.0.1 at 2015-03-14 10:16:02 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-03-14 10:16:10 -0400
+Processing by WelcomeController#home as HTML
+  Rendered shared/_inquiry_form.html.erb (0.3ms)
+  Rendered welcome/home.html.erb within layouts/application (2.2ms)
+  Rendered shared/_navigation.html.erb (0.1ms)
+Completed 200 OK in 136ms (Views: 136.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2015-03-14 10:16:10 -0400
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2015-03-14 10:16:10 -0400
+
+
+Started GET "/assets/forms.css?body=1" for 127.0.0.1 at 2015-03-14 10:16:10 -0400
+
+
+Started GET "/assets/foundation_and_overrides.css?body=1" for 127.0.0.1 at 2015-03-14 10:16:10 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2015-03-14 10:16:10 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2015-03-14 10:16:10 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-14 10:16:10 -0400
+
+
+Started GET "/assets/vendor/modernizr.js?body=1" for 127.0.0.1 at 2015-03-14 10:16:10 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-14 10:16:10 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-14 10:16:10 -0400
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2015-03-14 10:16:10 -0400
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2015-03-14 10:16:10 -0400
+
+
+Started GET "/assets/foundation/foundation.accordion.js?body=1" for 127.0.0.1 at 2015-03-14 10:16:10 -0400
+
+
+Started GET "/assets/foundation/foundation.alert.js?body=1" for 127.0.0.1 at 2015-03-14 10:16:10 -0400
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2015-03-14 10:16:10 -0400
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2015-03-14 10:16:10 -0400
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2015-03-14 10:16:10 -0400
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2015-03-14 10:16:10 -0400
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2015-03-14 10:16:10 -0400
+
+
+Started GET "/assets/foundation/foundation.offcanvas.js?body=1" for 127.0.0.1 at 2015-03-14 10:16:10 -0400
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2015-03-14 10:16:10 -0400
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2015-03-14 10:16:10 -0400
+
+
+Started GET "/assets/foundation/foundation.slider.js?body=1" for 127.0.0.1 at 2015-03-14 10:16:10 -0400
+
+
+Started GET "/assets/foundation/foundation.tab.js?body=1" for 127.0.0.1 at 2015-03-14 10:16:10 -0400
+
+
+Started GET "/assets/foundation/foundation.tooltip.js?body=1" for 127.0.0.1 at 2015-03-14 10:16:10 -0400
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2015-03-14 10:16:10 -0400
+
+
+Started GET "/assets/foundation/foundation.equalizer.js?body=1" for 127.0.0.1 at 2015-03-14 10:16:10 -0400
+
+
+Started GET "/assets/foundation.js?body=1" for 127.0.0.1 at 2015-03-14 10:16:10 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-14 10:16:10 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2015-03-14 10:16:10 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2015-03-14 10:16:10 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-14 10:16:10 -0400
+
+
+Started GET "/assets/beauty-backgrounds1.jpg" for 127.0.0.1 at 2015-03-14 10:16:10 -0400
+
+
+Started GET "/assets/ORCHID%20WIG%20BY%20ESTETICA%20DESIGNS.png" for 127.0.0.1 at 2015-03-14 10:16:10 -0400
+
+
+Started GET "/assets/Jill%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2015-03-14 10:16:10 -0400
+
+
+Started GET "/assets/SHEER%20TOUCH%20MODERATE%20HAIRPIECE%20copy.png" for 127.0.0.1 at 2015-03-14 10:16:10 -0400
+
+
+Started GET "/assets/Lisa%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2015-03-14 10:16:10 -0400
+
+
+Started GET "/assets/theperfectfitlogo.png" for 127.0.0.1 at 2015-03-14 10:16:10 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-03-14 10:17:00 -0400
+Processing by WelcomeController#home as HTML
+  Rendered shared/_inquiry_form.html.erb (0.4ms)
+  Rendered welcome/home.html.erb within layouts/application (2.7ms)
+  Rendered shared/_navigation.html.erb (0.0ms)
+Completed 200 OK in 720ms (Views: 719.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2015-03-14 10:17:01 -0400
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2015-03-14 10:17:01 -0400
+
+
+Started GET "/assets/forms.css?body=1" for 127.0.0.1 at 2015-03-14 10:17:01 -0400
+
+
+Started GET "/assets/foundation_and_overrides.css?body=1" for 127.0.0.1 at 2015-03-14 10:17:01 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2015-03-14 10:17:01 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2015-03-14 10:17:01 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-14 10:17:01 -0400
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2015-03-14 10:17:01 -0400
+
+
+Started GET "/assets/vendor/modernizr.js?body=1" for 127.0.0.1 at 2015-03-14 10:17:01 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-14 10:17:01 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-14 10:17:01 -0400
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2015-03-14 10:17:01 -0400
+
+
+Started GET "/assets/foundation/foundation.accordion.js?body=1" for 127.0.0.1 at 2015-03-14 10:17:01 -0400
+
+
+Started GET "/assets/foundation/foundation.alert.js?body=1" for 127.0.0.1 at 2015-03-14 10:17:01 -0400
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2015-03-14 10:17:01 -0400
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2015-03-14 10:17:01 -0400
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2015-03-14 10:17:01 -0400
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2015-03-14 10:17:01 -0400
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2015-03-14 10:17:01 -0400
+
+
+Started GET "/assets/foundation/foundation.offcanvas.js?body=1" for 127.0.0.1 at 2015-03-14 10:17:01 -0400
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2015-03-14 10:17:01 -0400
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2015-03-14 10:17:01 -0400
+
+
+Started GET "/assets/foundation/foundation.slider.js?body=1" for 127.0.0.1 at 2015-03-14 10:17:01 -0400
+
+
+Started GET "/assets/foundation/foundation.tab.js?body=1" for 127.0.0.1 at 2015-03-14 10:17:01 -0400
+
+
+Started GET "/assets/foundation/foundation.tooltip.js?body=1" for 127.0.0.1 at 2015-03-14 10:17:01 -0400
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2015-03-14 10:17:01 -0400
+
+
+Started GET "/assets/foundation/foundation.equalizer.js?body=1" for 127.0.0.1 at 2015-03-14 10:17:01 -0400
+
+
+Started GET "/assets/foundation.js?body=1" for 127.0.0.1 at 2015-03-14 10:17:01 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-14 10:17:01 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2015-03-14 10:17:01 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2015-03-14 10:17:01 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-14 10:17:01 -0400
+
+
+Started GET "/assets/beauty-backgrounds1.jpg" for 127.0.0.1 at 2015-03-14 10:17:01 -0400
+
+
+Started GET "/assets/ORCHID%20WIG%20BY%20ESTETICA%20DESIGNS.png" for 127.0.0.1 at 2015-03-14 10:17:01 -0400
+
+
+Started GET "/assets/Jill%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2015-03-14 10:17:01 -0400
+
+
+Started GET "/assets/SHEER%20TOUCH%20MODERATE%20HAIRPIECE%20copy.png" for 127.0.0.1 at 2015-03-14 10:17:01 -0400
+
+
+Started GET "/assets/Lisa%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2015-03-14 10:17:01 -0400
+
+
+Started GET "/assets/theperfectfitlogo.png" for 127.0.0.1 at 2015-03-14 10:17:01 -0400
