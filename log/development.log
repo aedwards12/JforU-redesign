@@ -82113,3 +82113,125 @@ Started GET "/assets/ORCHID%20WIG%20BY%20ESTETICA%20DESIGNS.png" for 127.0.0.1 a
 
 
 Started GET "/assets/SHEER%20TOUCH%20MODERATE%20HAIRPIECE%20copy.png" for 127.0.0.1 at 2015-03-14 10:35:15 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-03-14 11:31:53 -0400
+Processing by WelcomeController#home as HTML
+  Rendered shared/_inquiry_form.html.erb (0.5ms)
+  Rendered welcome/home.html.erb within layouts/application (3.1ms)
+  Rendered shared/_navigation.html.erb (0.0ms)
+Completed 200 OK in 174ms (Views: 173.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2015-03-14 11:31:53 -0400
+
+
+Started GET "/assets/default.css?body=1" for 127.0.0.1 at 2015-03-14 11:31:53 -0400
+
+
+Started GET "/assets/forms.css?body=1" for 127.0.0.1 at 2015-03-14 11:31:53 -0400
+
+
+Started GET "/assets/foundation_and_overrides.css?body=1" for 127.0.0.1 at 2015-03-14 11:31:53 -0400
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2015-03-14 11:31:53 -0400
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2015-03-14 11:31:53 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-14 11:31:53 -0400
+
+
+Started GET "/assets/vendor/modernizr.js?body=1" for 127.0.0.1 at 2015-03-14 11:31:53 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-14 11:31:53 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-14 11:31:53 -0400
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2015-03-14 11:31:53 -0400
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2015-03-14 11:31:53 -0400
+
+
+Started GET "/assets/foundation/foundation.accordion.js?body=1" for 127.0.0.1 at 2015-03-14 11:31:53 -0400
+
+
+Started GET "/assets/foundation/foundation.alert.js?body=1" for 127.0.0.1 at 2015-03-14 11:31:53 -0400
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2015-03-14 11:31:53 -0400
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2015-03-14 11:31:53 -0400
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2015-03-14 11:31:53 -0400
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2015-03-14 11:31:53 -0400
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2015-03-14 11:31:53 -0400
+
+
+Started GET "/assets/foundation/foundation.offcanvas.js?body=1" for 127.0.0.1 at 2015-03-14 11:31:53 -0400
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2015-03-14 11:31:53 -0400
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2015-03-14 11:31:53 -0400
+
+
+Started GET "/assets/foundation/foundation.slider.js?body=1" for 127.0.0.1 at 2015-03-14 11:31:53 -0400
+
+
+Started GET "/assets/foundation/foundation.tab.js?body=1" for 127.0.0.1 at 2015-03-14 11:31:53 -0400
+
+
+Started GET "/assets/foundation/foundation.tooltip.js?body=1" for 127.0.0.1 at 2015-03-14 11:31:53 -0400
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2015-03-14 11:31:53 -0400
+
+
+Started GET "/assets/foundation/foundation.equalizer.js?body=1" for 127.0.0.1 at 2015-03-14 11:31:53 -0400
+
+
+Started GET "/assets/foundation.js?body=1" for 127.0.0.1 at 2015-03-14 11:31:53 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-14 11:31:53 -0400
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2015-03-14 11:31:53 -0400
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2015-03-14 11:31:53 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-14 11:31:53 -0400
+
+
+Started GET "/assets/ORCHID%20WIG%20BY%20ESTETICA%20DESIGNS.png" for 127.0.0.1 at 2015-03-14 11:31:53 -0400
+
+
+Started GET "/assets/Jill%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2015-03-14 11:31:53 -0400
+
+
+Started GET "/assets/SHEER%20TOUCH%20MODERATE%20HAIRPIECE%20copy.png" for 127.0.0.1 at 2015-03-14 11:31:53 -0400
+
+
+Started GET "/assets/Lisa%20(Futura)%20SSW%20IFW.png" for 127.0.0.1 at 2015-03-14 11:31:53 -0400
+
+
+Started GET "/assets/theperfectfitlogo.png" for 127.0.0.1 at 2015-03-14 11:31:53 -0400
+
+
+Started GET "/assets/beauty-backgrounds1.jpg" for 127.0.0.1 at 2015-03-14 11:31:53 -0400
